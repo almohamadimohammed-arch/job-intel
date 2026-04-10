@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-10T00:51:07.241916",
-  "count": 317,
+  "updated": "2026-04-10T11:15:56.816899",
+  "count": 310,
   "jobs": [
     {
       "id": "505de089c002",
@@ -16,7 +16,7 @@
       "sc": 0.59,
       "sm": "NEOM (نيوم). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/discoverneom/jobs/"
     },
     {
@@ -33,7 +33,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.cloudflare.com/5xx-error-landing"
     },
     {
@@ -50,7 +50,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.cloudflare.com/5xx-error-landing"
     },
     {
@@ -67,7 +67,7 @@
       "sc": 0.59,
       "sm": "ACWA Power (شركة أكوا باور). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/acwa-power-international/jobs/"
     },
     {
@@ -84,7 +84,7 @@
       "sc": 0.59,
       "sm": "Elm Company (شركة علم). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/elm-company/jobs/"
     },
     {
@@ -101,7 +101,7 @@
       "sc": 0.59,
       "sm": "HUMAIN (هيومين). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/humain-ai/jobs/"
     },
     {
@@ -118,7 +118,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.kfupm.edu.sa/about-us/our-story/leadership"
     },
     {
@@ -135,25 +135,8 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
-      "u": "https://www.kfupm.edu.sa/e-services/telephone-directory"
-    },
-    {
-      "id": "feafe033126d",
-      "src": "career",
-      "t": "Information Security Strategy",
-      "co": "Ministry of Justice",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
       "dt": "2026-04-10",
-      "u": "https://www.moj.gov.sa/English/Ministry/Pages/informationSecurityStrategy.aspx"
+      "u": "https://www.kfupm.edu.sa/e-services/telephone-directory"
     },
     {
       "id": "ed8583473fe6",
@@ -254,7 +237,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.cloudflare.com/5xx-error-landing"
     },
     {
@@ -271,7 +254,7 @@
       "sc": 0.55,
       "sm": "Capital Market Authority (هيئة السوق المالية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/cma-ksa/jobs/"
     },
     {
@@ -288,7 +271,7 @@
       "sc": 0.55,
       "sm": "Saudi Central Bank (البنك المركزي السعودي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/saudi-central-bank-sama/jobs/"
     },
     {
@@ -305,7 +288,7 @@
       "sc": 0.55,
       "sm": "Digital Government Authority (هيئة الحكومة الرقمية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/dga-sa/jobs/"
     },
     {
@@ -322,7 +305,7 @@
       "sc": 0.55,
       "sm": "Saudi Tourism Authority (الهيئة السعودية للسياحة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/saudi-tourism-authority/jobs/"
     },
     {
@@ -339,7 +322,7 @@
       "sc": 0.55,
       "sm": "Saudi Space Commission (الهيئة السعودية للفضاء). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/saudi-space-commission/jobs/"
     },
     {
@@ -356,7 +339,7 @@
       "sc": 0.55,
       "sm": "General Entertainment Authority (الهيئة العامة للترفيه). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/gea-ksa/jobs/"
     },
     {
@@ -373,7 +356,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.cloudflare.com/5xx-error-landing"
     },
     {
@@ -390,7 +373,7 @@
       "sc": 0.55,
       "sm": "National Competitiveness Center (المركز الوطني للتنافسية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/ncc-sa/jobs/"
     },
     {
@@ -407,7 +390,7 @@
       "sc": 0.55,
       "sm": "Riyadh Air (طيران الرياض). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/riyadhair/jobs/"
     },
     {
@@ -424,7 +407,7 @@
       "sc": 0.55,
       "sm": "CEER (سير). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/ceer-motors/jobs/"
     },
     {
@@ -441,7 +424,7 @@
       "sc": 0.55,
       "sm": "New Murabba (المربع الجديد). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/newmurabba/jobs/"
     },
     {
@@ -458,7 +441,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=m"
     },
     {
@@ -475,7 +458,7 @@
       "sc": 0.55,
       "sm": "Saudi Company for Artificial Intelligence (الشركة السعودية للذكاء الاصطناعي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/scai-sa/jobs/"
     },
     {
@@ -492,7 +475,7 @@
       "sc": 0.55,
       "sm": "Savvy Games Group (مجموعة سافي للألعاب). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/savvy-games-group/jobs/"
     },
     {
@@ -509,7 +492,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.experiencealula.com/en/hotels-and-stays/cloud7-residence"
     },
     {
@@ -526,7 +509,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.experiencealula.com/en/places-to-go/maraya"
     },
     {
@@ -543,7 +526,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.experiencealula.com/en/things-to-do/experiences/maraya-tour"
     },
     {
@@ -560,7 +543,7 @@
       "sc": 0.55,
       "sm": "Jeddah Central Development Company (شركة جدة المركزية للتطوير). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/jeddah-central/jobs/"
     },
     {
@@ -577,7 +560,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.kafd.sa/en/about-executive-management/"
     },
     {
@@ -594,7 +577,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=l"
     },
     {
@@ -611,7 +594,7 @@
       "sc": 0.55,
       "sm": "Saudi Electricity Company (SEC) (شركة الكهرباء السعودية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/saudi-electricity-company/jobs/"
     },
     {
@@ -628,7 +611,7 @@
       "sc": 0.55,
       "sm": "Saudi Arabian Mining Company (Maaden) (شركة التعدين العربية السعودية (معادن)). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/maaden/jobs/"
     },
     {
@@ -645,7 +628,7 @@
       "sc": 0.55,
       "sm": "Saudi Post (مؤسسة البريد السعودي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/saudipost/jobs/"
     },
     {
@@ -662,7 +645,7 @@
       "sc": 0.55,
       "sm": "Communications and Information Technology Commission (هيئة الاتصالات وتقنية المعلومات). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/citc-ksa/jobs/"
     },
     {
@@ -679,7 +662,7 @@
       "sc": 0.55,
       "sm": "Ministry of Communications and Information Technology (وزارة الاتصالات وتقنية المعلومات). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/mcit-ksa/jobs/"
     },
     {
@@ -696,7 +679,7 @@
       "sc": 0.55,
       "sm": "Real Estate Development Fund (صندوق التنمية العقارية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/redf-sa/jobs/"
     },
     {
@@ -713,7 +696,7 @@
       "sc": 0.55,
       "sm": "General Authority for Statistics (الهيئة العامة للإحصاء). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/gastat-sa/jobs/"
     },
     {
@@ -730,7 +713,7 @@
       "sc": 0.55,
       "sm": "Ministry of Municipal and Rural Affairs and Housing (وزارة الشؤون البلدية والقروية والإسكان). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/momrah-sa/jobs/"
     },
     {
@@ -747,7 +730,7 @@
       "sc": 0.55,
       "sm": "Ministry of Economy and Planning (وزارة الاقتصاد والتخطيط). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/mepsaudi/jobs/"
     },
     {
@@ -764,7 +747,7 @@
       "sc": 0.55,
       "sm": "National Center for Meteorology (المركز الوطني للأرصاد). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/ncm-sa/jobs/"
     },
     {
@@ -781,7 +764,7 @@
       "sc": 0.55,
       "sm": "Heritage Commission (هيئة التراث). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/heritage-commission-sa/jobs/"
     },
     {
@@ -798,7 +781,7 @@
       "sc": 0.55,
       "sm": "Royal Commission for Jubail and Yanbu (الهيئة الملكية للجبيل وينبع). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/rcjy/jobs/"
     },
     {
@@ -815,7 +798,7 @@
       "sc": 0.55,
       "sm": "Saudi Geological Survey (هيئة المساحة الجيولوجية السعودية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/saudi-geological-survey/jobs/"
     },
     {
@@ -832,7 +815,7 @@
       "sc": 0.55,
       "sm": "Ministry of Industry and Mineral Resources (وزارة الصناعة والثروة المعدنية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/mim-sa/jobs/"
     },
     {
@@ -849,7 +832,7 @@
       "sc": 0.55,
       "sm": "Ministry of Energy (وزارة الطاقة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/ministry-of-energy-sa/jobs/"
     },
     {
@@ -866,7 +849,7 @@
       "sc": 0.55,
       "sm": "Federation of Saudi Chambers (اتحاد الغرف التجارية السعودية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/saudi-chambers/jobs/"
     },
     {
@@ -883,7 +866,7 @@
       "sc": 0.55,
       "sm": "Saudi Authority for Industrial Cities and Technology Zones (الهيئة السعودية للمدن الصناعية ومناطق التقنية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/modon-sa/jobs/"
     },
     {
@@ -900,7 +883,7 @@
       "sc": 0.55,
       "sm": "Saudi Standards, Metrology and Quality Organization (الهيئة السعودية للمواصفات والمقاييس والجودة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/saso-sa/jobs/"
     },
     {
@@ -917,7 +900,7 @@
       "sc": 0.55,
       "sm": "Saudi Food and Drug Authority (الهيئة العامة للغذاء والدواء). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/sfda-sa/jobs/"
     },
     {
@@ -934,7 +917,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://misa.gov.sa/resources/international-investment-agreements/"
     },
     {
@@ -951,7 +934,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://misa.gov.sa/resources/procurements/"
     },
     {
@@ -968,7 +951,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://misa.gov.sa/resources/open-data/"
     },
     {
@@ -985,7 +968,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://misa.gov.sa/resources/international-investment-agreements/"
     },
     {
@@ -1002,7 +985,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://misa.gov.sa/resources/"
     },
     {
@@ -1019,7 +1002,7 @@
       "sc": 0.55,
       "sm": "Ministry of Commerce (وزارة التجارة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/ministry-of-commerce-saudiarabia/jobs/"
     },
     {
@@ -1036,7 +1019,7 @@
       "sc": 0.55,
       "sm": "Islamic University (الجامعة الإسلامية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/islamic-university-of-madinah/jobs/"
     },
     {
@@ -1053,7 +1036,7 @@
       "sc": 0.55,
       "sm": "National Center for Assessment (المركز الوطني للقياس). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/qiyas-sa/jobs/"
     },
     {
@@ -1070,7 +1053,7 @@
       "sc": 0.55,
       "sm": "Umm Al-Qura University (جامعة أم القرى). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/umm-al-qura-university/jobs/"
     },
     {
@@ -1087,7 +1070,7 @@
       "sc": 0.55,
       "sm": "Imam Muhammad ibn Saud Islamic University (جامعة الإمام محمد بن سعود الإسلامية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/imam-muhammad-ibn-saud-islamic-university/jobs/"
     },
     {
@@ -1104,7 +1087,7 @@
       "sc": 0.55,
       "sm": "Princess Nora bint Abdurrahman University (جامعة الأميرة نوره بنت عبدالرحمن). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/princess-nourah-bint-abdulrahman-university/jobs/"
     },
     {
@@ -1121,7 +1104,7 @@
       "sc": 0.55,
       "sm": "Baha University (جامعة الباحة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/baha-university/jobs/"
     },
     {
@@ -1138,7 +1121,7 @@
       "sc": 0.55,
       "sm": "Jouf University (جامعة الجوف). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/jouf-university/jobs/"
     },
     {
@@ -1155,7 +1138,7 @@
       "sc": 0.55,
       "sm": "Northern Border University (جامعة الحدود الشمالية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/northern-border-university/jobs/"
     },
     {
@@ -1172,7 +1155,7 @@
       "sc": 0.55,
       "sm": "Taif University (جامعة الطائف). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/taif-university/jobs/"
     },
     {
@@ -1189,7 +1172,7 @@
       "sc": 0.55,
       "sm": "Qassim University (جامعة القصيم). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/qassim-university/jobs/"
     },
     {
@@ -1206,7 +1189,7 @@
       "sc": 0.55,
       "sm": "Majmaah University (جامعة المجمعة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/majmaah-university/jobs/"
     },
     {
@@ -1223,7 +1206,7 @@
       "sc": 0.55,
       "sm": "King Khalid University (جامعة الملك خالد). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/king-khalid-university/jobs/"
     },
     {
@@ -1240,7 +1223,7 @@
       "sc": 0.55,
       "sm": "King Saud University (جامعة الملك سعود). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/king-saud-university/jobs/"
     },
     {
@@ -1257,7 +1240,7 @@
       "sc": 0.55,
       "sm": "King Abdulaziz University (جامعة الملك عبدالعزيز). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/king-abdulaziz-university/jobs/"
     },
     {
@@ -1274,7 +1257,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.kaust.edu.sa/en/study/masters-program"
     },
     {
@@ -1291,7 +1274,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.kaust.edu.sa/en/study/phd-program"
     },
     {
@@ -1308,7 +1291,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.kaust.edu.sa/en/study/division-programs#bioe"
     },
     {
@@ -1325,7 +1308,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.kaust.edu.sa/en/study/division-programs#ee"
     },
     {
@@ -1342,7 +1325,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.kaust.edu.sa/en/study/division-programs#ce"
     },
     {
@@ -1359,7 +1342,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.kaust.edu.sa/en/study/division-programs#esse"
     },
     {
@@ -1376,7 +1359,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.kaust.edu.sa/en/study/division-programs#me"
     },
     {
@@ -1393,7 +1376,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://vsrp.kaust.edu.sa/"
     },
     {
@@ -1410,7 +1393,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://enrichment.kaust.edu.sa/home/"
     },
     {
@@ -1427,7 +1410,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.kaust.edu.sa/en/research/sustainable-food-security"
     },
     {
@@ -1444,7 +1427,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.kaust.edu.sa/en/research/support#ps"
     },
     {
@@ -1461,7 +1444,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://bese.kaust.edu.sa/"
     },
     {
@@ -1478,7 +1461,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://cemse.kaust.edu.sa/"
     },
     {
@@ -1495,7 +1478,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://pse.kaust.edu.sa/"
     },
     {
@@ -1512,7 +1495,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.kfupm.edu.sa/study/graduate-programs-ms"
     },
     {
@@ -1529,7 +1512,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.kfupm.edu.sa/study/international-students"
     },
     {
@@ -1546,7 +1529,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.kfupm.edu.sa/study/international-students/apply-as-an-international-student"
     },
     {
@@ -1563,7 +1546,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.kfupm.edu.sa/research/research-and-business-collab"
     },
     {
@@ -1580,7 +1563,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.kfupm.edu.sa/research/research-and-business-collab/entrepreneurship-ecosystem"
     },
     {
@@ -1597,7 +1580,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.kfupm.edu.sa/about-us/campus-life/health-and-safety"
     },
     {
@@ -1614,7 +1597,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.kfupm.edu.sa/study/colleges/college-of-engineering---physics"
     },
     {
@@ -1631,7 +1614,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.kfupm.edu.sa/study/colleges/college-of-petroleum-engineering---geosciences"
     },
     {
@@ -1648,7 +1631,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.kfupm.edu.sa/study/colleges/kfupm-business-school"
     },
     {
@@ -1665,7 +1648,7 @@
       "sc": 0.55,
       "sm": "King Faisal University (جامعة الملك فيصل). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/king-faisal-university/jobs/"
     },
     {
@@ -1682,7 +1665,7 @@
       "sc": 0.55,
       "sm": "University of Tabuk (جامعة تبوك). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/university-of-tabuk/jobs/"
     },
     {
@@ -1699,7 +1682,7 @@
       "sc": 0.55,
       "sm": "Jazan University (جامعة جازان). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/jazan-university/jobs/"
     },
     {
@@ -1716,7 +1699,7 @@
       "sc": 0.55,
       "sm": "Hail University (جامعة حائل). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/hail-university/jobs/"
     },
     {
@@ -1733,7 +1716,7 @@
       "sc": 0.55,
       "sm": "Shaqra University (جامعة شقراء). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/shaqra-university/jobs/"
     },
     {
@@ -1750,7 +1733,7 @@
       "sc": 0.55,
       "sm": "Taiba University (جامعة طيبة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/taibah-university/jobs/"
     },
     {
@@ -1767,7 +1750,7 @@
       "sc": 0.55,
       "sm": "Najran University (جامعة نجران). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/najran-university/jobs/"
     },
     {
@@ -1784,7 +1767,7 @@
       "sc": 0.55,
       "sm": "Ministry of Education (وزارة التعليم). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/ministry-of-education-saudi-arabia/jobs/"
     },
     {
@@ -1801,7 +1784,7 @@
       "sc": 0.55,
       "sm": "King Abdulaziz Foundation for Research and Archives (دارة الملك عبدالعزيز). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/darah-org/jobs/"
     },
     {
@@ -1818,7 +1801,7 @@
       "sc": 0.55,
       "sm": "Ministry of Culture (وزارة الثقافة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/ministry-of-culture-sa/jobs/"
     },
     {
@@ -1835,7 +1818,7 @@
       "sc": 0.55,
       "sm": "Institute of Public Administration (معهد الإدارة العامة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/institute-of-public-administration-ksa/jobs/"
     },
     {
@@ -1852,7 +1835,7 @@
       "sc": 0.55,
       "sm": "Ministry of Human Resources and Social Development (وزارة الموارد البشرية والتنمية الاجتماعية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/ministry-of-human-resources-and-social-development-ksa/jobs/"
     },
     {
@@ -1869,7 +1852,7 @@
       "sc": 0.55,
       "sm": "Shura Council (مجلس الشورى). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/shura-council-sa/jobs/"
     },
     {
@@ -1886,7 +1869,7 @@
       "sc": 0.55,
       "sm": "Saudi Grains Organization (المؤسسة العامة للحبوب). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/saudi-grains-organization/jobs/"
     },
     {
@@ -1903,7 +1886,7 @@
       "sc": 0.55,
       "sm": "Agricultural Development Fund (صندوق التنمية الزراعية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/agricultural-development-fund-sa/jobs/"
     },
     {
@@ -1920,7 +1903,7 @@
       "sc": 0.55,
       "sm": "Ministry of Environment, Water, and Agriculture (وزارة البيئة والمياه والزراعة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/mewa-sa/jobs/"
     },
     {
@@ -1937,7 +1920,7 @@
       "sc": 0.55,
       "sm": "Ministry of Hajj and Umrah (وزارة الحج والعمرة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/ministry-of-hajj-and-umrah/jobs/"
     },
     {
@@ -1954,7 +1937,7 @@
       "sc": 0.55,
       "sm": "Ministry of Islamic Affairs, Dawah, and Guidance (وزارة الشؤون الإسلامية والدعوة والإرشاد). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/moia-sa/jobs/"
     },
     {
@@ -1971,7 +1954,7 @@
       "sc": 0.55,
       "sm": "Ministry of Sport (وزارة الرياضة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/ministry-of-sport-ksa/jobs/"
     },
     {
@@ -1988,7 +1971,7 @@
       "sc": 0.55,
       "sm": "Ministry of Foreign Affairs (وزارة الخارجية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/ministry-of-foreign-affairs-saudi-arabia/jobs/"
     },
     {
@@ -2005,7 +1988,7 @@
       "sc": 0.55,
       "sm": "Saudi Arabian Airlines Corporation (المؤسسة العامة للخطوط الجوية العربية السعودية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/saudia/jobs/"
     },
     {
@@ -2022,7 +2005,7 @@
       "sc": 0.55,
       "sm": "General Authority of Civil Aviation (الهيئة العامة للطيران المدني). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/gaca-sa/jobs/"
     },
     {
@@ -2039,7 +2022,7 @@
       "sc": 0.55,
       "sm": "Public Prosecution (النيابة العامة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/public-prosecution-sa/jobs/"
     },
     {
@@ -2056,7 +2039,7 @@
       "sc": 0.55,
       "sm": "Ministry of Interior (وزارة الداخلية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/saudimoi/jobs/"
     },
     {
@@ -2073,7 +2056,7 @@
       "sc": 0.55,
       "sm": "Ministry of Defense (وزارة الدفاع). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/ministry-of-defence-saudi-arabia/jobs/"
     },
     {
@@ -2090,7 +2073,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://careers.scfhs.org.sa/en/saudi-arabia/jobs/senior-internal-auditor-operational-and-financial-audit-department-1100081848/"
     },
     {
@@ -2107,25 +2090,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://careers.scfhs.org.sa/en/saudi-arabia/jobs/senior-cybersecurity-specialist-1100081751/"
-    },
-    {
-      "id": "0698c639dc34",
-      "src": "career",
-      "t": "Senior Institutional Excellence Specialist.Performance and Operational Excellence Department",
-      "co": "Saudi Commission for Health Specialties",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-04-09",
-      "u": "https://careers.scfhs.org.sa/en/saudi-arabia/jobs/senior-institutional-excellence-specialist-performance-and-operational-excellence-department-1100079647/"
     },
     {
       "id": "94f5b74ae458",
@@ -2141,7 +2107,7 @@
       "sc": 0.55,
       "sm": "Saudi Health Council (المجلس الصحي السعودي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/saudi-health-council/jobs/"
     },
     {
@@ -2158,7 +2124,7 @@
       "sc": 0.55,
       "sm": "Saudi Red Crescent Authority (هيئة الهلال الأحمر السعودي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/saudi-red-crescent-authority/jobs/"
     },
     {
@@ -2175,7 +2141,7 @@
       "sc": 0.55,
       "sm": "Ministry of Health (وزارة الصحة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/ministry-of-health-saudi-arabia/jobs/"
     },
     {
@@ -2192,7 +2158,7 @@
       "sc": 0.55,
       "sm": "General Court of Audit (الديوان العام للمحاسبة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-04-09",
+      "dt": "2026-04-10",
       "u": "https://www.linkedin.com/company/gca-sa/jobs/"
     },
     {
@@ -2230,9 +2196,9 @@
       "u": "https://www.linkedin.com/company/human-rights-commission-sa/jobs/"
     },
     {
-      "id": "705651d87100",
-      "src": "career",
-      "t": "Procurements",
+      "id": "3086d8347ab0",
+      "src": "gov",
+      "t": "Open Roles at Ministry of Justice",
       "co": "Ministry of Justice",
       "cy": "Riyadh",
       "ct": "SA",
@@ -2241,78 +2207,10 @@
       "sg": [],
       "sn": "mid",
       "sc": 0.55,
-      "sm": "",
+      "sm": "Ministry of Justice (وزارة العدل). Check LinkedIn for current openings.",
       "st": "new",
       "dt": "2026-04-10",
-      "u": "https://www.moj.gov.sa/English/Ministry/Pages/Procurement.aspx  "
-    },
-    {
-      "id": "a062ebc760a5",
-      "src": "career",
-      "t": "Collaborative Training Program",
-      "co": "Ministry of Justice",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Operations & Execution",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-04-10",
-      "u": "https://training.moj.gov.sa/\r\n  "
-    },
-    {
-      "id": "d7f630346d1a",
-      "src": "career",
-      "t": "Data Management and Privacy Office",
-      "co": "Ministry of Justice",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-04-10",
-      "u": "https://www.moj.gov.sa/english/Ministry/Departments/DataAndPrivacyManagementOffice/Pages/default.aspx  "
-    },
-    {
-      "id": "dc6fecfc13ed",
-      "src": "career",
-      "t": "Open Data",
-      "co": "Ministry of Justice",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-04-10",
-      "u": "https://www.moj.gov.sa/English/opendata/Pages/reports.aspx  "
-    },
-    {
-      "id": "b9443641c6e9",
-      "src": "career",
-      "t": "Saudi Open Data portal",
-      "co": "Ministry of Justice",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-04-10",
-      "u": "https://od.data.gov.sa/en\r\n\r\n  "
+      "u": "https://www.linkedin.com/company/moj-sa/jobs/"
     },
     {
       "id": "5657ef9717d1",
@@ -4406,23 +4304,6 @@
       "u": "https://www.linkedin.com/company/tahakom/jobs/"
     },
     {
-      "id": "eaede780d4f5",
-      "src": "linkedin",
-      "t": "Environment, Health and Safety Manager",
-      "co": "The Helicopter Company",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-04-10",
-      "u": "https://sa.linkedin.com/jobs/view/environment-health-and-safety-manager-at-the-helicopter-company-4382874238"
-    },
-    {
       "id": "642ce1d303f3",
       "src": "linkedin",
       "t": "AW139 Sr. Technician I Full-Time",
@@ -4746,9 +4627,9 @@
       "u": "https://careers.gdcme.com/ar/saudi-arabia/jobs/field-service-representative-fsr-1100069399/"
     },
     {
-      "id": "8dc0f987d922",
-      "src": "career",
-      "t": "Portfolio",
+      "id": "f92c16aa5017",
+      "src": "gov",
+      "t": "Open Roles at ASMA Capital",
       "co": "ASMA Capital",
       "cy": "Riyadh",
       "ct": "SA",
@@ -4757,10 +4638,10 @@
       "sg": [],
       "sn": "mid",
       "sc": 0.55,
-      "sm": "",
+      "sm": "ASMA Capital (شركة أسما كابيتال). Check LinkedIn for current openings.",
       "st": "new",
       "dt": "2026-04-10",
-      "u": "https://asmacapital.com/portfolio/"
+      "u": "https://www.linkedin.com/company/asma-capital/jobs/"
     },
     {
       "id": "16b1c16907b1",
