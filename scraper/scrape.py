@@ -1,24 +1,22 @@
 """
-Job Intel v4 — Entity-First Scraper
-For EACH of the 351 entities:
-  Step 1: Visit their website, find Careers page, extract job postings
-  Step 2: Search Bayt.com for that entity name
-  Step 3: Search LinkedIn for that entity name
-  Step 4: Search Wadhefa for that entity name
-ONLY jobs belonging to one of the 351 entities appear.
+Job Intel v5 — AI Agent Scraper (Gemini-Powered)
+For EACH of 351 entities:
+  1. Playwright opens their website
+  2. Gemini AI reads the page and finds the Careers link
+  3. Playwright clicks it
+  4. Gemini AI reads the career page and extracts real job titles
+  5. Playwright searches LinkedIn for entity name (last 30 days)
 """
-import json, hashlib, re, time, random, sys
+import json, hashlib, re, time, random, os, sys
 from datetime import date, datetime, timedelta
 from pathlib import Path
 from urllib.parse import quote_plus, urljoin
 import requests
-from bs4 import BeautifulSoup
 
-UA = [
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/125.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 Version/17.5 Safari/605.1.15",
-    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/125.0.0.0 Safari/537.36",
-]
+GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "")
+if not GEMINI_KEY:
+    print("WARNING: No GEMINI_API_KEY found. AI features disabled.")
+
 ENTITIES_PATH = Path(__file__).parent / "entities.json"
 ALL_ENTITIES = json.loads(ENTITIES_PATH.read_text(encoding="utf-8")) if ENTITIES_PATH.exists() else []
 print(f"Loaded {len(ALL_ENTITIES)} entities")
@@ -36,20 +34,53 @@ TIER1 = [
     "Saudi Company for Artificial Intelligence","CEER",
     "Saudi Central Bank","Capital Market Authority",
 ]
-session = requests.Session()
 
-def http_get(url, params=None, timeout=12):
-    session.headers.update({"User-Agent": random.choice(UA)})
-    time.sleep(random.uniform(1.2, 2.5))
+
+def ask_gemini(prompt, max_tokens=1000):
+    """Send a prompt to Gemini Flash and get a response."""
+    if not GEMINI_KEY:
+        return ""
     try:
-        r = session.get(url, params=params, timeout=timeout, allow_redirects=True)
-        r.raise_for_status()
-        return r
-    except Exception:
-        return None
+        resp = requests.post(
+            f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_KEY}",
+            json={
+                "contents": [{"parts": [{"text": prompt}]}],
+                "generationConfig": {"maxOutputTokens": max_tokens, "temperature": 0.1}
+            },
+            timeout=30
+        )
+        if resp.status_code == 200:
+            data = resp.json()
+            return data["candidates"][0]["content"]["parts"][0]["text"]
+        else:
+            print(f"    Gemini error {resp.status_code}: {resp.text[:200]}")
+            return ""
+    except Exception as e:
+        print(f"    Gemini exception: {e}")
+        return ""
+
+
+def simplify_html(html_text, max_chars=8000):
+    """Strip scripts, styles, and excess whitespace. Keep links and text."""
+    from bs4 import BeautifulSoup
+    soup = BeautifulSoup(html_text, "html.parser")
+    for tag in soup(["script", "style", "svg", "path", "noscript", "iframe", "img", "video", "audio"]):
+        tag.decompose()
+    links = []
+    for a in soup.find_all("a", href=True):
+        text = a.get_text(strip=True)
+        href = a.get("href", "")
+        if text and len(text) < 100:
+            links.append(f'<a href="{href}">{text}</a>')
+    text = soup.get_text(separator=" ", strip=True)
+    text = re.sub(r'\s+', ' ', text)[:3000]
+    links_text = "\n".join(links[:150])
+    return f"PAGE TEXT:\n{text}\n\nALL LINKS:\n{links_text}"
+
 
 def fingerprint(title, company):
     return hashlib.sha256(f"{title.lower().strip()}|{company.lower().strip()}".encode()).hexdigest()[:12]
+
 
 def parse_posted(text):
     if not text: return date.today().isoformat()
@@ -65,6 +96,7 @@ def parse_posted(text):
             return (today - d.get(unit, timedelta(0))).isoformat()
     return today.isoformat()
 
+
 def detect_seniority(title):
     t = title.lower()
     if any(w in t for w in ["chief","cto","ceo","cfo","vp","vice president"]): return "executive"
@@ -72,6 +104,7 @@ def detect_seniority(title):
     if any(w in t for w in ["senior","sr.","lead","principal","manager"]): return "senior"
     if any(w in t for w in ["junior","jr.","associate","intern","trainee"]): return "junior"
     return "mid"
+
 
 def detect_category(title):
     t = title.lower()
@@ -81,7 +114,9 @@ def detect_category(title):
     if any(w in t for w in ["finance","investment","fund","risk","banking","accounting","audit"]): return "Finance & Investment"
     return "Strategy & Consulting"
 
+
 HIGH_COS = {"pif","neom","qiddiya","stc","aramco","sdaia","bcg","mckinsey","bain","kaust","roshn","humain","elm","acwa","sabic"}
+
 
 def relevance_score(title, company):
     s = 0.55
@@ -91,46 +126,12 @@ def relevance_score(title, company):
         if c in company.lower(): s += 0.04; break
     return round(min(s, 0.98), 2)
 
+
 def extract_city(text):
     for c in ["Riyadh","Jeddah","Dammam","Dhahran","NEOM","Jubail","Mecca","Medina","Tabuk","Khobar","Thuwal"]:
         if c.lower() in (text or "").lower(): return c
     return "Riyadh"
 
-def is_valid_job_title(text):
-    t = text.strip()
-    if len(t) < 8 or len(t) > 160: return False
-    tl = t.lower()
-    garbage_exact = {
-        "about","about us","contact","contact us","home","menu","leadership",
-        "our leadership","board of directors","management","media center",
-        "media centre","news","press","blog","our history","history",
-        "our story","overview","who we are","our values","vision","mission",
-        "more information","learn more","read more","show details",
-        "get in touch","connect with us","follow us","privacy","terms",
-        "login","sign in","sign up","register","subscribe","search",
-        "english","arabic","top content","life at","our culture","benefits",
-        "investors","sustainability","partners","clients","services",
-        "products","solutions","locations","offices","settings","preferences",
-    }
-    if tl in garbage_exact: return False
-    for g in garbage_exact:
-        if tl.startswith(g + " ") and len(tl) < 30: return False
-    if t[0] in "#[{<@!": return False
-    if any(x in tl for x in ["http","www.",".com/",".sa/",".org/"]): return False
-    job_words = {
-        "manager","director","specialist","analyst","engineer","consultant",
-        "advisor","coordinator","officer","lead","supervisor","architect",
-        "developer","designer","planner","head","chief","vp","president",
-        "administrator","executive","associate","assistant","intern",
-        "trainee","accountant","auditor","controller","buyer","procurement",
-        "recruiter","legal","counsel","scientist","researcher","professor",
-        "lecturer","driver","technician","operator","mechanic","nurse",
-        "doctor","pharmacist","therapist","sales","marketing","business",
-        "project","program","portfolio","security","safety","compliance",
-        "risk","data","cloud","network","system","secretary","representative",
-        "foreman","inspector","surveyor","estimator","scheduler",
-    }
-    return any(w in tl for w in job_words)
 
 def build_job(title, company, city, source, url, posted="", summary=""):
     return {
@@ -151,206 +152,227 @@ def build_job(title, company, city, source, url, posted="", summary=""):
         "u": url,
     }
 
-def company_matches(found_company, entity_name):
-    if not found_company: return False
-    fc = found_company.lower().strip()
-    en = entity_name.lower().strip()
-    if en in fc or fc in en: return True
-    en_words = [w for w in en.split() if len(w) > 2]
-    for w in en_words:
-        if w in fc: return True
-    abbrevs = {
-        "stc": ["saudi telecom","stc group"],
-        "pif": ["public investment fund"],
-        "neom": ["neom"],
-        "sdaia": ["saudi data","artificial intelligence authority"],
-        "kaust": ["king abdullah university"],
-        "aramco": ["saudi aramco","aramco"],
-        "sabic": ["sabic"],
-        "elm": ["elm company"],
-        "roshn": ["roshn"],
-        "acwa": ["acwa power"],
-        "mcit": ["ministry of communications"],
-        "misa": ["ministry of investment"],
-        "nca": ["national cybersecurity"],
-        "rdia": ["research development and innovation"],
-    }
-    for abbr, matches in abbrevs.items():
-        if abbr in en.lower():
-            for m in matches:
-                if m in fc: return True
-    return False
 
-CAREER_PATHS = ["/careers","/en/careers","/career","/en/career","/jobs","/en/jobs","/join-us","/en/join-us","/vacancies","/opportunities"]
-CAREER_LINK_WORDS = ["career","careers","jobs","job opening","vacancies","join us","join our","work with us","hiring","opportunities","وظائف","التوظيف","فرص","انضم"]
+def ai_find_careers_link(page_html, entity_name, page_url):
+    """Ask Gemini to find the careers/jobs link on a webpage."""
+    simplified = simplify_html(page_html)
+    prompt = f"""You are looking at the website of "{entity_name}" ({page_url}).
+Your task: find the link that leads to their Careers page, Jobs page, or Vacancies page.
 
-def bayt_search(entity_name):
+{simplified}
+
+Respond with ONLY the href URL of the careers/jobs link. Nothing else.
+If the page is in Arabic, look for وظائف or التوظيف or فرص عمل or انضم إلينا links.
+If there is no careers/jobs link on this page, respond with exactly: NONE
+Do not explain. Just the URL or NONE."""
+
+    result = ask_gemini(prompt, max_tokens=200)
+    result = result.strip().strip('"').strip("'").strip("`")
+    if not result or "NONE" in result.upper() or len(result) > 500:
+        return None
+    if result.startswith("/"):
+        result = urljoin(page_url, result)
+    if not result.startswith("http"):
+        return None
+    return result
+
+
+def ai_extract_jobs(page_html, entity_name, page_url):
+    """Ask Gemini to extract job titles from a careers page."""
+    simplified = simplify_html(page_html)
+    prompt = f"""You are looking at the careers/jobs page of "{entity_name}" ({page_url}).
+Your task: extract ALL job vacancy titles listed on this page.
+
+{simplified}
+
+Respond with a JSON array of objects. Each object has:
+- "title": the exact job title as shown on the page
+- "url": the link to that specific job posting (full URL)
+
+Example: [{{"title": "Senior Data Engineer", "url": "https://example.com/jobs/123"}}]
+
+Rules:
+- Only include REAL job vacancy titles (like "Senior Manager", "Data Analyst", "Project Director")
+- Do NOT include navigation items like "About", "Home", "Leadership", "Contact"
+- Do NOT include department names or categories
+- If no job vacancies are found, respond with: []
+- Respond with ONLY the JSON array. No explanation."""
+
+    result = ask_gemini(prompt, max_tokens=2000)
+    result = result.strip()
+    if result.startswith("```"):
+        result = re.sub(r'^```\w*\n?', '', result)
+        result = re.sub(r'\n?```$', '', result)
+    result = result.strip()
+    try:
+        jobs_data = json.loads(result)
+        if isinstance(jobs_data, list):
+            return jobs_data
+    except Exception:
+        pass
+    return []
+
+
+def scrape_entity_ai(browser_page, entity_name, url):
+    """AI Agent: navigate entity website, find careers, extract jobs."""
+    if not url: return []
     jobs = []
-    resp = http_get("https://www.bayt.com/en/saudi-arabia/jobs/", params={"keyword": entity_name, "page": 1})
-    if not resp: return jobs
-    soup = BeautifulSoup(resp.text, "html.parser")
-    cards = soup.select("li[data-js-job]") or soup.select(".has-pointer-d") or soup.select("li.is-compact")
-    for card in cards:
+    print(f"    Opening {url}")
+
+    # Step 1: Load the main page
+    try:
+        browser_page.goto(url, wait_until="domcontentloaded", timeout=20000)
+        time.sleep(2)
+    except Exception as e:
+        print(f"    Could not load: {e}")
+        return jobs
+
+    main_html = browser_page.content()
+    current_url = browser_page.url
+
+    # Step 2: Ask Gemini to find the careers link
+    print(f"    Asking AI to find careers link...")
+    careers_url = ai_find_careers_link(main_html, entity_name, current_url)
+
+    if careers_url:
+        print(f"    AI found careers link: {careers_url}")
+        # Step 3: Navigate to careers page
         try:
-            a = card.select_one("h2 a") or card.select_one("a")
-            if not a: continue
-            title = a.get_text(strip=True)
-            if not is_valid_job_title(title): continue
-            href = a.get("href","")
-            url = f"https://www.bayt.com{href}" if href.startswith("/") else href
-            co_el = card.select_one(".t-mute a")
-            company = co_el.get_text(strip=True) if co_el else ""
-            if not company_matches(company, entity_name): continue
-            loc = card.select_one(".t-mute span")
-            location = loc.get_text(strip=True) if loc else ""
-            dt = card.select_one("time") or card.select_one(".t-small")
-            posted = dt.get_text(strip=True) if dt else ""
-            j = build_job(title, company, extract_city(location), "bayt", url, posted=posted)
+            browser_page.goto(careers_url, wait_until="domcontentloaded", timeout=20000)
+            time.sleep(3)
+            # Scroll to load lazy content
+            for _ in range(3):
+                browser_page.evaluate("window.scrollBy(0, 800)")
+                time.sleep(0.5)
+            careers_html = browser_page.content()
+            careers_page_url = browser_page.url
+        except Exception as e:
+            print(f"    Could not load careers page: {e}")
+            return jobs
+
+        # Step 4: Ask Gemini to extract job titles
+        print(f"    Asking AI to extract jobs...")
+        job_list = ai_extract_jobs(careers_html, entity_name, careers_page_url)
+
+        for job_data in job_list:
+            title = job_data.get("title", "").strip()
+            job_url = job_data.get("url", careers_page_url)
+            if not title or len(title) < 5: continue
+            if not job_url.startswith("http"):
+                job_url = urljoin(careers_page_url, job_url)
+            j = build_job(title, entity_name, "Riyadh", "career", job_url)
             jobs.append(j)
-        except Exception: continue
+
+        if jobs:
+            print(f"    AI extracted {len(jobs)} real jobs")
+    else:
+        print(f"    AI found no careers link")
+
     return jobs
 
-def linkedin_search(entity_name):
+
+def scrape_linkedin_entity(browser_page, entity_name):
+    """Search LinkedIn for jobs at this entity, last 30 days."""
+    jobs = []
+    search_query = quote_plus(entity_name)
+
+    try:
+        url = f"https://www.linkedin.com/jobs/search/?keywords={search_query}&location=Saudi%20Arabia&geoId=100459316&f_TPR=r2592000&sortBy=DD"
+        browser_page.goto(url, wait_until="domcontentloaded", timeout=20000)
+        time.sleep(3)
+
+        # Scroll to load more
+        for _ in range(3):
+            browser_page.evaluate("window.scrollBy(0, 600)")
+            time.sleep(1)
+
+        # Extract job cards
+        cards = browser_page.query_selector_all("li")
+        for card in cards:
+            try:
+                title_el = card.query_selector("h3") or card.query_selector(".base-search-card__title")
+                if not title_el: continue
+                title = title_el.inner_text().strip()
+                if not title or len(title) < 5: continue
+
+                company_el = card.query_selector("h4") or card.query_selector(".base-search-card__subtitle")
+                company = company_el.inner_text().strip() if company_el else ""
+
+                # Check company matches entity
+                if not company: continue
+                en = entity_name.lower()
+                co = company.lower()
+                match = en in co or co in en
+                if not match:
+                    en_words = [w for w in en.split() if len(w) > 2]
+                    match = any(w in co for w in en_words)
+                if not match: continue
+
+                link_el = card.query_selector("a[href*='/jobs/view/']") or card.query_selector("a.base-card__full-link")
+                href = link_el.get_attribute("href") if link_el else ""
+                job_url = href.split("?")[0] if href else ""
+                if not job_url.startswith("http"):
+                    job_url = f"https://www.linkedin.com{job_url}" if job_url else ""
+
+                loc_el = card.query_selector(".job-search-card__location")
+                location = loc_el.inner_text().strip() if loc_el else ""
+
+                time_el = card.query_selector("time")
+                posted = time_el.get_attribute("datetime") if time_el else ""
+
+                j = build_job(title, company, extract_city(location), "linkedin", job_url, posted=posted)
+                jobs.append(j)
+
+                if len(jobs) >= 25: break
+            except Exception: continue
+
+    except Exception as e:
+        print(f"    LinkedIn error: {e}")
+
+    return jobs
+
+
+def linkedin_public_api(entity_name):
+    """Fallback: use LinkedIn public API (no browser needed)."""
     jobs = []
     kw = quote_plus(entity_name + " Saudi Arabia")
-    resp = http_get(f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={kw}&location=Saudi%20Arabia&geoId=100459316&start=0&sortBy=DD")
-    if not resp: return jobs
-    soup = BeautifulSoup(resp.text, "html.parser")
-    for card in soup.select("li"):
-        try:
-            a = card.select_one("a.base-card__full-link") or card.select_one("a[href*='/jobs/view/']")
-            if not a: continue
-            t_el = card.select_one("h3") or card.select_one(".base-search-card__title")
-            title = t_el.get_text(strip=True) if t_el else ""
-            if not is_valid_job_title(title): continue
-            href = a.get("href","").split("?")[0]
-            url = href if href.startswith("http") else f"https://www.linkedin.com{href}"
-            co_el = card.select_one("h4") or card.select_one(".base-search-card__subtitle")
-            company = co_el.get_text(strip=True) if co_el else ""
-            if not company_matches(company, entity_name): continue
-            loc = card.select_one(".job-search-card__location")
-            location = loc.get_text(strip=True) if loc else ""
-            tm = card.select_one("time")
-            posted = tm.get("datetime","") if tm else ""
-            j = build_job(title, company, extract_city(location), "linkedin", url, posted=posted)
-            jobs.append(j)
-        except Exception: continue
-    return jobs
-
-def wadhefa_search(entity_name):
-    jobs = []
-    resp = http_get("https://www.wadhefa.com/en/jobs/search", params={"q": entity_name, "country": "saudi-arabia"})
-    if not resp: return jobs
-    soup = BeautifulSoup(resp.text, "html.parser")
-    for a_tag in soup.find_all("a", href=re.compile(r"(?i)/jobs?/|/position|/vacanc")):
-        try:
-            title = a_tag.get_text(strip=True)
-            if not is_valid_job_title(title): continue
-            href = a_tag.get("href","")
-            url = href if href.startswith("http") else urljoin("https://www.wadhefa.com", href)
-            j = build_job(title, entity_name, "Riyadh", "wadhefa", url)
-            jobs.append(j)
-        except Exception: continue
-    return jobs
-
-def scrape_entity_website(entity_name, url):
-    if not url: return []
-    jobs = []
-    resp = http_get(url, timeout=10)
-    if not resp: return jobs
-    soup = BeautifulSoup(resp.text, "html.parser")
-    career_url = None
-    for link in soup.find_all("a", href=True):
-        text = (link.get_text(strip=True) or "").lower()
-        href = (link.get("href") or "").lower()
-        if any(w in text for w in CAREER_LINK_WORDS) or any(w in href for w in ["career","jobs","vacanc","hiring","join"]):
-            raw_href = link.get("href","")
-            career_url = raw_href if raw_href.startswith("http") else urljoin(url, raw_href)
-            break
-    if not career_url:
-        base = url.rstrip("/")
-        for path in CAREER_PATHS:
-            test_resp = http_get(base + path, timeout=8)
-            if test_resp and test_resp.status_code == 200:
-                career_url = base + path
-                break
-    if not career_url: return jobs
-    resp2 = http_get(career_url, timeout=10)
-    if not resp2: return jobs
-    soup2 = BeautifulSoup(resp2.text, "html.parser")
-    for link in soup2.find_all("a", href=True):
-        text = link.get_text(strip=True)
-        if not is_valid_job_title(text): continue
-        href = link.get("href","")
-        job_url = href if href.startswith("http") else urljoin(career_url, href)
-        j = build_job(text, entity_name, "Riyadh", "career", job_url)
-        jobs.append(j)
-        if len(jobs) >= 15: break
-    return jobs
-
-def scrape_entity_website_playwright(browser_page, entity_name, url):
-    if not url: return []
-    jobs = []
     try:
-        browser_page.goto(url, wait_until="domcontentloaded", timeout=15000)
-        time.sleep(2)
-    except Exception:
-        return jobs
-    try:
-        links = browser_page.query_selector_all("a")
-        career_link = None
-        for link in links:
+        resp = requests.get(
+            f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={kw}&location=Saudi%20Arabia&geoId=100459316&start=0&sortBy=DD&f_TPR=r2592000",
+            headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/125.0.0.0 Safari/537.36"},
+            timeout=15
+        )
+        if not resp or resp.status_code != 200: return jobs
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(resp.text, "html.parser")
+        for card in soup.select("li"):
             try:
-                text = (link.inner_text() or "").strip().lower()
-                href = (link.get_attribute("href") or "").lower()
-                if any(w in text for w in CAREER_LINK_WORDS) or any(w in href for w in ["career","jobs","vacanc","hiring","join"]):
-                    if len(text) < 40:
-                        career_link = link
-                        break
-            except: continue
-        if career_link:
-            career_link.click()
-            time.sleep(3)
-            browser_page.wait_for_load_state("domcontentloaded", timeout=10000)
-            time.sleep(2)
-        else:
-            base = url.rstrip("/")
-            found = False
-            for path in CAREER_PATHS[:4]:
-                try:
-                    browser_page.goto(base + path, wait_until="domcontentloaded", timeout=10000)
-                    time.sleep(2)
-                    title = browser_page.title() or ""
-                    if "404" not in title and "not found" not in title.lower():
-                        found = True
-                        break
-                except: continue
-            if not found: return jobs
-    except Exception:
-        return jobs
-    try:
-        for _ in range(3):
-            browser_page.evaluate("window.scrollBy(0, 800)")
-            time.sleep(0.5)
-    except: pass
-    try:
-        current_url = browser_page.url
-        all_links = browser_page.query_selector_all("a")
-        seen = set()
-        for link in all_links:
-            try:
-                text = (link.inner_text() or "").strip()
-                if not is_valid_job_title(text): continue
-                if text.lower() in seen: continue
-                seen.add(text.lower())
-                href = link.get_attribute("href") or ""
-                job_url = href if href.startswith("http") else urljoin(current_url, href)
-                j = build_job(text, entity_name, "Riyadh", "career", job_url)
+                a = card.select_one("a.base-card__full-link") or card.select_one("a[href*='/jobs/view/']")
+                if not a: continue
+                t_el = card.select_one("h3") or card.select_one(".base-search-card__title")
+                title = t_el.get_text(strip=True) if t_el else ""
+                if not title or len(title) < 5: continue
+                href = a.get("href","").split("?")[0]
+                url = href if href.startswith("http") else f"https://www.linkedin.com{href}"
+                co_el = card.select_one("h4") or card.select_one(".base-search-card__subtitle")
+                company = co_el.get_text(strip=True) if co_el else ""
+                en = entity_name.lower()
+                co = company.lower()
+                match = en in co or co in en
+                if not match:
+                    en_words = [w for w in en.split() if len(w) > 2]
+                    match = any(w in co for w in en_words)
+                if not match: continue
+                loc = card.select_one(".job-search-card__location")
+                location = loc.get_text(strip=True) if loc else ""
+                tm = card.select_one("time")
+                posted = tm.get("datetime","") if tm else ""
+                j = build_job(title, company, extract_city(location), "linkedin", url, posted=posted)
                 jobs.append(j)
-                if len(jobs) >= 15: break
-            except: continue
-    except: pass
+            except Exception: continue
+    except Exception: pass
     return jobs
+
 
 def deduplicate(jobs):
     seen = set()
@@ -361,34 +383,41 @@ def deduplicate(jobs):
             out.append(j)
     return out
 
-def process_entity(entity, use_playwright=False, browser_page=None):
+
+def process_entity(entity, browser_page=None, use_ai=False):
+    """Process one entity: AI website scrape + LinkedIn search."""
     name = entity["name"]
     url = entity.get("url","")
     linkedin = entity.get("linkedin","")
     name_ar = entity.get("name_ar","")
     jobs = []
-    if use_playwright and browser_page and url:
+
+    # Step 1: AI-powered website scraping
+    if use_ai and browser_page and url and GEMINI_KEY:
         try:
-            website_jobs = scrape_entity_website_playwright(browser_page, name, url)
+            website_jobs = scrape_entity_ai(browser_page, name, url)
             jobs.extend(website_jobs)
-        except: pass
-    elif url:
+        except Exception as e:
+            print(f"    Website error: {e}")
+
+    # Step 2: LinkedIn search
+    if browser_page:
         try:
-            website_jobs = scrape_entity_website(name, url)
-            jobs.extend(website_jobs)
-        except: pass
-    try:
-        bayt_jobs = bayt_search(name)
-        jobs.extend(bayt_jobs)
-    except: pass
-    try:
-        li_jobs = linkedin_search(name)
+            li_jobs = scrape_linkedin_entity(browser_page, name)
+            jobs.extend(li_jobs)
+            if li_jobs:
+                print(f"    LinkedIn: {len(li_jobs)} jobs")
+        except Exception:
+            # Fallback to public API
+            li_jobs = linkedin_public_api(name)
+            jobs.extend(li_jobs)
+    else:
+        li_jobs = linkedin_public_api(name)
         jobs.extend(li_jobs)
-    except: pass
-    try:
-        w_jobs = wadhefa_search(name)
-        jobs.extend(w_jobs)
-    except: pass
+        if li_jobs:
+            print(f"    LinkedIn API: {len(li_jobs)} jobs")
+
+    # Step 3: Fallback — LinkedIn portal link
     if not jobs and linkedin:
         j = build_job(
             f"Open Roles at {name}", name, "Riyadh", "gov",
@@ -396,62 +425,86 @@ def process_entity(entity, use_playwright=False, browser_page=None):
             summary=f"{name} ({name_ar}). Check LinkedIn for current openings."
         )
         jobs.append(j)
+
+    # Rate limit for Gemini (15 req/min free tier)
+    time.sleep(2)
+
     return jobs
+
 
 def main():
     print(f"{'='*60}")
-    print(f"JOB INTEL v4 — ENTITY-FIRST SCRAPER")
+    print(f"JOB INTEL v5 — AI AGENT (Gemini)")
     print(f"{datetime.now().strftime('%Y-%m-%d %H:%M')}")
     print(f"Processing {len(ALL_ENTITIES)} entities")
+    print(f"Gemini API: {'ACTIVE' if GEMINI_KEY else 'NOT SET'}")
     print(f"{'='*60}")
+
     all_jobs = []
     tier1_lower = [n.lower() for n in TIER1]
-    print(f"\n[TIER 1] Priority entities (browser + all boards)")
+
+    # Launch browser
     browser_page = None
     try:
         from playwright.sync_api import sync_playwright
         pw = sync_playwright().start()
-        browser = pw.chromium.launch(headless=True, args=["--no-sandbox","--disable-dev-shm-usage"])
+        browser = pw.chromium.launch(headless=True, args=["--no-sandbox","--disable-dev-shm-usage","--disable-gpu"])
         browser_page = browser.new_page()
-        browser_page.set_default_timeout(12000)
-        print("  Playwright browser ready")
+        browser_page.set_default_timeout(15000)
+        print("Browser ready\n")
     except Exception as e:
-        print(f"  Playwright not available ({e}), using HTTP only")
+        print(f"Playwright not available ({e}), using API only\n")
         browser_page = None
-    tier1_names_found = set()
+
+    # TIER 1: Priority entities — full AI + LinkedIn
+    print(f"[TIER 1] {len(TIER1)} priority entities (AI agent + LinkedIn)")
+    print("="*60)
+    tier1_found = set()
     for entity in ALL_ENTITIES:
         name = entity["name"]
         is_tier1 = any(t in name.lower() for t in tier1_lower)
         if not is_tier1: continue
-        print(f"  -> {name}")
-        jobs = process_entity(entity, use_playwright=(browser_page is not None), browser_page=browser_page)
+        print(f"\n>> {name}")
+        jobs = process_entity(entity, browser_page=browser_page, use_ai=True)
         all_jobs.extend(jobs)
-        tier1_names_found.add(name.lower())
+        tier1_found.add(name.lower())
         real = [j for j in jobs if "Open Roles" not in j["t"]]
-        if real:
-            print(f"     {len(real)} real jobs found")
-    remaining = [e for e in ALL_ENTITIES if e["name"].lower() not in tier1_names_found]
-    print(f"\n[TIER 2] {len(remaining)} remaining entities (HTTP + job boards)")
+        print(f"   RESULT: {len(real)} real jobs, {len(jobs)} total")
+
+    # TIER 2: Remaining entities — LinkedIn only (no AI to save quota)
+    remaining = [e for e in ALL_ENTITIES if e["name"].lower() not in tier1_found]
+    print(f"\n\n[TIER 2] {len(remaining)} remaining entities (LinkedIn only)")
+    print("="*60)
     for i, entity in enumerate(remaining):
         name = entity["name"]
         if (i+1) % 25 == 0:
-            print(f"  [{i+1}/{len(remaining)}] {name}...")
-        jobs = process_entity(entity, use_playwright=False, browser_page=None)
+            print(f"\n  [{i+1}/{len(remaining)}] {name}")
+        jobs = process_entity(entity, browser_page=browser_page, use_ai=False)
         all_jobs.extend(jobs)
+
+    # Cleanup
     if browser_page:
         try:
             browser_page.close()
             browser.close()
             pw.stop()
         except: pass
+
+    # Deduplicate and sort
     unique = deduplicate(all_jobs)
     unique.sort(key=lambda j: j["sc"], reverse=True)
+
     real_jobs = [j for j in unique if "Open Roles" not in j["t"]]
     portal_links = [j for j in unique if "Open Roles" in j["t"]]
-    print(f"\n{'='*60}")
-    print(f"Real job postings: {len(real_jobs)}")
-    print(f"Portal links: {len(portal_links)}")
-    print(f"Total unique: {len(unique)}")
+
+    print(f"\n\n{'='*60}")
+    print(f"FINAL RESULTS:")
+    print(f"  Real job postings: {len(real_jobs)}")
+    print(f"  Portal links: {len(portal_links)}")
+    print(f"  Total unique: {len(unique)}")
+    print(f"{'='*60}")
+
+    # Preserve user statuses
     prev = Path("jobs.json")
     sm = {}
     if prev.exists():
@@ -464,9 +517,11 @@ def main():
     for j in unique:
         if j["id"] in sm:
             j["st"] = sm[j["id"]]
+
     out = {"updated":datetime.now().isoformat(),"count":len(unique),"jobs":unique[:500]}
     Path("jobs.json").write_text(json.dumps(out, ensure_ascii=False, indent=2))
     print(f"\nWrote {out['count']} jobs to jobs.json")
+
 
 if __name__ == "__main__":
     main()
