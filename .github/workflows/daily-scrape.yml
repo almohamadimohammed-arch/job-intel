@@ -9,6 +9,8 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     timeout-minutes: 360
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
