@@ -34,10 +34,10 @@ TIER1 = [
     "Saudi Company for Artificial Intelligence","CEER",
     "Saudi Central Bank","Capital Market Authority",
 ]
+session = requests.Session()
 
 
 def ask_gemini(prompt, max_tokens=1000):
-    """Send a prompt to Gemini Flash and get a response."""
     if not GEMINI_KEY:
         return ""
     try:
@@ -61,7 +61,6 @@ def ask_gemini(prompt, max_tokens=1000):
 
 
 def simplify_html(html_text, max_chars=8000):
-    """Strip scripts, styles, and excess whitespace. Keep links and text."""
     from bs4 import BeautifulSoup
     soup = BeautifulSoup(html_text, "html.parser")
     for tag in soup(["script", "style", "svg", "path", "noscript", "iframe", "img", "video", "audio"]):
@@ -154,7 +153,6 @@ def build_job(title, company, city, source, url, posted="", summary=""):
 
 
 def ai_find_careers_link(page_html, entity_name, page_url):
-    """Ask Gemini to find the careers/jobs link on a webpage."""
     simplified = simplify_html(page_html)
     prompt = f"""You are looking at the website of "{entity_name}" ({page_url}).
 Your task: find the link that leads to their Careers page, Jobs page, or Vacancies page.
@@ -178,7 +176,6 @@ Do not explain. Just the URL or NONE."""
 
 
 def ai_extract_jobs(page_html, entity_name, page_url):
-    """Ask Gemini to extract job titles from a careers page."""
     simplified = simplify_html(page_html)
     prompt = f"""You are looking at the careers/jobs page of "{entity_name}" ({page_url}).
 Your task: extract ALL job vacancy titles listed on this page.
@@ -214,12 +211,9 @@ Rules:
 
 
 def scrape_entity_ai(browser_page, entity_name, url):
-    """AI Agent: navigate entity website, find careers, extract jobs."""
     if not url: return []
     jobs = []
     print(f"    Opening {url}")
-
-    # Step 1: Load the main page
     try:
         browser_page.goto(url, wait_until="domcontentloaded", timeout=20000)
         time.sleep(2)
@@ -230,17 +224,14 @@ def scrape_entity_ai(browser_page, entity_name, url):
     main_html = browser_page.content()
     current_url = browser_page.url
 
-    # Step 2: Ask Gemini to find the careers link
     print(f"    Asking AI to find careers link...")
     careers_url = ai_find_careers_link(main_html, entity_name, current_url)
 
     if careers_url:
         print(f"    AI found careers link: {careers_url}")
-        # Step 3: Navigate to careers page
         try:
             browser_page.goto(careers_url, wait_until="domcontentloaded", timeout=20000)
             time.sleep(3)
-            # Scroll to load lazy content
             for _ in range(3):
                 browser_page.evaluate("window.scrollBy(0, 800)")
                 time.sleep(0.5)
@@ -250,7 +241,6 @@ def scrape_entity_ai(browser_page, entity_name, url):
             print(f"    Could not load careers page: {e}")
             return jobs
 
-        # Step 4: Ask Gemini to extract job titles
         print(f"    Asking AI to extract jobs...")
         job_list = ai_extract_jobs(careers_html, entity_name, careers_page_url)
 
@@ -272,21 +262,15 @@ def scrape_entity_ai(browser_page, entity_name, url):
 
 
 def scrape_linkedin_entity(browser_page, entity_name):
-    """Search LinkedIn for jobs at this entity, last 30 days."""
     jobs = []
     search_query = quote_plus(entity_name)
-
     try:
         url = f"https://www.linkedin.com/jobs/search/?keywords={search_query}&location=Saudi%20Arabia&geoId=100459316&f_TPR=r2592000&sortBy=DD"
         browser_page.goto(url, wait_until="domcontentloaded", timeout=20000)
         time.sleep(3)
-
-        # Scroll to load more
         for _ in range(3):
             browser_page.evaluate("window.scrollBy(0, 600)")
             time.sleep(1)
-
-        # Extract job cards
         cards = browser_page.query_selector_all("li")
         for card in cards:
             try:
@@ -294,11 +278,8 @@ def scrape_linkedin_entity(browser_page, entity_name):
                 if not title_el: continue
                 title = title_el.inner_text().strip()
                 if not title or len(title) < 5: continue
-
                 company_el = card.query_selector("h4") or card.query_selector(".base-search-card__subtitle")
                 company = company_el.inner_text().strip() if company_el else ""
-
-                # Check company matches entity
                 if not company: continue
                 en = entity_name.lower()
                 co = company.lower()
@@ -307,33 +288,25 @@ def scrape_linkedin_entity(browser_page, entity_name):
                     en_words = [w for w in en.split() if len(w) > 2]
                     match = any(w in co for w in en_words)
                 if not match: continue
-
                 link_el = card.query_selector("a[href*='/jobs/view/']") or card.query_selector("a.base-card__full-link")
                 href = link_el.get_attribute("href") if link_el else ""
                 job_url = href.split("?")[0] if href else ""
                 if not job_url.startswith("http"):
                     job_url = f"https://www.linkedin.com{job_url}" if job_url else ""
-
                 loc_el = card.query_selector(".job-search-card__location")
                 location = loc_el.inner_text().strip() if loc_el else ""
-
                 time_el = card.query_selector("time")
                 posted = time_el.get_attribute("datetime") if time_el else ""
-
                 j = build_job(title, company, extract_city(location), "linkedin", job_url, posted=posted)
                 jobs.append(j)
-
                 if len(jobs) >= 25: break
             except Exception: continue
-
     except Exception as e:
         print(f"    LinkedIn error: {e}")
-
     return jobs
 
 
 def linkedin_public_api(entity_name):
-    """Fallback: use LinkedIn public API (no browser needed)."""
     jobs = []
     kw = quote_plus(entity_name + " Saudi Arabia")
     try:
@@ -385,22 +358,17 @@ def deduplicate(jobs):
 
 
 def process_entity(entity, browser_page=None, use_ai=False):
-    """Process one entity: AI website scrape + LinkedIn search."""
     name = entity["name"]
     url = entity.get("url","")
     linkedin = entity.get("linkedin","")
     name_ar = entity.get("name_ar","")
     jobs = []
-
-    # Step 1: AI-powered website scraping
     if use_ai and browser_page and url and GEMINI_KEY:
         try:
             website_jobs = scrape_entity_ai(browser_page, name, url)
             jobs.extend(website_jobs)
         except Exception as e:
             print(f"    Website error: {e}")
-
-    # Step 2: LinkedIn search
     if browser_page:
         try:
             li_jobs = scrape_linkedin_entity(browser_page, name)
@@ -408,7 +376,6 @@ def process_entity(entity, browser_page=None, use_ai=False):
             if li_jobs:
                 print(f"    LinkedIn: {len(li_jobs)} jobs")
         except Exception:
-            # Fallback to public API
             li_jobs = linkedin_public_api(name)
             jobs.extend(li_jobs)
     else:
@@ -416,8 +383,6 @@ def process_entity(entity, browser_page=None, use_ai=False):
         jobs.extend(li_jobs)
         if li_jobs:
             print(f"    LinkedIn API: {len(li_jobs)} jobs")
-
-    # Step 3: Fallback — LinkedIn portal link
     if not jobs and linkedin:
         j = build_job(
             f"Open Roles at {name}", name, "Riyadh", "gov",
@@ -425,10 +390,7 @@ def process_entity(entity, browser_page=None, use_ai=False):
             summary=f"{name} ({name_ar}). Check LinkedIn for current openings."
         )
         jobs.append(j)
-
-    # Rate limit for Gemini (15 req/min free tier)
     time.sleep(2)
-
     return jobs
 
 
@@ -436,14 +398,13 @@ def main():
     print(f"{'='*60}")
     print(f"JOB INTEL v5 — AI AGENT (Gemini)")
     print(f"{datetime.now().strftime('%Y-%m-%d %H:%M')}")
-    print(f"Processing {len(ALL_ENTITIES)} entities")
+    print(f"Processing ALL {len(ALL_ENTITIES)} entities with AI")
     print(f"Gemini API: {'ACTIVE' if GEMINI_KEY else 'NOT SET'}")
     print(f"{'='*60}")
 
     all_jobs = []
     tier1_lower = [n.lower() for n in TIER1]
 
-    # Launch browser
     browser_page = None
     try:
         from playwright.sync_api import sync_playwright
@@ -456,7 +417,6 @@ def main():
         print(f"Playwright not available ({e}), using API only\n")
         browser_page = None
 
-    # TIER 1: Priority entities — full AI + LinkedIn
     print(f"[TIER 1] {len(TIER1)} priority entities (AI agent + LinkedIn)")
     print("="*60)
     tier1_found = set()
@@ -471,18 +431,19 @@ def main():
         real = [j for j in jobs if "Open Roles" not in j["t"]]
         print(f"   RESULT: {len(real)} real jobs, {len(jobs)} total")
 
-    # TIER 2: Remaining entities — LinkedIn only (no AI to save quota)
     remaining = [e for e in ALL_ENTITIES if e["name"].lower() not in tier1_found]
-    print(f"\n\n[TIER 2] {len(remaining)} remaining entities (LinkedIn only)")
+    print(f"\n\n[TIER 2] {len(remaining)} remaining entities (AI agent + LinkedIn)")
     print("="*60)
     for i, entity in enumerate(remaining):
         name = entity["name"]
-        if (i+1) % 25 == 0:
+        if (i+1) % 25 == 0 or i == 0:
             print(f"\n  [{i+1}/{len(remaining)}] {name}")
-        jobs = process_entity(entity, browser_page=browser_page, use_ai=False)
+        jobs = process_entity(entity, browser_page=browser_page, use_ai=True)
         all_jobs.extend(jobs)
+        real = [j for j in jobs if "Open Roles" not in j["t"]]
+        if real:
+            print(f"   {len(real)} real jobs")
 
-    # Cleanup
     if browser_page:
         try:
             browser_page.close()
@@ -490,7 +451,6 @@ def main():
             pw.stop()
         except: pass
 
-    # Deduplicate and sort
     unique = deduplicate(all_jobs)
     unique.sort(key=lambda j: j["sc"], reverse=True)
 
@@ -504,7 +464,6 @@ def main():
     print(f"  Total unique: {len(unique)}")
     print(f"{'='*60}")
 
-    # Preserve user statuses
     prev = Path("jobs.json")
     sm = {}
     if prev.exists():
