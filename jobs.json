@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-15T09:46:24.986873",
-  "count": 467,
+  "updated": "2026-05-16T09:01:45.683734",
+  "count": 462,
   "jobs": [
     {
       "id": "df3b3fd5e6d8",
@@ -16,7 +16,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/head-of-local-real-estate-investments-audit-section-at-public-investment-fund-pif-4413067219"
     },
     {
@@ -33,7 +33,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/security-operations-lead-at-neom-green-hydrogen-company-4408731591"
     },
     {
@@ -50,25 +50,8 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/lead-electrical-engineer-at-neom-green-hydrogen-company-4414567475"
-    },
-    {
-      "id": "064de3382148",
-      "src": "linkedin",
-      "t": "Director - Asset & Site Management - CM5",
-      "co": "Qiddiya | القدية",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "executive",
-      "sc": 0.63,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/director-asset-site-management-cm5-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4414465627"
     },
     {
       "id": "19044d8e59ac",
@@ -84,25 +67,8 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/director-talent-acquisition-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4413578287"
-    },
-    {
-      "id": "60383bf75345",
-      "src": "linkedin",
-      "t": "Director - Operations & Event Delivery",
-      "co": "Qiddiya | القدية",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Operations & Execution",
-      "tg": [],
-      "sg": [],
-      "sn": "executive",
-      "sc": 0.63,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/director-operations-event-delivery-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4414700061"
     },
     {
       "id": "8e0c11da6b11",
@@ -118,8 +84,25 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-manager-strategy-planning-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4409787010"
+    },
+    {
+      "id": "064de3382148",
+      "src": "linkedin",
+      "t": "Director - Asset & Site Management - CM5",
+      "co": "Qiddiya | القدية",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "executive",
+      "sc": 0.63,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/director-asset-site-management-cm5-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4414465627"
     },
     {
       "id": "8fe98ad219fd",
@@ -135,7 +118,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-manager-project-manager-digital-transformation-and-value-del3-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4412366950"
     },
     {
@@ -152,7 +135,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/director-operations-maintenance-del-282-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4412376168"
     },
     {
@@ -169,7 +152,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/director-city-ops-it-ot-network-and-security-operations-del3-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4412379550"
     },
     {
@@ -186,7 +169,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/executive-director-development-del-1-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4412389139"
     },
     {
@@ -203,7 +186,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-specialist-it-strategy-and-planning-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4410804019"
     },
     {
@@ -220,8 +203,25 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/director-finance-procurement-operations-in-marketing-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4409762827"
+    },
+    {
+      "id": "601a44299c78",
+      "src": "linkedin",
+      "t": "Executive Director - HRBP",
+      "co": "Qiddiya | القدية",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "executive",
+      "sc": 0.63,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/executive-director-hrbp-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4410802475"
     },
     {
       "id": "ac4b758b248e",
@@ -237,7 +237,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/finance-transformation-%E2%80%93-director-at-red-sea-global-4404636177"
     },
     {
@@ -254,7 +254,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/lead-hr-operations-onboarding-offboarding-at-acwa-4410354746"
     },
     {
@@ -271,7 +271,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/deputy-project-director-at-acwa-4400183868"
     },
     {
@@ -288,7 +288,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/director-project-finance-at-acwa-4406069345"
     },
     {
@@ -305,7 +305,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/director-procurement-center-of-excellence-at-humain-4406550070"
     },
     {
@@ -322,7 +322,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/director-strategic-sourcing-%E2%80%93-ai-solutions-products-procurement-at-humain-4406531785"
     },
     {
@@ -339,7 +339,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/pmo-quality-and-governance-lead-at-humain-4406952975"
     },
     {
@@ -356,7 +356,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/director-strategic-sourcing-ai-compute-procurement-at-humain-4401443646"
     },
     {
@@ -373,7 +373,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/innovation-projects-advisor-at-kaust-king-abdullah-university-of-science-and-technology-4404970263"
     },
     {
@@ -390,7 +390,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/procurement-lead-director-at-jasara-program-management-company-4409843906"
     },
     {
@@ -407,7 +407,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/mena-healthcare-investments-professional-at-public-investment-fund-pif-4405548679"
     },
     {
@@ -424,7 +424,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/financial-audit-executive-at-public-investment-fund-pif-4411165592"
     },
     {
@@ -441,7 +441,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/financial-audit-expert-at-public-investment-fund-pif-4411163690"
     },
     {
@@ -458,7 +458,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/assurance-analytics-senior-analyst-at-public-investment-fund-pif-4411163730"
     },
     {
@@ -475,7 +475,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/head-of-institutional-non-borrowing-ksa-at-bank-of-jordan-4414559071"
     },
     {
@@ -492,7 +492,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/hrbp-lead-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4330224639"
     },
     {
@@ -509,7 +509,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/instrumentation-maintenance-supervisor-at-neom-green-hydrogen-company-4406476280"
     },
     {
@@ -526,7 +526,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/mechanical-technician-o-m-department-at-neom-green-hydrogen-company-4406474725"
     },
     {
@@ -543,7 +543,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/sr-electrical-engineer-at-neom-green-hydrogen-company-4406048091"
     },
     {
@@ -560,7 +560,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/instrument-maintenance-technician-at-neom-green-hydrogen-company-4406070505"
     },
     {
@@ -577,7 +577,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/system-dispatcher-ii-epms-at-neom-green-hydrogen-company-4404319128"
     },
     {
@@ -594,7 +594,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/industrial-hygiene-specialist-iii-at-neom-green-hydrogen-company-4407411504"
     },
     {
@@ -611,7 +611,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/sr-cybersecurity-grc-specialist-at-neom-green-hydrogen-company-4403873930"
     },
     {
@@ -628,7 +628,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/security-specialist-iii-wf-at-neom-green-hydrogen-company-4408728736"
     },
     {
@@ -645,7 +645,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/security-specialist-iii-ghe-at-neom-green-hydrogen-company-4408741483"
     },
     {
@@ -662,7 +662,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/contracts-director-delivery-at-%D8%B4%D8%B1%D9%83%D8%A9-%D9%88%D8%B3%D8%B7-%D8%AC%D8%AF%D8%A9-%D9%84%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-jeddah-central-development-company-4410974807"
     },
     {
@@ -679,7 +679,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/legal-director-at-%D8%B4%D8%B1%D9%83%D8%A9-%D9%88%D8%B3%D8%B7-%D8%AC%D8%AF%D8%A9-%D9%84%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-jeddah-central-development-company-4409905627"
     },
     {
@@ -696,7 +696,7 @@
       "sc": 0.59,
       "sm": "ROSHN GROUP (مجموعة روشن). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/roshnksa/jobs/"
     },
     {
@@ -713,7 +713,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/assistant-manager-cloud-operation-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4410461789"
     },
     {
@@ -730,7 +730,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-manager-procurement-systems-management-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4414484107"
     },
     {
@@ -747,25 +747,8 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/senior-manager-operational-readiness-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4401425034"
-    },
-    {
-      "id": "391c2348e3c4",
-      "src": "linkedin",
-      "t": "Assistant Manager - Contracts Management (CORS337)",
-      "co": "Qiddiya | القدية",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/assistant-manager-contracts-management-cors337-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4414119870"
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/senior-manager-operational-readiness-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4403355860"
     },
     {
       "id": "3de908d614e7",
@@ -781,7 +764,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/assistant-manager-corporate-procurement-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4409903868"
     },
     {
@@ -798,7 +781,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/manager-operational-readiness-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4408662874"
     },
     {
@@ -815,7 +798,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-specialist-technology-procurement-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4411467872"
     },
     {
@@ -832,8 +815,25 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/assistant-manager-technology-procurement-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4410472880"
+    },
+    {
+      "id": "391c2348e3c4",
+      "src": "linkedin",
+      "t": "Assistant Manager - Contracts Management (CORS337)",
+      "co": "Qiddiya | القدية",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.59,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/assistant-manager-contracts-management-cors337-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4414119870"
     },
     {
       "id": "a8cfdb0c6760",
@@ -849,7 +849,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/manager-procurement-performance-management-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4412381789"
     },
     {
@@ -866,7 +866,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-manager-delivery-commercial-office-co105-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4403942382"
     },
     {
@@ -883,7 +883,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/manager-cybersecurity-threat-management-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4404721431"
     },
     {
@@ -900,7 +900,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/executive-assistant-qhc0004-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4409931888"
     },
     {
@@ -917,8 +917,25 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-manager-procurement-compliance-audit-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4412390164"
+    },
+    {
+      "id": "7961ef0e0dfc",
+      "src": "linkedin",
+      "t": "Senior Manager - Procurement (Commercial Office)",
+      "co": "Qiddiya | القدية",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.59,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/senior-manager-procurement-commercial-office-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4414164807"
     },
     {
       "id": "d4e61d824935",
@@ -934,7 +951,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/finance-director-at-red-sea-global-4411142283"
     },
     {
@@ -951,7 +968,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/director-%E2%80%93-events-operations-execution-at-red-sea-global-4403822407"
     },
     {
@@ -968,7 +985,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/residential-marketing-director-at-red-sea-global-4402896220"
     },
     {
@@ -985,7 +1002,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/associate-director-procurement-at-red-sea-global-4413031091"
     },
     {
@@ -1002,8 +1019,25 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/director-hospitality-residential-projects-at-red-sea-global-hospitality-4413522791"
+    },
+    {
+      "id": "1980953b9450",
+      "src": "linkedin",
+      "t": "Director of Engineering",
+      "co": "Red Sea Global Hospitality",
+      "cy": "Tabuk",
+      "ct": "SA",
+      "ca": "Technology & Product",
+      "tg": [],
+      "sg": [],
+      "sn": "executive",
+      "sc": 0.59,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/director-of-engineering-at-red-sea-global-hospitality-4415026450"
     },
     {
       "id": "8c7a00df6657",
@@ -1019,7 +1053,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-contracts-manager-at-acwa-4403706364"
     },
     {
@@ -1036,7 +1070,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/claims-manager-at-acwa-4406783741"
     },
     {
@@ -1053,7 +1087,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/performance-engineer-at-acwa-4411372451"
     },
     {
@@ -1070,7 +1104,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/commissioning-manager-at-acwa-4403806831"
     },
     {
@@ -1087,7 +1121,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/quality-assurance-quality-control-supervisor-at-acwa-4402889796"
     },
     {
@@ -1104,8 +1138,25 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/electrical-supervisor-at-acwa-4407138213"
+    },
+    {
+      "id": "ebb317dec2e3",
+      "src": "linkedin",
+      "t": "Plant General Manager",
+      "co": "Acwa",
+      "cy": "Tabuk",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "director",
+      "sc": 0.59,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/plant-general-manager-at-acwa-4410392035"
     },
     {
       "id": "501bf35c5b19",
@@ -1121,7 +1172,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/operations-manager-ro-plant-at-acwa-4402454645"
     },
     {
@@ -1138,25 +1189,8 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/electrical-technician-at-acwa-4402437286"
-    },
-    {
-      "id": "ebb317dec2e3",
-      "src": "linkedin",
-      "t": "Plant General Manager",
-      "co": "Acwa",
-      "cy": "Tabuk",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "director",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/plant-general-manager-at-acwa-4410392035"
     },
     {
       "id": "02b28c6f9462",
@@ -1172,7 +1206,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/instrumentation-and-control-technician-at-acwa-4412656154"
     },
     {
@@ -1189,7 +1223,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/maintenance-manager-at-acwa-4407188881"
     },
     {
@@ -1206,7 +1240,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/hse-engineer-at-acwa-4407798431"
     },
     {
@@ -1223,7 +1257,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/deputy-hse-manager-at-acwa-4410165660"
     },
     {
@@ -1240,7 +1274,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/shift-charge-engineer-ro-plant-at-acwa-4402447825"
     },
     {
@@ -1257,25 +1291,8 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/lead-electrical-engineer-at-aljomaih-energy-and-water-company-4404043494"
-    },
-    {
-      "id": "5c398ac39e62",
-      "src": "linkedin",
-      "t": "Consultant Job",
-      "co": "Elm Company",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/consultant-job-at-elm-company-4412521705"
     },
     {
       "id": "a9098b3e4444",
@@ -1291,7 +1308,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-software-quality-assurance-engineer-contractor-at-elm-company-4408809434"
     },
     {
@@ -1308,7 +1325,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-java-consultant-at-elm-company-4404169480"
     },
     {
@@ -1325,7 +1342,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-java-fullstack-developer-contractor-at-elm-company-4408494952"
     },
     {
@@ -1342,7 +1359,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/corporate-functions-co-op-at-humain-4414434506"
     },
     {
@@ -1359,7 +1376,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/technical-co-op-at-humain-4414437424"
     },
     {
@@ -1376,7 +1393,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/forward-deployment-engineering-at-humain-4413880894"
     },
     {
@@ -1393,7 +1410,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/international-engagement-specialist-at-kaust-king-abdullah-university-of-science-and-technology-4407860582"
     },
     {
@@ -1410,7 +1427,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/student-marketing-recruitment-specialist-manager-at-kaust-king-abdullah-university-of-science-and-technology-4411424682"
     },
     {
@@ -1427,7 +1444,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-financial-analyst-at-kaust-king-abdullah-university-of-science-and-technology-4409853859"
     },
     {
@@ -1444,7 +1461,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/tenant-account-specialist-at-kaust-king-abdullah-university-of-science-and-technology-4407167997"
     },
     {
@@ -1461,7 +1478,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/health-safety-environment-engineer-at-kaust-king-abdullah-university-of-science-and-technology-4412547105"
     },
     {
@@ -1478,7 +1495,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/assistant-dean-bio-medical-division-at-kaust-king-abdullah-university-of-science-and-technology-4408812559"
     },
     {
@@ -1495,25 +1512,8 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/platform-manager-data-engineer-at-kaust-king-abdullah-university-of-science-and-technology-4410564524"
-    },
-    {
-      "id": "15a8be30ebd1",
-      "src": "linkedin",
-      "t": "Research Translation Engineer - Biotechnology",
-      "co": "KAUST (King Abdullah University of Science and Technology)",
-      "cy": "Thuwal",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/research-translation-engineer-biotechnology-at-kaust-king-abdullah-university-of-science-and-technology-4402279143"
     },
     {
       "id": "4f7d2d3ba0a4",
@@ -1529,7 +1529,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/research-translation-engineer-water-desalination-and-distribution-at-kaust-king-abdullah-university-of-science-and-technology-4403886350"
     },
     {
@@ -1546,7 +1546,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-financial-specialist-fixed-assets-experience-essential-at-kaust-king-abdullah-university-of-science-and-technology-4408207911"
     },
     {
@@ -1563,7 +1563,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/dive-safety-specialist-at-kaust-king-abdullah-university-of-science-and-technology-4407162988"
     },
     {
@@ -1580,7 +1580,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/coral-husbandry-senior-specialist-at-kaust-king-abdullah-university-of-science-and-technology-4410593693"
     },
     {
@@ -1597,7 +1597,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/principal-water-consultant-kaust-beacon-development-at-kaust-king-abdullah-university-of-science-and-technology-4407401576"
     },
     {
@@ -1614,7 +1614,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/principal-hydrogeology-land-quality-specialist-kaust-beacon-development-at-kaust-king-abdullah-university-of-science-and-technology-4407411272"
     },
     {
@@ -1631,25 +1631,8 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/general-ledger-director-at-zakat-tax-and-customs-authority-4411184088"
-    },
-    {
-      "id": "96416694c793",
-      "src": "linkedin",
-      "t": "System / Database Operations Lead Engineer",
-      "co": "Zakat, Tax and Customs Authority",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/system-database-operations-lead-engineer-at-zakat-tax-and-customs-authority-4412946037"
     },
     {
       "id": "59073e9ad007",
@@ -1665,7 +1648,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/director-of-athletics-at-mahd-sports-academy-4402943621"
     },
     {
@@ -1682,7 +1665,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/athletics-head-coach-at-mahd-sports-academy-4404302543"
     },
     {
@@ -1699,7 +1682,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/%D9%85%D8%AF%D9%8A%D8%B1-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1%D8%A9-manager-implementing-strategy-developed-districts-at-royal-commission-for-makkah-city-holy-sites-4405675502"
     },
     {
@@ -1716,7 +1699,7 @@
       "sc": 0.59,
       "sm": "Research Development and Innovation Authority (هيئة تنمية البحث والتطوير والابتكار). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/rdia-sa/jobs/"
     },
     {
@@ -1733,7 +1716,7 @@
       "sc": 0.59,
       "sm": "National Transformation Program Center (مركز برنامج التحول الوطني). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/vision2030sa/jobs/"
     },
     {
@@ -1750,7 +1733,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/director-qhse-location-in-abha-at-ardara-4408986361"
     },
     {
@@ -1767,7 +1750,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/director-utilities-power-and-telecom-ict-design-at-king-salman-international-airport-4414680831"
     },
     {
@@ -1784,7 +1767,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/head-of-financial-planning-analysis-fp-a-saudi-national-at-rig-recruitment-international-group-4412719092"
     },
     {
@@ -1801,7 +1784,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/engineering-director-eoi-at-jasara-program-management-company-4407157987"
     },
     {
@@ -1818,7 +1801,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/construction-director-civil-infrastructure-at-jasara-program-management-company-4405200610"
     },
     {
@@ -1835,7 +1818,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/infrastructure-director-eoi-at-jasara-program-management-company-4407404054"
     },
     {
@@ -1852,8 +1835,25 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/programme-director-eoi-at-jasara-program-management-company-4407128942"
+    },
+    {
+      "id": "48e46a76c14e",
+      "src": "linkedin",
+      "t": "Commercial Director - (EOI)",
+      "co": "Jasara Program Management Company",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "executive",
+      "sc": 0.59,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/commercial-director-eoi-at-jasara-program-management-company-4407131286"
     },
     {
       "id": "306afb0d4c1d",
@@ -1869,7 +1869,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/customer-onboarding-lead-officer-at-saudi-tadawul-group-4404076515"
     },
     {
@@ -1886,7 +1886,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/post-listing-authorization-lead-specialist-at-saudi-tadawul-group-4408244297"
     },
     {
@@ -1903,7 +1903,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/cybersecurity-operations-lead-specialist-at-saudi-tadawul-group-4404060617"
     },
     {
@@ -1920,7 +1920,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/cybersecurity-operations-senior-lead-specialist-at-saudi-tadawul-group-4404061596"
     },
     {
@@ -1937,7 +1937,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/lead-consultant-%E2%80%93-sap-successfactors-at-taqa-industrialization-energy-services-company-4407764081"
     },
     {
@@ -1954,7 +1954,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/compliance-and-money-laundering-reporting-officer-at-sukna-capital-4404689266"
     },
     {
@@ -1971,7 +1971,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/treasury-financial-controller-at-aljazira-bank-%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-4401623085"
     },
     {
@@ -1988,7 +1988,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/lawyer-ksa-at-bank-of-jordan-4405630321"
     },
     {
@@ -2005,7 +2005,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/assistant-manager-data-privacy-at-american-express-saudi-arabia-4408810137"
     },
     {
@@ -2022,7 +2022,7 @@
       "sc": 0.55,
       "sm": "Digital Government Authority (هيئة الحكومة الرقمية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/dga-sa/jobs/"
     },
     {
@@ -2039,7 +2039,7 @@
       "sc": 0.55,
       "sm": "Saudi Tourism Authority (الهيئة السعودية للسياحة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-tourism-authority/jobs/"
     },
     {
@@ -2056,7 +2056,7 @@
       "sc": 0.55,
       "sm": "Saudi Space Commission (الهيئة السعودية للفضاء). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-space-commission/jobs/"
     },
     {
@@ -2073,7 +2073,7 @@
       "sc": 0.55,
       "sm": "General Entertainment Authority (الهيئة العامة للترفيه). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/gea-ksa/jobs/"
     },
     {
@@ -2090,7 +2090,7 @@
       "sc": 0.55,
       "sm": "Diriyah Gate Development Authority (هيئة تطوير بوابة الدرعية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/dgda-sa/jobs/"
     },
     {
@@ -2107,7 +2107,7 @@
       "sc": 0.55,
       "sm": "National Competitiveness Center (المركز الوطني للتنافسية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ncc-sa/jobs/"
     },
     {
@@ -2124,7 +2124,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/purser-future-opportunities-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4289307062"
     },
     {
@@ -2141,7 +2141,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/cabin-crew-recruitment-event-riyadh-saudi-arabia-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4378283479"
     },
     {
@@ -2158,7 +2158,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/cabin-crew-recruitment-event-dubai-united-arab-emirates-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4342916869"
     },
     {
@@ -2175,7 +2175,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/cabin-supervisor-future-opportunities-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4289300798"
     },
     {
@@ -2192,7 +2192,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/accounts-receivable-officer-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4405927669"
     },
     {
@@ -2209,8 +2209,42 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/cabin-crew-recruitment-event-belgrade-serbia-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4380925843"
+    },
+    {
+      "id": "c6d9937da027",
+      "src": "linkedin",
+      "t": "Airframe / Powerplant Engineer B1",
+      "co": "Riyadh Air | طيران الرياض",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Technology & Product",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/airframe-powerplant-engineer-b1-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4330041173"
+    },
+    {
+      "id": "6d0985388dfa",
+      "src": "linkedin",
+      "t": "Cabin Crew Recruitment Event | Jeddah, Saudi Arabia",
+      "co": "Riyadh Air | طيران الرياض",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/cabin-crew-recruitment-event-jeddah-saudi-arabia-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4413144880"
     },
     {
       "id": "b32112f45cd5",
@@ -2226,7 +2260,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/airport-manager-east-south-east-asia-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4396391835"
     },
     {
@@ -2243,42 +2277,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/cabin-crew-recruitment-event-athens-greece-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4380937388"
-    },
-    {
-      "id": "6d0985388dfa",
-      "src": "linkedin",
-      "t": "Cabin Crew Recruitment Event | Jeddah, Saudi Arabia",
-      "co": "Riyadh Air | طيران الرياض",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/cabin-crew-recruitment-event-jeddah-saudi-arabia-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4413144880"
-    },
-    {
-      "id": "4f055dfe7847",
-      "src": "linkedin",
-      "t": "Coordinator GSE Operations",
-      "co": "Riyadh Air | طيران الرياض",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Operations & Execution",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/coordinator-gse-operations-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4403980772"
     },
     {
       "id": "cb466d48cdff",
@@ -2294,8 +2294,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/cabin-crew-recruitment-event-baku-azerbaijan-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4380940154"
+    },
+    {
+      "id": "4f055dfe7847",
+      "src": "linkedin",
+      "t": "Coordinator GSE Operations",
+      "co": "Riyadh Air | طيران الرياض",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Operations & Execution",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/coordinator-gse-operations-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4403980772"
     },
     {
       "id": "83710b7a8b59",
@@ -2311,25 +2328,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/engineer-i-cabin-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4409725460"
-    },
-    {
-      "id": "9ae3c69d2d7e",
-      "src": "linkedin",
-      "t": "Officer II HRBP",
-      "co": "Riyadh Air | طيران الرياض",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/officer-ii-hrbp-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4403068924"
     },
     {
       "id": "659503bfa0dc",
@@ -2345,7 +2345,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/flight-data-analysis-officer-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4382282827"
     },
     {
@@ -2362,7 +2362,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/training-records-officer-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4403061415"
     },
     {
@@ -2379,7 +2379,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/cabin-crew-recruitment-event-buenos-aires-argentina-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4381179409"
     },
     {
@@ -2396,8 +2396,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/shift-manager-line-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4408384152"
+    },
+    {
+      "id": "1b6ca7cc34b3",
+      "src": "linkedin",
+      "t": "Operations Support Officer",
+      "co": "Riyadh Air | طيران الرياض",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Operations & Execution",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/operations-support-officer-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4413554200"
     },
     {
       "id": "147429404154",
@@ -2413,7 +2430,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/operative-tool-stores-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4405933237"
     },
     {
@@ -2430,25 +2447,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-officer-legal-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4403670805"
-    },
-    {
-      "id": "1b6ca7cc34b3",
-      "src": "linkedin",
-      "t": "Operations Support Officer",
-      "co": "Riyadh Air | طيران الرياض",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Operations & Execution",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/operations-support-officer-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4413554200"
     },
     {
       "id": "1e651151557b",
@@ -2464,7 +2464,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/cabin-crew-recruitment-event-barcelona-spain-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4380943032"
     },
     {
@@ -2481,8 +2481,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-flight-safety-officer-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4403068922"
+    },
+    {
+      "id": "b3874c358774",
+      "src": "linkedin",
+      "t": "Officer I GSE",
+      "co": "Riyadh Air | طيران الرياض",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/officer-i-gse-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4409906108"
     },
     {
       "id": "ea64ca072913",
@@ -2498,25 +2515,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/co-op-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4311872699"
-    },
-    {
-      "id": "ab49575908a4",
-      "src": "linkedin",
-      "t": "Manager Crew Operations",
-      "co": "Riyadh Air | طيران الرياض",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Operations & Execution",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/manager-crew-operations-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4372842403"
     },
     {
       "id": "adee8f802ed9",
@@ -2532,25 +2532,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/assistant-manager-procurement-financial-controlling-at-ceer-4387404389"
-    },
-    {
-      "id": "6d4c177df44c",
-      "src": "linkedin",
-      "t": "Senior Specialist, Parts and Accessories Inventory",
-      "co": "CEER",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/senior-specialist-parts-and-accessories-inventory-at-ceer-4405668525"
     },
     {
       "id": "1e7d8eb1b06d",
@@ -2566,7 +2549,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-specialist-financial-planning-and-analysis-at-ceer-4398003223"
     },
     {
@@ -2583,7 +2566,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/engineer-tamheer-at-ceer-4406054370"
     },
     {
@@ -2600,8 +2583,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/manager-pricing-at-ceer-4409874664"
+    },
+    {
+      "id": "6d4c177df44c",
+      "src": "linkedin",
+      "t": "Senior Specialist, Parts and Accessories Inventory",
+      "co": "CEER",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/senior-specialist-parts-and-accessories-inventory-at-ceer-4405668525"
     },
     {
       "id": "24abb26a4e6d",
@@ -2617,7 +2617,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/manager-after-sales-technical-support-at-ceer-4411606951"
     },
     {
@@ -2634,7 +2634,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-specialist-internal-audit-operations-at-ceer-4411616404"
     },
     {
@@ -2651,7 +2651,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/specialist-design-finance-and-operations-at-ceer-4409881608"
     },
     {
@@ -2668,7 +2668,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-specialist-after-sales-training-at-ceer-4411618372"
     },
     {
@@ -2685,7 +2685,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/manager-financial-risk-management-at-ceer-4410044638"
     },
     {
@@ -2702,7 +2702,7 @@
       "sc": 0.55,
       "sm": "New Murabba (المربع الجديد). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/newmurabba/jobs/"
     },
     {
@@ -2719,7 +2719,7 @@
       "sc": 0.55,
       "sm": "Diriyah Gate Limited Company (شركة الدرعية المحدودة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/dgda-sa/jobs/"
     },
     {
@@ -2736,7 +2736,7 @@
       "sc": 0.55,
       "sm": "Saudi Company for Artificial Intelligence (الشركة السعودية للذكاء الاصطناعي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/scai-sa/jobs/"
     },
     {
@@ -2753,7 +2753,7 @@
       "sc": 0.55,
       "sm": "Savvy Games Group (مجموعة سافي للألعاب). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/savvy-games-group/jobs/"
     },
     {
@@ -2770,7 +2770,7 @@
       "sc": 0.55,
       "sm": "AlUla Development Company (شركة العُلا للتطوير). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/alula-development-company/jobs/"
     },
     {
@@ -2787,7 +2787,7 @@
       "sc": 0.55,
       "sm": "King Abdullah Financial District (KAFD) (مركز الملك عبدالله المالي (كافد)). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/kafd/jobs/"
     },
     {
@@ -2804,7 +2804,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/income-accounts-receivable-at-red-sea-global-hospitality-4414457546"
     },
     {
@@ -2821,7 +2821,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/manager-accounting-at-red-sea-global-4401261333"
     },
     {
@@ -2838,8 +2838,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/purchasing-supervisor-at-red-sea-global-hospitality-4414439768"
+    },
+    {
+      "id": "593d9421854b",
+      "src": "linkedin",
+      "t": "Employee Experience Coordinator",
+      "co": "Red Sea Global Hospitality",
+      "cy": "Tabuk",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/employee-experience-coordinator-at-red-sea-global-hospitality-4413879430"
     },
     {
       "id": "13c13533a534",
@@ -2855,7 +2872,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/procurement-manager-at-red-sea-global-4411154091"
     },
     {
@@ -2872,7 +2889,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/waiter-at-red-sea-global-hospitality-4408991731"
     },
     {
@@ -2889,7 +2906,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/assistant-manager-procurement-at-red-sea-global-4413011517"
     },
     {
@@ -2906,7 +2923,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/manager-technology-operations-at-red-sea-global-4408413004"
     },
     {
@@ -2923,42 +2940,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/cost-controller-at-red-sea-global-hospitality-4414435640"
-    },
-    {
-      "id": "cc5e8612363b",
-      "src": "linkedin",
-      "t": "Logistics Manager",
-      "co": "Red Sea Global",
-      "cy": "Tabuk",
-      "ct": "SA",
-      "ca": "Operations & Execution",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/logistics-manager-at-red-sea-global-4400177683"
-    },
-    {
-      "id": "593d9421854b",
-      "src": "linkedin",
-      "t": "Employee Experience Coordinator",
-      "co": "Red Sea Global Hospitality",
-      "cy": "Tabuk",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/employee-experience-coordinator-at-red-sea-global-hospitality-4413879430"
     },
     {
       "id": "30c266d8749e",
@@ -2974,8 +2957,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/specialist-airport-guest-greetings-at-red-sea-global-4407767634"
+    },
+    {
+      "id": "496f7a3b9c75",
+      "src": "linkedin",
+      "t": "Information Technology Specialist",
+      "co": "Red Sea Global Hospitality",
+      "cy": "Tabuk",
+      "ct": "SA",
+      "ca": "Technology & Product",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/information-technology-specialist-at-red-sea-global-hospitality-4413852905"
     },
     {
       "id": "9a7882b4bae7",
@@ -2991,7 +2991,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/specialist-guest-operations-at-red-sea-global-4412678204"
     },
     {
@@ -3008,7 +3008,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-account-receivable-manager-disability-friendly-at-red-sea-global-4408190249"
     },
     {
@@ -3025,25 +3025,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-manager-residential-marketing-at-red-sea-global-4404628452"
-    },
-    {
-      "id": "496f7a3b9c75",
-      "src": "linkedin",
-      "t": "Information Technology Specialist",
-      "co": "Red Sea Global Hospitality",
-      "cy": "Tabuk",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/information-technology-specialist-at-red-sea-global-hospitality-4413852905"
     },
     {
       "id": "b0e7603c878c",
@@ -3059,7 +3042,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/engineering-coordinator-at-red-sea-global-hospitality-4413545047"
     },
     {
@@ -3076,7 +3059,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-manager-%E2%80%93-hr-intelligence-at-red-sea-global-4402431953"
     },
     {
@@ -3093,7 +3076,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-manager-logistics-center-ff-e-at-red-sea-global-4396421887"
     },
     {
@@ -3110,7 +3093,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-manager-key-account-management-at-red-sea-global-4407775278"
     },
     {
@@ -3127,7 +3110,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/accountant-%E2%80%93-sec-local-content-specialist-at-al-haider-company-for-contracting-4403363522"
     },
     {
@@ -3144,7 +3127,7 @@
       "sc": 0.55,
       "sm": "Saudi Arabian Mining Company (Maaden) (شركة التعدين العربية السعودية (معادن)). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/maaden/jobs/"
     },
     {
@@ -3161,7 +3144,7 @@
       "sc": 0.55,
       "sm": "Saudi Post (مؤسسة البريد السعودي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudipost/jobs/"
     },
     {
@@ -3178,7 +3161,7 @@
       "sc": 0.55,
       "sm": "Communications and Information Technology Commission (هيئة الاتصالات وتقنية المعلومات). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/citc-ksa/jobs/"
     },
     {
@@ -3195,7 +3178,7 @@
       "sc": 0.55,
       "sm": "Ministry of Communications and Information Technology (وزارة الاتصالات وتقنية المعلومات). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/mcit-ksa/jobs/"
     },
     {
@@ -3212,7 +3195,7 @@
       "sc": 0.55,
       "sm": "Real Estate Development Fund (صندوق التنمية العقارية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/redf-sa/jobs/"
     },
     {
@@ -3229,7 +3212,7 @@
       "sc": 0.55,
       "sm": "General Authority for Statistics (الهيئة العامة للإحصاء). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/gastat-sa/jobs/"
     },
     {
@@ -3246,7 +3229,7 @@
       "sc": 0.55,
       "sm": "Ministry of Municipal and Rural Affairs and Housing (وزارة الشؤون البلدية والقروية والإسكان). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/momrah-sa/jobs/"
     },
     {
@@ -3263,7 +3246,7 @@
       "sc": 0.55,
       "sm": "Ministry of Economy and Planning (وزارة الاقتصاد والتخطيط). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/mepsaudi/jobs/"
     },
     {
@@ -3280,7 +3263,7 @@
       "sc": 0.55,
       "sm": "National Center for Meteorology (المركز الوطني للأرصاد). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ncm-sa/jobs/"
     },
     {
@@ -3297,7 +3280,7 @@
       "sc": 0.55,
       "sm": "Heritage Commission (هيئة التراث). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/heritage-commission-sa/jobs/"
     },
     {
@@ -3314,7 +3297,7 @@
       "sc": 0.55,
       "sm": "Royal Commission for Jubail and Yanbu (الهيئة الملكية للجبيل وينبع). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/rcjy/jobs/"
     },
     {
@@ -3331,7 +3314,7 @@
       "sc": 0.55,
       "sm": "Saudi Geological Survey (هيئة المساحة الجيولوجية السعودية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-geological-survey/jobs/"
     },
     {
@@ -3348,7 +3331,7 @@
       "sc": 0.55,
       "sm": "Ministry of Industry and Mineral Resources (وزارة الصناعة والثروة المعدنية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/mim-sa/jobs/"
     },
     {
@@ -3365,7 +3348,7 @@
       "sc": 0.55,
       "sm": "Ministry of Energy (وزارة الطاقة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ministry-of-energy-sa/jobs/"
     },
     {
@@ -3382,7 +3365,7 @@
       "sc": 0.55,
       "sm": "Federation of Saudi Chambers (اتحاد الغرف التجارية السعودية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-chambers/jobs/"
     },
     {
@@ -3399,7 +3382,7 @@
       "sc": 0.55,
       "sm": "Saudi Authority for Industrial Cities and Technology Zones (الهيئة السعودية للمدن الصناعية ومناطق التقنية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/modon-sa/jobs/"
     },
     {
@@ -3416,7 +3399,7 @@
       "sc": 0.55,
       "sm": "Saudi Standards, Metrology and Quality Organization (الهيئة السعودية للمواصفات والمقاييس والجودة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saso-sa/jobs/"
     },
     {
@@ -3433,7 +3416,7 @@
       "sc": 0.55,
       "sm": "Saudi Food and Drug Authority (الهيئة العامة للغذاء والدواء). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/sfda-sa/jobs/"
     },
     {
@@ -3450,7 +3433,7 @@
       "sc": 0.55,
       "sm": "Ministry of Investment (وزارة الاستثمار). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ministry-of-investment-ksa/jobs/"
     },
     {
@@ -3467,7 +3450,7 @@
       "sc": 0.55,
       "sm": "Ministry of Commerce (وزارة التجارة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ministry-of-commerce-saudiarabia/jobs/"
     },
     {
@@ -3484,7 +3467,7 @@
       "sc": 0.55,
       "sm": "Islamic University (الجامعة الإسلامية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/islamic-university-of-madinah/jobs/"
     },
     {
@@ -3501,7 +3484,7 @@
       "sc": 0.55,
       "sm": "National Center for Assessment (المركز الوطني للقياس). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/qiyas-sa/jobs/"
     },
     {
@@ -3518,7 +3501,7 @@
       "sc": 0.55,
       "sm": "Umm Al-Qura University (جامعة أم القرى). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/umm-al-qura-university/jobs/"
     },
     {
@@ -3535,7 +3518,7 @@
       "sc": 0.55,
       "sm": "Imam Muhammad ibn Saud Islamic University (جامعة الإمام محمد بن سعود الإسلامية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/imam-muhammad-ibn-saud-islamic-university/jobs/"
     },
     {
@@ -3552,7 +3535,7 @@
       "sc": 0.55,
       "sm": "Princess Nora bint Abdurrahman University (جامعة الأميرة نوره بنت عبدالرحمن). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/princess-nourah-bint-abdulrahman-university/jobs/"
     },
     {
@@ -3569,7 +3552,7 @@
       "sc": 0.55,
       "sm": "Baha University (جامعة الباحة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/baha-university/jobs/"
     },
     {
@@ -3586,7 +3569,7 @@
       "sc": 0.55,
       "sm": "Jouf University (جامعة الجوف). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/jouf-university/jobs/"
     },
     {
@@ -3603,7 +3586,7 @@
       "sc": 0.55,
       "sm": "Northern Border University (جامعة الحدود الشمالية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/northern-border-university/jobs/"
     },
     {
@@ -3620,7 +3603,7 @@
       "sc": 0.55,
       "sm": "Taif University (جامعة الطائف). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/taif-university/jobs/"
     },
     {
@@ -3637,7 +3620,7 @@
       "sc": 0.55,
       "sm": "Qassim University (جامعة القصيم). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/qassim-university/jobs/"
     },
     {
@@ -3654,7 +3637,7 @@
       "sc": 0.55,
       "sm": "Majmaah University (جامعة المجمعة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/majmaah-university/jobs/"
     },
     {
@@ -3671,7 +3654,7 @@
       "sc": 0.55,
       "sm": "King Khalid University (جامعة الملك خالد). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/king-khalid-university/jobs/"
     },
     {
@@ -3688,7 +3671,7 @@
       "sc": 0.55,
       "sm": "King Saud University (جامعة الملك سعود). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/king-saud-university/jobs/"
     },
     {
@@ -3705,42 +3688,8 @@
       "sc": 0.55,
       "sm": "King Abdulaziz University (جامعة الملك عبدالعزيز). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/king-abdulaziz-university/jobs/"
-    },
-    {
-      "id": "d8692772370f",
-      "src": "linkedin",
-      "t": "Faculty Advertisement – Climate Science – Earth Systems Sciences & Engineering at King Abdullah University of Science an",
-      "co": "European Geosciences Union (EGU)",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/faculty-advertisement-%E2%80%93-climate-science-%E2%80%93-earth-systems-sciences-engineering-at-king-abdullah-university-of-science-and-technology-at-european-geosciences-union-egu-4409867557"
-    },
-    {
-      "id": "e6277974b974",
-      "src": "linkedin",
-      "t": "Faculty Advertisement – Petroleum Geology",
-      "co": "European Geosciences Union (EGU)",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/faculty-advertisement-%E2%80%93-petroleum-geology-at-european-geosciences-union-egu-4410094375"
     },
     {
       "id": "ec821e05af91",
@@ -3756,7 +3705,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/employee-relations-associate-at-king-fahd-university-of-petroleum-minerals-kfupm-4414577169"
     },
     {
@@ -3773,7 +3722,7 @@
       "sc": 0.55,
       "sm": "King Faisal University (جامعة الملك فيصل). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/king-faisal-university/jobs/"
     },
     {
@@ -3790,7 +3739,7 @@
       "sc": 0.55,
       "sm": "University of Tabuk (جامعة تبوك). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/university-of-tabuk/jobs/"
     },
     {
@@ -3807,7 +3756,7 @@
       "sc": 0.55,
       "sm": "Jazan University (جامعة جازان). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/jazan-university/jobs/"
     },
     {
@@ -3824,7 +3773,7 @@
       "sc": 0.55,
       "sm": "Hail University (جامعة حائل). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/hail-university/jobs/"
     },
     {
@@ -3841,7 +3790,7 @@
       "sc": 0.55,
       "sm": "Shaqra University (جامعة شقراء). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/shaqra-university/jobs/"
     },
     {
@@ -3858,7 +3807,7 @@
       "sc": 0.55,
       "sm": "Taiba University (جامعة طيبة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/taibah-university/jobs/"
     },
     {
@@ -3875,7 +3824,7 @@
       "sc": 0.55,
       "sm": "Najran University (جامعة نجران). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/najran-university/jobs/"
     },
     {
@@ -3892,7 +3841,7 @@
       "sc": 0.55,
       "sm": "Ministry of Education (وزارة التعليم). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ministry-of-education-saudi-arabia/jobs/"
     },
     {
@@ -3909,7 +3858,7 @@
       "sc": 0.55,
       "sm": "King Abdulaziz Foundation for Research and Archives (دارة الملك عبدالعزيز). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/darah-org/jobs/"
     },
     {
@@ -3926,7 +3875,7 @@
       "sc": 0.55,
       "sm": "Ministry of Culture (وزارة الثقافة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ministry-of-culture-sa/jobs/"
     },
     {
@@ -3943,7 +3892,7 @@
       "sc": 0.55,
       "sm": "Institute of Public Administration (معهد الإدارة العامة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/institute-of-public-administration-ksa/jobs/"
     },
     {
@@ -3960,7 +3909,7 @@
       "sc": 0.55,
       "sm": "Ministry of Human Resources and Social Development (وزارة الموارد البشرية والتنمية الاجتماعية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ministry-of-human-resources-and-social-development-ksa/jobs/"
     },
     {
@@ -3977,7 +3926,7 @@
       "sc": 0.55,
       "sm": "Shura Council (مجلس الشورى). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/shura-council-sa/jobs/"
     },
     {
@@ -3994,7 +3943,7 @@
       "sc": 0.55,
       "sm": "Saudi Grains Organization (المؤسسة العامة للحبوب). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-grains-organization/jobs/"
     },
     {
@@ -4011,7 +3960,7 @@
       "sc": 0.55,
       "sm": "Agricultural Development Fund (صندوق التنمية الزراعية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/agricultural-development-fund-sa/jobs/"
     },
     {
@@ -4028,25 +3977,8 @@
       "sc": 0.55,
       "sm": "Ministry of Environment, Water, and Agriculture (وزارة البيئة والمياه والزراعة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/mewa-sa/jobs/"
-    },
-    {
-      "id": "fa615c79f61d",
-      "src": "linkedin",
-      "t": "Contracts Management Specialist",
-      "co": "Zakat, Tax and Customs Authority",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/contracts-management-specialist-at-zakat-tax-and-customs-authority-4412930580"
     },
     {
       "id": "5d4fccf7bbd8",
@@ -4062,7 +3994,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/snb-rowad-program-at-the-saudi-national-bank-snb-4415007845"
     },
     {
@@ -4079,7 +4011,7 @@
       "sc": 0.55,
       "sm": "Ministry of Hajj and Umrah (وزارة الحج والعمرة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ministry-of-hajj-and-umrah/jobs/"
     },
     {
@@ -4096,7 +4028,7 @@
       "sc": 0.55,
       "sm": "Ministry of Islamic Affairs, Dawah, and Guidance (وزارة الشؤون الإسلامية والدعوة والإرشاد). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/moia-sa/jobs/"
     },
     {
@@ -4113,7 +4045,7 @@
       "sc": 0.55,
       "sm": "Ministry of Sport (وزارة الرياضة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ministry-of-sport-ksa/jobs/"
     },
     {
@@ -4130,7 +4062,7 @@
       "sc": 0.55,
       "sm": "Ministry of Foreign Affairs (وزارة الخارجية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ministry-of-foreign-affairs-saudi-arabia/jobs/"
     },
     {
@@ -4147,7 +4079,7 @@
       "sc": 0.55,
       "sm": "Saudi Arabian Airlines Corporation (المؤسسة العامة للخطوط الجوية العربية السعودية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudia/jobs/"
     },
     {
@@ -4164,7 +4096,7 @@
       "sc": 0.55,
       "sm": "General Authority of Civil Aviation (الهيئة العامة للطيران المدني). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/gaca-sa/jobs/"
     },
     {
@@ -4181,7 +4113,7 @@
       "sc": 0.55,
       "sm": "Public Prosecution (النيابة العامة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/public-prosecution-sa/jobs/"
     },
     {
@@ -4198,7 +4130,7 @@
       "sc": 0.55,
       "sm": "Ministry of Interior (وزارة الداخلية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudimoi/jobs/"
     },
     {
@@ -4215,7 +4147,7 @@
       "sc": 0.55,
       "sm": "Ministry of Defense (وزارة الدفاع). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ministry-of-defence-saudi-arabia/jobs/"
     },
     {
@@ -4232,7 +4164,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/consultant-emergency-medicine-at-sylvcare-for-healthcare-recruitment-4405242707"
     },
     {
@@ -4249,7 +4181,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/consultant-pediatric-cardiac-anesthesiologist-western-trained-at-sylvcare-for-healthcare-recruitment-4405286377"
     },
     {
@@ -4266,7 +4198,7 @@
       "sc": 0.55,
       "sm": "Saudi Health Council (المجلس الصحي السعودي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-health-council/jobs/"
     },
     {
@@ -4283,7 +4215,7 @@
       "sc": 0.55,
       "sm": "Saudi Red Crescent Authority (هيئة الهلال الأحمر السعودي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-red-crescent-authority/jobs/"
     },
     {
@@ -4300,7 +4232,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/nutritionist-at-dallahhealth-4412774106"
     },
     {
@@ -4317,7 +4249,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/aesthetic-dermatologist-saudi-arabia-jeddah-at-sylvcare-for-healthcare-recruitment-4405259232"
     },
     {
@@ -4334,7 +4266,7 @@
       "sc": 0.55,
       "sm": "General Court of Audit (الديوان العام للمحاسبة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/gca-sa/jobs/"
     },
     {
@@ -4351,7 +4283,7 @@
       "sc": 0.55,
       "sm": "Oversight and Anti-Corruption Authority (هيئة الرقابة ومكافحة الفساد). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/nazaha-sa/jobs/"
     },
     {
@@ -4368,7 +4300,7 @@
       "sc": 0.55,
       "sm": "Human Rights Commission (هيئة حقوق الإنسان). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/human-rights-commission-sa/jobs/"
     },
     {
@@ -4385,7 +4317,7 @@
       "sc": 0.55,
       "sm": "Ministry of Justice (وزارة العدل). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/moj-sa/jobs/"
     },
     {
@@ -4402,7 +4334,7 @@
       "sc": 0.55,
       "sm": "General Organization for Social Insurance (المؤسسة العامة للتأمينات الاجتماعية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/gosi-sa/jobs/"
     },
     {
@@ -4419,7 +4351,7 @@
       "sc": 0.55,
       "sm": "Technical and Vocational Training Corporation (المؤسسة العامة للتدريب التقني والمهني). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/tvtc-sa/jobs/"
     },
     {
@@ -4436,7 +4368,7 @@
       "sc": 0.55,
       "sm": "Human Resources Development Fund (صندوق تنمية الموارد البشرية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/hadaf-sa/jobs/"
     },
     {
@@ -4453,7 +4385,7 @@
       "sc": 0.55,
       "sm": "Social Development Bank (بنك التنمية الاجتماعية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/social-development-bank-sa/jobs/"
     },
     {
@@ -4470,7 +4402,7 @@
       "sc": 0.55,
       "sm": "Saudi Fund for Development (الصندوق السعودي للتنمية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-fund-for-development/jobs/"
     },
     {
@@ -4487,7 +4419,7 @@
       "sc": 0.55,
       "sm": "Saudi Industrial Development Fund (صندوق التنمية الصناعية السعودي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-industrial-development-fund/jobs/"
     },
     {
@@ -4504,7 +4436,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/customs-studies-senior-specialist-at-zakat-tax-and-customs-authority-4411178382"
     },
     {
@@ -4521,7 +4453,7 @@
       "sc": 0.55,
       "sm": "Ministry of Finance (وزارة المالية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/mofksa/jobs/"
     },
     {
@@ -4538,7 +4470,7 @@
       "sc": 0.55,
       "sm": "Saline Water Conversion Corporation (المؤسسة العامة لتحلية المياه المالحة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/swcc-sa/jobs/"
     },
     {
@@ -4555,7 +4487,7 @@
       "sc": 0.55,
       "sm": "Water and Electricity Regulatory Authority (هيئة تنظيم المياه والكهرباء). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/wera-sa/jobs/"
     },
     {
@@ -4572,7 +4504,7 @@
       "sc": 0.55,
       "sm": "Saudi Ports Authority (الهيئة العامة للموانئ). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-ports-authority/jobs/"
     },
     {
@@ -4589,7 +4521,7 @@
       "sc": 0.55,
       "sm": "Ministry of Transport and Logistic Services (وزارة النقل والخدمات اللوجستية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/mot-sa/jobs/"
     },
     {
@@ -4606,7 +4538,7 @@
       "sc": 0.55,
       "sm": "Ministry of Media (وزارة الإعلام). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ministry-of-media-sa/jobs/"
     },
     {
@@ -4623,7 +4555,7 @@
       "sc": 0.55,
       "sm": "Sports Boulevard Foundation (مؤسسة المسار الرياضي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/sports-boulevard-foundation/jobs/"
     },
     {
@@ -4640,7 +4572,7 @@
       "sc": 0.55,
       "sm": "King Salman Park Foundation (مؤسسة حديقة الملك سلمان). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/king-salman-park/jobs/"
     },
     {
@@ -4657,7 +4589,7 @@
       "sc": 0.55,
       "sm": "Imam Abdulrahman Bin Faisal University (جامعة الإمام عبدالرحمن بن فيصل). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/imam-abdulrahman-bin-faisal-university/jobs/"
     },
     {
@@ -4674,7 +4606,7 @@
       "sc": 0.55,
       "sm": "Prince Sattam Bin Abdulaziz University (جامعة الأمير سطام بن عبدالعزيز). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/prince-sattam-bin-abdulaziz-university/jobs/"
     },
     {
@@ -4691,7 +4623,7 @@
       "sc": 0.55,
       "sm": "Saudi Electronic University (الجامعة السعودية الإلكترونية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-electronic-university/jobs/"
     },
     {
@@ -4708,7 +4640,7 @@
       "sc": 0.55,
       "sm": "King Saud bin Abdulaziz University for Health Sciences (جامعة الملك سعود بن عبدالعزيز للعلوم الصحية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ksau-hs/jobs/"
     },
     {
@@ -4725,7 +4657,7 @@
       "sc": 0.55,
       "sm": "University of Bisha (جامعة بيشة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/university-of-bisha/jobs/"
     },
     {
@@ -4742,7 +4674,7 @@
       "sc": 0.55,
       "sm": "University of Jeddah (جامعة جدة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/university-of-jeddah/jobs/"
     },
     {
@@ -4759,7 +4691,7 @@
       "sc": 0.55,
       "sm": "University of Hafr Al Batin (جامعة حفر الباطن). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/university-of-hafr-al-batin/jobs/"
     },
     {
@@ -4776,7 +4708,7 @@
       "sc": 0.55,
       "sm": "Council of Health Insurance (مجلس الضمان الصحي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/chi-sa/jobs/"
     },
     {
@@ -4793,7 +4725,7 @@
       "sc": 0.55,
       "sm": "Council of Royal Reserves (مجلس المحميات الملكية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/rrc-sa/jobs/"
     },
     {
@@ -4810,7 +4742,7 @@
       "sc": 0.55,
       "sm": "National Development Fund (صندوق التنمية الوطني). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ndf-sa/jobs/"
     },
     {
@@ -4827,7 +4759,7 @@
       "sc": 0.55,
       "sm": "Higher Education Fund (صندوق التعليم العالي الجامعي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/hef-sa/jobs/"
     },
     {
@@ -4844,7 +4776,7 @@
       "sc": 0.55,
       "sm": "Cultural Development Fund (صندوق التنمية الثقافي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/cultural-development-fund-sa/jobs/"
     },
     {
@@ -4861,7 +4793,7 @@
       "sc": 0.55,
       "sm": "Tourism Development Fund (صندوق التنمية السياحي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/tdf-sa/jobs/"
     },
     {
@@ -4878,7 +4810,7 @@
       "sc": 0.55,
       "sm": "King Fahad Medical City Fund (صندوق مدينة الملك فهد الطبية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/king-fahad-medical-city/jobs/"
     },
     {
@@ -4895,7 +4827,7 @@
       "sc": 0.55,
       "sm": "Ministry of Tourism (وزارة السياحة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ministry-of-tourism-ksa/jobs/"
     },
     {
@@ -4912,7 +4844,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/strength-and-conditioning-coach-at-mahd-sports-academy-4409073802"
     },
     {
@@ -4929,7 +4861,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/sr-internal-audit-specialist-at-mahd-sports-academy-4402963127"
     },
     {
@@ -4946,7 +4878,7 @@
       "sc": 0.55,
       "sm": "Saudi Export-Import Bank (بنك التصدير والاستيراد السعودي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-exim-bank/jobs/"
     },
     {
@@ -4963,7 +4895,7 @@
       "sc": 0.55,
       "sm": "Small and Medium Enterprise Bank (بنك المنشآت الصغيرة والمتوسطة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/sme-bank-sa/jobs/"
     },
     {
@@ -4980,7 +4912,7 @@
       "sc": 0.55,
       "sm": "King Salman Global Academy for Arabic Language (مجمع الملك سلمان العالمي للغة العربية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ksaa-sa/jobs/"
     },
     {
@@ -4997,7 +4929,7 @@
       "sc": 0.55,
       "sm": "King Abdulaziz City for Science and Technology (مدينة الملك عبدالعزيز للعلوم والتقنية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/kacst/jobs/"
     },
     {
@@ -5014,7 +4946,7 @@
       "sc": 0.55,
       "sm": "King Abdullah City for Atomic and Renewable Energy (مدينة الملك عبدالله للطاقة الذرية والمتجددة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/kacare-sa/jobs/"
     },
     {
@@ -5031,7 +4963,7 @@
       "sc": 0.55,
       "sm": "Saudi Press Agency (وكالة الأنباء السعودية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-press-agency/jobs/"
     },
     {
@@ -5048,7 +4980,7 @@
       "sc": 0.55,
       "sm": "Royal Commission for AlUla (الهيئة الملكية لمحافظة العلا). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/royal-commission-for-alula/jobs/"
     },
     {
@@ -5065,7 +4997,7 @@
       "sc": 0.55,
       "sm": "Royal Commission for Riyadh City (الهيئة الملكية لمدينة الرياض). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/rcriyadh/jobs/"
     },
     {
@@ -5082,7 +5014,7 @@
       "sc": 0.55,
       "sm": "Literature, Publishing, and Translation Commission (هيئة الأدب والنشر والترجمة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/alp-sa/jobs/"
     },
     {
@@ -5099,7 +5031,7 @@
       "sc": 0.55,
       "sm": "Saudi Broadcasting Authority (هيئة الإذاعة والتلفزيون). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-broadcasting-authority/jobs/"
     },
     {
@@ -5116,7 +5048,7 @@
       "sc": 0.55,
       "sm": "Fashion Commission (هيئة الأزياء). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/fashion-commission-sa/jobs/"
     },
     {
@@ -5133,7 +5065,7 @@
       "sc": 0.55,
       "sm": "Film Commission (هيئة الأفلام). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/film-commission-sa/jobs/"
     },
     {
@@ -5150,7 +5082,7 @@
       "sc": 0.55,
       "sm": "Saudi Data and AI Authority (الهيئة السعودية للبيانات والذكاء الاصطناعي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/sdaia-ksa/jobs/"
     },
     {
@@ -5167,7 +5099,7 @@
       "sc": 0.55,
       "sm": "Saudi Organization for Chartered and Professional Accountants (الهيئة السعودية للمراجعين والمحاسبين). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/socpa-sa/jobs/"
     },
     {
@@ -5184,7 +5116,7 @@
       "sc": 0.55,
       "sm": "Saudi Contractors Authority (الهيئة السعودية للمقاولين). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-contractors-authority/jobs/"
     },
     {
@@ -5201,7 +5133,7 @@
       "sc": 0.55,
       "sm": "Saudi Authority for Accredited Valuers (الهيئة السعودية للمقيمين المعتمدين). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/taqeem-sa/jobs/"
     },
     {
@@ -5218,7 +5150,7 @@
       "sc": 0.55,
       "sm": "Saudi Authority for Intellectual Property (الهيئة السعودية للملكية الفكرية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saip-sa/jobs/"
     },
     {
@@ -5235,7 +5167,7 @@
       "sc": 0.55,
       "sm": "Saudi Council of Engineers (الهيئة السعودية للمهندسين). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-council-of-engineers/jobs/"
     },
     {
@@ -5252,7 +5184,7 @@
       "sc": 0.55,
       "sm": "Public Health Authority (هيئة الصحة العامة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/pha-sa/jobs/"
     },
     {
@@ -5269,7 +5201,7 @@
       "sc": 0.55,
       "sm": "General Commission for Audiovisual Media (الهيئة العامة للإعلام المرئي والمسموع). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/gcam-sa/jobs/"
     },
     {
@@ -5286,7 +5218,7 @@
       "sc": 0.55,
       "sm": "General Authority for Awqaf (الهيئة العامة للأوقاف). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/awqaf-sa/jobs/"
     },
     {
@@ -5303,7 +5235,7 @@
       "sc": 0.55,
       "sm": "Saudi General Authority of Foreign Trade (الهيئة العامة للتجارة الخارجية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/gaft-sa/jobs/"
     },
     {
@@ -5320,7 +5252,7 @@
       "sc": 0.55,
       "sm": "General Authority for Military Industries (الهيئة العامة للصناعات العسكرية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/gami-sa/jobs/"
     },
     {
@@ -5337,7 +5269,7 @@
       "sc": 0.55,
       "sm": "Real Estate General Authority (الهيئة العامة للعقار). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/rega-sa/jobs/"
     },
     {
@@ -5354,7 +5286,7 @@
       "sc": 0.55,
       "sm": "Saudi Conventions and Exhibitions General Authority (الهيئة العامة للمعارض والمؤتمرات). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/scega-sa/jobs/"
     },
     {
@@ -5371,7 +5303,7 @@
       "sc": 0.55,
       "sm": "General Authority for Competition (الهيئة العامة للمنافسة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/gac-sa/jobs/"
     },
     {
@@ -5388,7 +5320,7 @@
       "sc": 0.55,
       "sm": "Small and Medium Enterprises General Authority (الهيئة العامة للمنشآت الصغيرة والمتوسطة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/monshaat/jobs/"
     },
     {
@@ -5405,7 +5337,7 @@
       "sc": 0.55,
       "sm": "Transport General Authority (الهيئة العامة للنقل). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/tga-sa/jobs/"
     },
     {
@@ -5422,7 +5354,7 @@
       "sc": 0.55,
       "sm": "Equestrian Authority (هيئة الفروسية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-equestrian/jobs/"
     },
     {
@@ -5439,7 +5371,7 @@
       "sc": 0.55,
       "sm": "Visual Arts Commission (هيئة الفنون البصرية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/vac-sa/jobs/"
     },
     {
@@ -5456,7 +5388,7 @@
       "sc": 0.55,
       "sm": "Museums Commission (هيئة المتاحف). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/museums-commission-sa/jobs/"
     },
     {
@@ -5473,7 +5405,7 @@
       "sc": 0.55,
       "sm": "Local Content and Government Procurement Authority (هيئة المحتوى المحلي والمشتريات الحكومية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ilc-sa/jobs/"
     },
     {
@@ -5490,7 +5422,7 @@
       "sc": 0.55,
       "sm": "Economic Cities and Special Zones Authority (هيئة المدن والمناطق الاقتصادية الخاصة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ecza-sa/jobs/"
     },
     {
@@ -5507,7 +5439,7 @@
       "sc": 0.55,
       "sm": "Theater and Performing Arts Commission (هيئة المسرح والفنون الأدائية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/tpac-sa/jobs/"
     },
     {
@@ -5524,7 +5456,7 @@
       "sc": 0.55,
       "sm": "Music Commission (هيئة الموسيقى). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/music-commission-sa/jobs/"
     },
     {
@@ -5541,7 +5473,7 @@
       "sc": 0.55,
       "sm": "National Cybersecurity Authority (الهيئة الوطنية للأمن السيبراني). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/nca-sa/jobs/"
     },
     {
@@ -5558,7 +5490,7 @@
       "sc": 0.55,
       "sm": "Shargia Development Authority (هيئة تطوير المنطقة الشرقية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/epa-sa/jobs/"
     },
     {
@@ -5575,7 +5507,7 @@
       "sc": 0.55,
       "sm": "Al Madinah Region Development Authority (هيئة تطوير منطقة المدينة المنورة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/amreg-sa/jobs/"
     },
     {
@@ -5592,7 +5524,7 @@
       "sc": 0.55,
       "sm": "Aseer Development Authority (هيئة تطوير منطقة عسير). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/aseerda/jobs/"
     },
     {
@@ -5609,7 +5541,7 @@
       "sc": 0.55,
       "sm": "Education and Training Evaluation Commission (هيئة تقويم التعليم والتدريب). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/etec-sa/jobs/"
     },
     {
@@ -5626,7 +5558,7 @@
       "sc": 0.55,
       "sm": "Saudi Exports Development Authority (هيئة تنمية الصادرات السعودية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/seda-sa/jobs/"
     },
     {
@@ -5643,7 +5575,7 @@
       "sc": 0.55,
       "sm": "Authority for Persons with Disabilities (هيئة رعاية الأشخاص ذوي الإعاقة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/apd-sa/jobs/"
     },
     {
@@ -5660,7 +5592,7 @@
       "sc": 0.55,
       "sm": "Culinary Arts Commission (هيئة فنون الطهي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/culinary-arts-commission-sa/jobs/"
     },
     {
@@ -5677,7 +5609,7 @@
       "sc": 0.55,
       "sm": "Expenditure and Projects Efficiency Authority (هيئة كفاءة الإنفاق والمشروعات الحكومية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/epea-sa/jobs/"
     },
     {
@@ -5694,7 +5626,7 @@
       "sc": 0.55,
       "sm": "Saudi Central Board for Accreditation of Healthcare Institutions (المركز السعودي لاعتماد المنشآت الصحية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/cbahi-sa/jobs/"
     },
     {
@@ -5711,7 +5643,7 @@
       "sc": 0.55,
       "sm": "Saudi Energy Efficiency Center (المركز السعودي لكفاءة الطاقة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/seec-sa/jobs/"
     },
     {
@@ -5728,7 +5660,7 @@
       "sc": 0.55,
       "sm": "Saudi Business Center (المركز السعودي للأعمال الاقتصادية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-business-center/jobs/"
     },
     {
@@ -5745,7 +5677,7 @@
       "sc": 0.55,
       "sm": "Saudi Center for Commercial Arbitration (المركز السعودي للتحكيم التجاري). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/sadr-sa/jobs/"
     },
     {
@@ -5762,7 +5694,7 @@
       "sc": 0.55,
       "sm": "Saudi Center for International Strategic Partnerships (المركز السعودي للشراكات الاستراتيجية الدولية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/scisp-sa/jobs/"
     },
     {
@@ -5779,7 +5711,7 @@
       "sc": 0.55,
       "sm": "King Salman Humanitarian Aid and Relief Center (مركز الملك سلمان للإغاثة والأعمال الإنسانية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ksrelief/jobs/"
     },
     {
@@ -5796,7 +5728,7 @@
       "sc": 0.55,
       "sm": "King Abdulaziz Center for National Dialogue (مركز الملك عبدالعزيز للحوار الوطني). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/kacnd/jobs/"
     },
     {
@@ -5813,7 +5745,7 @@
       "sc": 0.55,
       "sm": "King Abdullah Petroleum Studies and Research Center (مركز الملك عبدالله للدراسات والبحوث البترولية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/kapsarc/jobs/"
     },
     {
@@ -5830,7 +5762,7 @@
       "sc": 0.55,
       "sm": "The National Debt Management Center (المركز الوطني لإدارة الدين). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ndmc-sa/jobs/"
     },
     {
@@ -5847,7 +5779,7 @@
       "sc": 0.55,
       "sm": "National Center for Waste Management (المركز الوطني لإدارة النفايات). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/mwan-sa/jobs/"
     },
     {
@@ -5864,7 +5796,7 @@
       "sc": 0.55,
       "sm": "National Center for Non-Profit Sector (المركز الوطني لتنمية القطاع غير الربحي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/nonprofitsector-sa/jobs/"
     },
     {
@@ -5881,7 +5813,7 @@
       "sc": 0.55,
       "sm": "National Center for Performance Measurement (المركز الوطني لقياس أداء الأجهزة العامة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/adaa-sa/jobs/"
     },
     {
@@ -5898,7 +5830,7 @@
       "sc": 0.55,
       "sm": "National Center for Privatization (المركز الوطني للتخصيص). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ncp-sa/jobs/"
     },
     {
@@ -5915,7 +5847,7 @@
       "sc": 0.55,
       "sm": "National E-Learning Center (المركز الوطني للتعليم الإلكتروني). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/nelc-sa/jobs/"
     },
     {
@@ -5932,7 +5864,7 @@
       "sc": 0.55,
       "sm": "National Center for Artificial Intelligence (المركز الوطني للذكاء الاصطناعي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ncai-sa/jobs/"
     },
     {
@@ -5949,7 +5881,7 @@
       "sc": 0.55,
       "sm": "The Center for Quality of Life Program (مركز برنامج جودة الحياة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/qol-sa/jobs/"
     },
     {
@@ -5966,7 +5898,7 @@
       "sc": 0.55,
       "sm": "RUA AlHaram AlMakki Company (شركة رؤى الحرم المكي). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/rua-alharam/jobs/"
     },
     {
@@ -5983,7 +5915,7 @@
       "sc": 0.55,
       "sm": "King Abdullah Economic City (KAEC) (مدينة الملك عبدالله الاقتصادية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/king-abdullah-economic-city/jobs/"
     },
     {
@@ -6000,7 +5932,7 @@
       "sc": 0.55,
       "sm": "Alat (شركة علات). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/alat-company/jobs/"
     },
     {
@@ -6017,7 +5949,7 @@
       "sc": 0.55,
       "sm": "Dan Company (شركة دان). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/dan-company-sa/jobs/"
     },
     {
@@ -6034,7 +5966,7 @@
       "sc": 0.55,
       "sm": "TASARU Mobility Investments (تسارع لاستثمارات التنقل). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/tasaru/jobs/"
     },
     {
@@ -6051,7 +5983,7 @@
       "sc": 0.55,
       "sm": "Albalad Development Co. (شركة البلد للتطوير). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/albalad-development/jobs/"
     },
     {
@@ -6068,7 +6000,7 @@
       "sc": 0.55,
       "sm": "SURJ Sports Investment (سرج للاستثمارات الرياضية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/surj-sports-investment/jobs/"
     },
     {
@@ -6085,7 +6017,7 @@
       "sc": 0.55,
       "sm": "Kayanee (كيانيّ). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/kayanee/jobs/"
     },
     {
@@ -6102,7 +6034,7 @@
       "sc": 0.55,
       "sm": "Al Madinah Heritage Company (شركة تراث المدينة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/al-madinah-heritage-company/jobs/"
     },
     {
@@ -6119,7 +6051,7 @@
       "sc": 0.55,
       "sm": "ASFAR (أسفار). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/asfar-sa/jobs/"
     },
     {
@@ -6136,7 +6068,7 @@
       "sc": 0.55,
       "sm": "Lifera (ليفيرا). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/lifera-sa/jobs/"
     },
     {
@@ -6153,7 +6085,7 @@
       "sc": 0.55,
       "sm": "Manara Minerals Investment Company (شركة منارة للاستثمارات المعدنية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/manara-minerals/jobs/"
     },
     {
@@ -6170,7 +6102,7 @@
       "sc": 0.55,
       "sm": "Badael Company (شركة بدائل). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/badael-company/jobs/"
     },
     {
@@ -6187,7 +6119,7 @@
       "sc": 0.55,
       "sm": "Aseer Investment Company (AIC) (شركة عسير للاستثمار). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/aseer-investment-company/jobs/"
     },
     {
@@ -6204,7 +6136,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/manager-it-infrastructure-at-king-salman-international-airport-4414576178"
     },
     {
@@ -6221,7 +6153,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/manager-it-projects-at-king-salman-international-airport-4412575374"
     },
     {
@@ -6238,7 +6170,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/manager-%E2%80%93-aviation-solutions-management-at-king-salman-international-airport-4412578281"
     },
     {
@@ -6255,7 +6187,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-project-manager-at-king-salman-international-airport-4414683689"
     },
     {
@@ -6272,7 +6204,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/manager-legal-contracts-management-at-king-salman-international-airport-4414693623"
     },
     {
@@ -6289,7 +6221,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/manager-geographic-information-system-at-king-salman-international-airport-4411451243"
     },
     {
@@ -6306,7 +6238,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/manager-%E2%80%93-building-information-modelling-at-king-salman-international-airport-4411455089"
     },
     {
@@ -6323,7 +6255,7 @@
       "sc": 0.55,
       "sm": "Saudi Downtown Company (شركة داون تاون السعودية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-downtown-company/jobs/"
     },
     {
@@ -6340,7 +6272,7 @@
       "sc": 0.55,
       "sm": "AVILEASE (أفيليز). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/avilease/jobs/"
     },
     {
@@ -6357,7 +6289,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/manager-corporate-development-financial-planning-at-d360-bank-4410557101"
     },
     {
@@ -6374,7 +6306,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-manager-network-security-engineering-at-d360-bank-4404982998"
     },
     {
@@ -6391,7 +6323,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/site-reliability-engineer-at-d360-bank-4404062037"
     },
     {
@@ -6408,7 +6340,7 @@
       "sc": 0.55,
       "sm": "BOUTIQUE GROUP (مجموعة بوتيك). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/boutique-group-sa/jobs/"
     },
     {
@@ -6425,7 +6357,7 @@
       "sc": 0.55,
       "sm": "Saudi Coffee Company (شركة القهوة السعودية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-coffee-company/jobs/"
     },
     {
@@ -6442,7 +6374,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/field-engineer-nextgen-graduate-program-saudi-arabia-at-weatherford-4405691773"
     },
     {
@@ -6459,7 +6391,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-sales-engineer-hvac-at-rig-recruitment-international-group-4408705980"
     },
     {
@@ -6476,7 +6408,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/field-specialist-iv-managed-pressure-drilling-services-at-weatherford-4399225922"
     },
     {
@@ -6493,7 +6425,7 @@
       "sc": 0.55,
       "sm": "Halal Products Development Company (شركة تطوير المنتجات الحلال). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/halal-products-development-company/jobs/"
     },
     {
@@ -6510,7 +6442,7 @@
       "sc": 0.55,
       "sm": "National Security Service Company (SAFE) (الشركة الوطنية لخدمات الأمن (سيف)). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/safe-sa/jobs/"
     },
     {
@@ -6527,7 +6459,7 @@
       "sc": 0.55,
       "sm": "Gulf International Bank (GIB) - KSA (بنك الخليج الدولي - المملكة العربية السعودية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/gulf-international-bank/jobs/"
     },
     {
@@ -6544,7 +6476,7 @@
       "sc": 0.55,
       "sm": "Jada Fund of Funds (جادة لصناديق الصناديق). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/jada-fund-of-funds/jobs/"
     },
     {
@@ -6561,25 +6493,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-document-controller-saudi-at-jasara-program-management-company-4409697703"
-    },
-    {
-      "id": "5fc25bd90e70",
-      "src": "linkedin",
-      "t": "HSE Inspector",
-      "co": "Jasara Program Management Company",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "executive",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/hse-inspector-at-jasara-program-management-company-4412543782"
     },
     {
       "id": "b1f29684436c",
@@ -6595,8 +6510,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/qa-qc-manager-sa-at-jasara-program-management-company-4409853889"
+    },
+    {
+      "id": "e228783ae25f",
+      "src": "linkedin",
+      "t": "Sr. QA Engineer",
+      "co": "Jasara Program Management Company",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Technology & Product",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/sr-qa-engineer-at-jasara-program-management-company-4412452691"
     },
     {
       "id": "acffa2cc9176",
@@ -6612,7 +6544,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/construction-project-manager-civil-infrastructure-at-jasara-program-management-company-4407125166"
     },
     {
@@ -6629,7 +6561,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/it-business-analyst-at-jasara-program-management-company-4410250592"
     },
     {
@@ -6646,25 +6578,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/project-manager-external-works-at-jasara-program-management-company-4403202288"
-    },
-    {
-      "id": "d74a804208be",
-      "src": "linkedin",
-      "t": "Support Analyst",
-      "co": "Jasara Program Management Company",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/support-analyst-at-jasara-program-management-company-4413949050"
     },
     {
       "id": "6afb04408a69",
@@ -6680,25 +6595,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/document-controller-eoi-at-jasara-program-management-company-4407833228"
     },
     {
-      "id": "b57e14676135",
+      "id": "d74a804208be",
       "src": "linkedin",
-      "t": "Logistics Engineer",
+      "t": "Support Analyst",
       "co": "Jasara Program Management Company",
       "cy": "Riyadh",
       "ct": "SA",
-      "ca": "Technology & Product",
+      "ca": "Strategy & Consulting",
       "tg": [],
       "sg": [],
       "sn": "mid",
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/logistics-engineer-at-jasara-program-management-company-4410585972"
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/support-analyst-at-jasara-program-management-company-4413949050"
     },
     {
       "id": "a89e316dd1e8",
@@ -6714,8 +6629,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/estimator-at-jasara-program-management-company-4409280028"
+    },
+    {
+      "id": "b57e14676135",
+      "src": "linkedin",
+      "t": "Logistics Engineer",
+      "co": "Jasara Program Management Company",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Technology & Product",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/logistics-engineer-at-jasara-program-management-company-4410585972"
     },
     {
       "id": "93843445054a",
@@ -6731,7 +6663,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/mechanical-engineer-at-jasara-program-management-company-4412538918"
     },
     {
@@ -6748,7 +6680,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/project-manager-civil-infrastructure-public-realm-stadium-at-jasara-program-management-company-4404096357"
     },
     {
@@ -6765,25 +6697,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/infrastructure-engineer-eoi-at-jasara-program-management-company-4412547549"
-    },
-    {
-      "id": "e228783ae25f",
-      "src": "linkedin",
-      "t": "Sr. QA Engineer",
-      "co": "Jasara Program Management Company",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/sr-qa-engineer-at-jasara-program-management-company-4412452691"
     },
     {
       "id": "ee31ee5ac696",
@@ -6799,25 +6714,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/sustainability-environmental-engineer-at-jasara-program-management-company-4409851672"
-    },
-    {
-      "id": "0b454652bb3b",
-      "src": "linkedin",
-      "t": "Senior Manager - HSE (Stadium)",
-      "co": "Jasara Program Management Company",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/senior-manager-hse-stadium-at-jasara-program-management-company-4404550541"
     },
     {
       "id": "51ba9b1f53e5",
@@ -6833,7 +6731,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/design-manager-hospitality-mixed-use-at-jasara-program-management-company-4407110746"
     },
     {
@@ -6850,25 +6748,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/sr-it-business-analyst-at-jasara-program-management-company-4410236795"
-    },
-    {
-      "id": "6dcb25c420cb",
-      "src": "linkedin",
-      "t": "Engineering Policies, Standards and Guidelines Engineer",
-      "co": "Jasara Program Management Company",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/engineering-policies-standards-and-guidelines-engineer-at-jasara-program-management-company-4412548517"
     },
     {
       "id": "ad14f5b95c06",
@@ -6884,8 +6765,42 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/senior-planner-eoi-at-jasara-program-management-company-4407834107"
+    },
+    {
+      "id": "e9eb36347f7c",
+      "src": "linkedin",
+      "t": "Senior Project Manager - Facade",
+      "co": "Jasara Program Management Company",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Operations & Execution",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/senior-project-manager-facade-at-jasara-program-management-company-4404592715"
+    },
+    {
+      "id": "c10bc177a60b",
+      "src": "linkedin",
+      "t": "Document Control Manager / Reporting - (EOI)",
+      "co": "Jasara Program Management Company",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/document-control-manager-reporting-eoi-at-jasara-program-management-company-4407826268"
     },
     {
       "id": "6b405d81a927",
@@ -6901,7 +6816,7 @@
       "sc": 0.55,
       "sm": "Tahakom Investments Company (TIC) (شركة تحاكم للاستثمارات). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/tahakom/jobs/"
     },
     {
@@ -6918,7 +6833,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/type-rated-aw139-sr-technician-i-6-6-rotation-at-the-helicopter-company-4406955651"
     },
     {
@@ -6935,7 +6850,7 @@
       "sc": 0.55,
       "sm": "Rua Al Madinah Holding Company (شركة رؤى المدينة القابضة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/rua-al-madinah/jobs/"
     },
     {
@@ -6952,7 +6867,7 @@
       "sc": 0.55,
       "sm": "Saudi Arabian Industrial Investments Company (Dussur) (الشركة السعودية للاستثمارات الصناعية \"دسر\"). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/dussur/jobs/"
     },
     {
@@ -6969,7 +6884,7 @@
       "sc": 0.55,
       "sm": "Saudi Arabian Military Industries (SAMI) (الشركة السعودية للصناعات العسكرية (سامي)). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/sami-sa/jobs/"
     },
     {
@@ -6986,7 +6901,7 @@
       "sc": 0.55,
       "sm": "Saudi Real Estate Refinancing Company (SRC) (الشركة السعودية لإعادة تمويل الرهن العقاري (SRC)). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/src-sa/jobs/"
     },
     {
@@ -7003,7 +6918,7 @@
       "sc": 0.55,
       "sm": "Saudi Information Technology Company (SITE) (الشركة السعودية لتقنية المعلومات (سايت)). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/site-sa/jobs/"
     },
     {
@@ -7020,7 +6935,7 @@
       "sc": 0.55,
       "sm": "National Energy Services Company (Tarshid) (الشركة الوطنية لخدمات الطاقة (ترشيد)). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/tarshid-sa/jobs/"
     },
     {
@@ -7037,7 +6952,7 @@
       "sc": 0.55,
       "sm": "Noon Investment (استثمار نون). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/noon-investment-sa/jobs/"
     },
     {
@@ -7054,7 +6969,7 @@
       "sc": 0.55,
       "sm": "Bidaya Finance Company (شركة بداية للتمويل). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/bidaya-finance/jobs/"
     },
     {
@@ -7071,7 +6986,7 @@
       "sc": 0.55,
       "sm": "GDC Middle East (جي دي سي الشرق الأوسط). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/gdc-middle-east/jobs/"
     },
     {
@@ -7088,7 +7003,7 @@
       "sc": 0.55,
       "sm": "ASMA Capital (شركة أسما كابيتال). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/asma-capital/jobs/"
     },
     {
@@ -7105,7 +7020,7 @@
       "sc": 0.55,
       "sm": "Umm Al Qura Construction & Development (أم القرى للإنشاء والتطوير). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/umm-al-qura-construction/jobs/"
     },
     {
@@ -7122,7 +7037,7 @@
       "sc": 0.55,
       "sm": "Saudi Global Ports Company (الشركة السعودية للموانئ العالمية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saudi-global-ports/jobs/"
     },
     {
@@ -7139,7 +7054,7 @@
       "sc": 0.55,
       "sm": "The Saudi Technology Development and Investment Company (TAQNIA) (الشركة السعودية للتطوير التقني والاستثماري (تقنية)). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/taqnia/jobs/"
     },
     {
@@ -7156,7 +7071,7 @@
       "sc": 0.55,
       "sm": "The Saudi Agricultural and Livestock Investment Company (SALIC) (الشركة السعودية للاستثمار الزراعي والإنتاج الحيواني (سالك)). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/salic-sa/jobs/"
     },
     {
@@ -7173,7 +7088,7 @@
       "sc": 0.55,
       "sm": "Saudi Arabian Investment Company (Sanabil Investments) (الشركة السعودية للاستثمار (سنابل)). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/sanabil-investments/jobs/"
     },
     {
@@ -7190,7 +7105,7 @@
       "sc": 0.55,
       "sm": "The National Unified Procurement Company (nupco) (الشركة الوطنية الموحدة للمشتريات (نوبكو)). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/nupco/jobs/"
     },
     {
@@ -7207,7 +7122,7 @@
       "sc": 0.55,
       "sm": "Water and Electricity Holding Company (Badeel) (شركة المياه والكهرباء القابضة (بديل)). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/badeel-sa/jobs/"
     },
     {
@@ -7224,7 +7139,7 @@
       "sc": 0.55,
       "sm": "Arcelormittal Tubular Products Al-Jubail Co. (AMTPJ) (شركة أرسيلور ميتال للأنابيب الجبيل). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/arcelormittal-jubail/jobs/"
     },
     {
@@ -7241,7 +7156,7 @@
       "sc": 0.55,
       "sm": "Alinma Bank (مصرف الإنماء). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/alinma-bank/jobs/"
     },
     {
@@ -7258,7 +7173,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/tamheer-program-at-saudi-railway-company-4408166391"
     },
     {
@@ -7275,7 +7190,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/technology-audit-manager-at-taqa-industrialization-energy-services-company-4407755468"
     },
     {
@@ -7292,7 +7207,7 @@
       "sc": 0.55,
       "sm": "ADES Holding Company (مجموعة أديس القابضة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ades-holding/jobs/"
     },
     {
@@ -7309,7 +7224,7 @@
       "sc": 0.55,
       "sm": "Power and Water Utility Company for Jubail and Yanbu (Marafiq) (شركة المياه والكهرباء للجبيل وينبع (مرافق)). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/marafiq/jobs/"
     },
     {
@@ -7326,7 +7241,7 @@
       "sc": 0.55,
       "sm": "Arabian Industrial Fibers Company (Ibn Rushd) (شركة ألياف عربية صناعية (ابن رشد)). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/ibn-rushd/jobs/"
     },
     {
@@ -7343,7 +7258,7 @@
       "sc": 0.55,
       "sm": "Taiba Investments Company (شركة طيبة للاستثمارات). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/taiba-investments/jobs/"
     },
     {
@@ -7360,7 +7275,7 @@
       "sc": 0.55,
       "sm": "Saudi Public Transport Company (SAPTCO) (الشركة السعودية للنقل الجماعي (سابتكو)). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/saptco/jobs/"
     },
     {
@@ -7377,7 +7292,7 @@
       "sc": 0.55,
       "sm": "Dur Hospitality Company (شركة دار للضيافة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/dur-hospitality/jobs/"
     },
     {
@@ -7394,7 +7309,7 @@
       "sc": 0.55,
       "sm": "BIAC (بياك). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/biac-sa/jobs/"
     },
     {
@@ -7411,7 +7326,7 @@
       "sc": 0.55,
       "sm": "iot squared (آيوت سكوير). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/iot-squared/jobs/"
     },
     {
@@ -7428,7 +7343,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/saed-gdp-at-rer-%D8%A7%D9%84%D8%B3%D8%AC%D9%84-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A-4410386327"
     },
     {
@@ -7445,7 +7360,7 @@
       "sc": 0.55,
       "sm": "SenseTime (سينس تايم). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/sensetime/jobs/"
     },
     {
@@ -7462,7 +7377,7 @@
       "sc": 0.55,
       "sm": "Blackstone (بلاك ستون). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/blackstone/jobs/"
     },
     {
@@ -7479,7 +7394,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/manual-tack-off-operator-at-lucid-motors-middle-east-4409700796"
     },
     {
@@ -7496,7 +7411,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/engineering-manager-facilities-at-lucid-motors-middle-east-4400717244"
     },
     {
@@ -7513,7 +7428,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/assistance-manager-logistics-operations-at-lucid-motors-middle-east-4410883548"
     },
     {
@@ -7530,7 +7445,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/assitant-manager-outbound-transportation-at-lucid-motors-middle-east-4343626176"
     },
     {
@@ -7547,7 +7462,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/business-process-specialist-at-lucid-motors-middle-east-4403967651"
     },
     {
@@ -7564,7 +7479,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/facilities-maintenance-supervisor-at-lucid-motors-middle-east-4399639153"
     },
     {
@@ -7581,7 +7496,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/manager-employee-relations-at-lucid-motors-middle-east-4374024518"
     },
     {
@@ -7598,25 +7513,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/assistant-manager-production-planning-control-at-lucid-motors-middle-east-4343793091"
-    },
-    {
-      "id": "090618b5f1de",
-      "src": "linkedin",
-      "t": "Vehicle SOC Manager",
-      "co": "Lucid Motors Middle East",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/vehicle-soc-manager-at-lucid-motors-middle-east-4360115184"
     },
     {
       "id": "6eed316191fb",
@@ -7632,7 +7530,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/5-axis-machinist-at-lucid-motors-middle-east-4393804867"
     },
     {
@@ -7649,7 +7547,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/sr-finance-manager-manufacturing-at-lucid-motors-middle-east-4321446663"
     },
     {
@@ -7666,25 +7564,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/general-assembly-process-engineering-manager-at-lucid-motors-middle-east-4403354543"
     },
     {
-      "id": "57bceca230fa",
+      "id": "090618b5f1de",
       "src": "linkedin",
-      "t": "Logistics Systems Engineer",
+      "t": "Vehicle SOC Manager",
       "co": "Lucid Motors Middle East",
       "cy": "Riyadh",
       "ct": "SA",
-      "ca": "Technology & Product",
+      "ca": "Strategy & Consulting",
       "tg": [],
       "sg": [],
-      "sn": "mid",
+      "sn": "senior",
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/logistics-systems-engineer-at-lucid-motors-middle-east-4311684239"
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/vehicle-soc-manager-at-lucid-motors-middle-east-4360115184"
     },
     {
       "id": "4512f0df7e93",
@@ -7700,8 +7598,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/sr-engineer-facilities-mechanical-at-lucid-motors-middle-east-4400708378"
+    },
+    {
+      "id": "57bceca230fa",
+      "src": "linkedin",
+      "t": "Logistics Systems Engineer",
+      "co": "Lucid Motors Middle East",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Technology & Product",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/logistics-systems-engineer-at-lucid-motors-middle-east-4311684239"
     },
     {
       "id": "0c0e3d19e674",
@@ -7717,7 +7632,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/sr-supervisor-%E2%80%93-powertrain-drive-unit-production-at-lucid-motors-middle-east-4412600625"
     },
     {
@@ -7734,25 +7649,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/ga-automation-engineer-at-lucid-motors-middle-east-4290176222"
-    },
-    {
-      "id": "edc6e8c6ad68",
-      "src": "linkedin",
-      "t": "Packaging Engineer",
-      "co": "Lucid Motors Middle East",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/packaging-engineer-at-lucid-motors-middle-east-4387115886"
     },
     {
       "id": "d31d890ac906",
@@ -7768,8 +7666,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/fire-ert-technician-at-lucid-motors-middle-east-4306313157"
+    },
+    {
+      "id": "edc6e8c6ad68",
+      "src": "linkedin",
+      "t": "Packaging Engineer",
+      "co": "Lucid Motors Middle East",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Technology & Product",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/packaging-engineer-at-lucid-motors-middle-east-4387115886"
     },
     {
       "id": "8e02d361e8b8",
@@ -7785,7 +7700,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/maintenance-engineer-automation-controls-at-lucid-motors-middle-east-4394494087"
     },
     {
@@ -7802,42 +7717,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/sr-supervisor-%E2%80%93-powertrain-battery-production-at-lucid-motors-middle-east-4412397657"
-    },
-    {
-      "id": "dc56df338c74",
-      "src": "linkedin",
-      "t": "Assistant Manager - Packaging Engineering",
-      "co": "Lucid Motors Middle East",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/assistant-manager-packaging-engineering-at-lucid-motors-middle-east-4387115887"
-    },
-    {
-      "id": "667a55228944",
-      "src": "linkedin",
-      "t": "Maintenance Controls Technician",
-      "co": "Lucid Motors Middle East",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-05-15",
-      "u": "https://sa.linkedin.com/jobs/view/maintenance-controls-technician-at-lucid-motors-middle-east-4362168336"
     },
     {
       "id": "8c2532f78625",
@@ -7853,8 +7734,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/manager-supplier-quality-engineering-biw-exterior-at-lucid-motors-middle-east-4392884763"
+    },
+    {
+      "id": "667a55228944",
+      "src": "linkedin",
+      "t": "Maintenance Controls Technician",
+      "co": "Lucid Motors Middle East",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/maintenance-controls-technician-at-lucid-motors-middle-east-4362168336"
     },
     {
       "id": "f32f58c86af6",
@@ -7870,8 +7768,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://sa.linkedin.com/jobs/view/sr-production-supervisor-stamping-at-lucid-motors-middle-east-4392876958"
+    },
+    {
+      "id": "6fe40d8219c3",
+      "src": "linkedin",
+      "t": "Vehicle Software Support Engineer",
+      "co": "Lucid Motors Middle East",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Technology & Product",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-05-16",
+      "u": "https://sa.linkedin.com/jobs/view/vehicle-software-support-engineer-at-lucid-motors-middle-east-4415114469"
     },
     {
       "id": "3bb08a6b90a9",
@@ -7887,7 +7802,7 @@
       "sc": 0.55,
       "sm": "Folk Maritime (فولك ماريتيم). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/folk-maritime/jobs/"
     },
     {
@@ -7904,7 +7819,7 @@
       "sc": 0.55,
       "sm": "Neo Space Group (مجموعة نيو سبيس). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/neo-space-group/jobs/"
     },
     {
@@ -7921,7 +7836,7 @@
       "sc": 0.55,
       "sm": "Sela Company (شركة سيلا). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/sela-sa/jobs/"
     },
     {
@@ -7938,7 +7853,7 @@
       "sc": 0.55,
       "sm": "Electric Vehicle Infrastructure Company (EVIQ) (شركة بنية المركبات الكهربائية (إيفيك)). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-05-15",
+      "dt": "2026-05-16",
       "u": "https://www.linkedin.com/company/eviq-sa/jobs/"
     }
   ]
