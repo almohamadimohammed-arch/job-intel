@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08T14:07:00.888051",
-  "count": 931,
+  "updated": "2026-10-09T13:53:21.538106",
+  "count": 899,
   "jobs": [
     {
       "id": "371944139fc3",
@@ -16,7 +16,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/data-strategy-control-lead-at-riyad-bank-4464793336"
     },
     {
@@ -33,8 +33,25 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-of-technology-innovation-data-%E2%80%93-four-seasons-hotel-madinah-saudi-arabia-at-four-seasons-hotels-resorts-saudi-arabia-4469871485"
+    },
+    {
+      "id": "cf7ea406f8da",
+      "src": "linkedin",
+      "t": "Director - Development Financial Planning and Analysis (CORS 245)",
+      "co": "Qiddiya | القدية",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "executive",
+      "sc": 0.63,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/director-development-financial-planning-and-analysis-cors-245-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4380409200"
     },
     {
       "id": "cdc87275d53f",
@@ -50,7 +67,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-risk-del-1-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4415628034"
     },
     {
@@ -67,76 +84,8 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-infrastructure-planning-mas6-20005143-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4437394455"
-    },
-    {
-      "id": "cf7ea406f8da",
-      "src": "linkedin",
-      "t": "Director - Development Financial Planning and Analysis (CORS 245)",
-      "co": "Qiddiya | القدية",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "executive",
-      "sc": 0.63,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/director-development-financial-planning-and-analysis-cors-245-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4380409200"
-    },
-    {
-      "id": "88336f0296f2",
-      "src": "linkedin",
-      "t": "Director - Public Realm - MAS 4001",
-      "co": "Qiddiya | القدية",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "executive",
-      "sc": 0.63,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/director-public-realm-mas-4001-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4457960279"
-    },
-    {
-      "id": "fcf5170bf87c",
-      "src": "linkedin",
-      "t": "Executive Director - Commercial (Construction Development) (Del 1)",
-      "co": "Qiddiya | القدية",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Operations & Execution",
-      "tg": [],
-      "sg": [],
-      "sn": "executive",
-      "sc": 0.63,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/executive-director-commercial-construction-development-del-1-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4415651174"
-    },
-    {
-      "id": "4c52a0031b42",
-      "src": "linkedin",
-      "t": "Senior Director - City Community Management (DEL 5)",
-      "co": "Qiddiya | القدية",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "executive",
-      "sc": 0.63,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/senior-director-city-community-management-del-5-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4445725298"
     },
     {
       "id": "8d62457f1437",
@@ -152,13 +101,13 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-business-planning-sn7-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4473721541"
     },
     {
-      "id": "3c684d14c888",
+      "id": "fcf5170bf87c",
       "src": "linkedin",
-      "t": "Director - Construction Management",
+      "t": "Executive Director - Commercial (Construction Development) (Del 1)",
       "co": "Qiddiya | القدية",
       "cy": "Riyadh",
       "ct": "SA",
@@ -169,25 +118,8 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/director-construction-management-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4473219641"
-    },
-    {
-      "id": "b3d5987d8328",
-      "src": "linkedin",
-      "t": "Director - Compliance & Certification - 50011271 AA9",
-      "co": "Qiddiya | القدية",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "executive",
-      "sc": 0.63,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/director-compliance-certification-50011271-aa9-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4448288169"
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/executive-director-commercial-construction-development-del-1-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4415651174"
     },
     {
       "id": "8dc28aab2972",
@@ -203,8 +135,59 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/executive-director-ict-operations-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4445724562"
+    },
+    {
+      "id": "3c684d14c888",
+      "src": "linkedin",
+      "t": "Director - Construction Management",
+      "co": "Qiddiya | القدية",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Operations & Execution",
+      "tg": [],
+      "sg": [],
+      "sn": "executive",
+      "sc": 0.63,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/director-construction-management-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4473219641"
+    },
+    {
+      "id": "4c52a0031b42",
+      "src": "linkedin",
+      "t": "Senior Director - City Community Management (DEL 5)",
+      "co": "Qiddiya | القدية",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "executive",
+      "sc": 0.63,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/senior-director-city-community-management-del-5-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4445725298"
+    },
+    {
+      "id": "88336f0296f2",
+      "src": "linkedin",
+      "t": "Director - Public Realm - MAS 4001",
+      "co": "Qiddiya | القدية",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "executive",
+      "sc": 0.63,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/director-public-realm-mas-4001-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4457960279"
     },
     {
       "id": "5102d2dd3a06",
@@ -220,8 +203,25 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-design-project-management-mixed-use-urban-core-req738-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4459784055"
+    },
+    {
+      "id": "0d4cd37e1179",
+      "src": "linkedin",
+      "t": "Project Director - Workplace (Urban Core) (REQ743)",
+      "co": "Qiddiya | القدية",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Operations & Execution",
+      "tg": [],
+      "sg": [],
+      "sn": "executive",
+      "sc": 0.63,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/project-director-workplace-urban-core-req743-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4460009409"
     },
     {
       "id": "174e7437d776",
@@ -237,7 +237,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-design-management-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4457481470"
     },
     {
@@ -254,7 +254,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/manager-it-strategy-and-planning-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4435095913"
     },
     {
@@ -271,7 +271,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/pmo-lead-planning-performance-transformation-at-red-sea-global-4473630985"
     },
     {
@@ -288,7 +288,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/pmo-lead-%E2%80%93-planning-performance-transformation-at-red-sea-global-4473484148"
     },
     {
@@ -305,7 +305,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/lead-electrical-engineer-at-tomco-saudi-aramco-cogeneration-plants-4471264887"
     },
     {
@@ -322,7 +322,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/fire-chief-ii-at-yanbu-aramco-sinopec-refining-company-yasref-ltd-4476161196"
     },
     {
@@ -339,7 +339,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/technology-support-lead-at-kaust-king-abdullah-university-of-science-and-technology-4468600511"
     },
     {
@@ -356,25 +356,8 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/lead-bioinformatics-platform-at-kaust-king-abdullah-university-of-science-and-technology-4476186169"
-    },
-    {
-      "id": "3fc44c94713d",
-      "src": "linkedin",
-      "t": "Intellectual Property Manager, Technology Transfer & Innovation Office",
-      "co": "KAUST (King Abdullah University of Science and Technology)",
-      "cy": "Thuwal",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.63,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/intellectual-property-manager-technology-transfer-innovation-office-at-kaust-king-abdullah-university-of-science-and-technology-4465054166"
     },
     {
       "id": "cbf1df17c2f7",
@@ -390,7 +373,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/research-user-computing-lead-at-kaust-king-abdullah-university-of-science-and-technology-4475374229"
     },
     {
@@ -407,7 +390,7 @@
       "sc": 0.63,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/cloud-security-engineering-lead-at-kaust-king-abdullah-university-of-science-and-technology-4475544089"
     },
     {
@@ -424,7 +407,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/tactical-investment-professional-at-public-investment-fund-pif-4471722595"
     },
     {
@@ -441,7 +424,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-of-operations-at-lesha-capital-4463474053"
     },
     {
@@ -458,7 +441,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-of-compliance-at-j-awan-capital-4469910527"
     },
     {
@@ -475,7 +458,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/data-quality-lead-at-saudi-credit-information-company-simah-4468580050"
     },
     {
@@ -492,7 +475,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/it-enterprise-architecture-lead-at-saudi-credit-information-company-simah-4468560977"
     },
     {
@@ -509,7 +492,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/head-of-infrastructure-application-unit-at-riyad-bank-4465531866"
     },
     {
@@ -526,7 +509,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/head-of-technology-delivery-gateways-unit-at-riyad-bank-4465536701"
     },
     {
@@ -543,7 +526,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/data-engineering-team-leader-at-riyad-bank-4469729941"
     },
     {
@@ -560,7 +543,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/%C2%A0head-business-data-information-architecture-at-riyad-bank-4472126334"
     },
     {
@@ -577,7 +560,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/head-of-network-dc-network-at-riyad-bank-4465532845"
     },
     {
@@ -594,7 +577,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/testing-team-leader-at-riyad-bank-4468595443"
     },
     {
@@ -611,7 +594,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/corporate-social-responsibility-lead-at-riyad-bank-4475950245"
     },
     {
@@ -628,7 +611,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/head-of-network-remote-network-unit-at-riyad-bank-4468910125"
     },
     {
@@ -645,7 +628,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/integration-design-data-engineering-team-leader-at-riyad-bank-4473489161"
     },
     {
@@ -662,7 +645,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/procedures-lead-at-riyad-bank-4465955539"
     },
     {
@@ -679,7 +662,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/cyber-security-devops-lead-at-riyad-bank-4470834593"
     },
     {
@@ -696,7 +679,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/cybersecurity-director-at-confidential-government-4470561851"
     },
     {
@@ -713,7 +696,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/data-management-office-director-at-confidential-government-4470563706"
     },
     {
@@ -730,7 +713,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/net-core-development-team-lead-at-confidential-government-4469585502"
     },
     {
@@ -747,7 +730,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/chief-operating-officer-%E2%80%93-smart-cities-spatial-ai-at-confidential-government-4467362846"
     },
     {
@@ -764,7 +747,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-of-internal-audit-at-confidential-government-4472416903"
     },
     {
@@ -781,25 +764,8 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/head-of-corporate-communications-at-confidential-government-4475786735"
-    },
-    {
-      "id": "add8399be90e",
-      "src": "linkedin",
-      "t": "HiPo & Leadership Development Analyst",
-      "co": "Saudi Air Navigation Services",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/hipo-leadership-development-analyst-at-saudi-air-navigation-services-4472445142"
     },
     {
       "id": "95acef3b0e6e",
@@ -815,7 +781,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/health-safety-lead-expert-at-zakat-tax-and-customs-authority-4473488589"
     },
     {
@@ -832,7 +798,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/firefighting-lead-specialist-at-zakat-tax-and-customs-authority-4473494485"
     },
     {
@@ -849,7 +815,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/data-ai-platform-section-head-at-saudi-air-navigation-services-4464522500"
     },
     {
@@ -866,7 +832,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/digital-enterprise-architecture-section-head-at-saudi-air-navigation-services-4464515401"
     },
     {
@@ -883,7 +849,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/digital-infrastructure-cloud-lead-at-saudi-air-navigation-services-4464509594"
     },
     {
@@ -900,7 +866,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/digital-service-assurance-section-head-at-saudi-air-navigation-services-4464513681"
     },
     {
@@ -917,25 +883,8 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/digital-grc-section-head-at-saudi-air-navigation-services-4464506922"
-    },
-    {
-      "id": "1debbe5aaf30",
-      "src": "linkedin",
-      "t": "Digital Project Lead",
-      "co": "Saudi Air Navigation Services",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/digital-project-lead-at-saudi-air-navigation-services-4473731079"
     },
     {
       "id": "cd1642f10a26",
@@ -951,7 +900,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/litigations-section-head-at-saudi-air-navigation-services-4471291135"
     },
     {
@@ -968,7 +917,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-procurement-contracting-1326-at-team-saudi-4474948746"
     },
     {
@@ -985,7 +934,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/assistant-director-of-engineering-%E2%80%93-four-seasons-resort-at-the-red-sea-saudi-arabia-at-four-seasons-hotels-resorts-saudi-arabia-4455324788"
     },
     {
@@ -1002,7 +951,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/chief-technology-officer-at-foreground-4475113501"
     },
     {
@@ -1019,7 +968,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/head-organization-development-at-national-medical-care-4472156499"
     },
     {
@@ -1036,7 +985,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/lead-account-management-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4465798296"
     },
     {
@@ -1053,7 +1002,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/lead-statutory-reporting-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4475408732"
     },
     {
@@ -1070,7 +1019,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-enterprise-systems-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4464562465"
     },
     {
@@ -1087,7 +1036,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-engineer-ai-delivery-at-elm-company-4471920095"
     },
     {
@@ -1104,7 +1053,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/lead-principal-forward-deployed-engineer-arabic-speaking-at-salesforce-4435859636"
     },
     {
@@ -1121,7 +1070,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/capabilities-insights-analytics-analyst-healthcare-at-mckinsey-company-4401331529"
     },
     {
@@ -1138,25 +1087,8 @@
       "sc": 0.59,
       "sm": "NEOM (نيوم). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://www.linkedin.com/company/discoverneom/jobs/"
-    },
-    {
-      "id": "5d0c7780ac1b",
-      "src": "linkedin",
-      "t": "Human Resources Director",
-      "co": "RIG (Recruitment International Group)",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "executive",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/human-resources-director-at-rig-recruitment-international-group-4470249238"
     },
     {
       "id": "938253103404",
@@ -1172,25 +1104,8 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/ai-ml-automation-analyst-at-kaust-king-abdullah-university-of-science-and-technology-4469594596"
-    },
-    {
-      "id": "fa978474ee8f",
-      "src": "linkedin",
-      "t": "Manager - Data Modeling CDUP2086",
-      "co": "Qiddiya | القدية",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/manager-data-modeling-cdup2086-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4407180343"
     },
     {
       "id": "d5f8ca2e6ce5",
@@ -1206,8 +1121,25 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-manager-stakeholder-governance-and-community-engagement-50008988-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4452387892"
+    },
+    {
+      "id": "fa978474ee8f",
+      "src": "linkedin",
+      "t": "Manager - Data Modeling CDUP2086",
+      "co": "Qiddiya | القدية",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Technology & Product",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.59,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/manager-data-modeling-cdup2086-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4407180343"
     },
     {
       "id": "fae7b1636dad",
@@ -1223,7 +1155,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/manager-asset-infrastructure-design-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4441730416"
     },
     {
@@ -1240,7 +1172,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/assistant-manager-engineering-solutions-bim-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4415603326"
     },
     {
@@ -1257,8 +1189,25 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/manager-operational-readiness-20005877-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4442024198"
+    },
+    {
+      "id": "d207c6208f03",
+      "src": "linkedin",
+      "t": "Senior Manager - Reporting - 50007466 AA9",
+      "co": "Qiddiya | القدية",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.59,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/senior-manager-reporting-50007466-aa9-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4448508150"
     },
     {
       "id": "0598536b3d90",
@@ -1274,42 +1223,25 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/manager-operational-readiness-50011339-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4451154334"
     },
     {
-      "id": "2deb893c4a42",
+      "id": "4da9a4e32e22",
       "src": "linkedin",
-      "t": "Senior Design Manager - Public Realm - MAS - 4003",
+      "t": "Senior Manager - Infrastructure",
       "co": "Qiddiya | القدية",
       "cy": "Riyadh",
       "ct": "SA",
-      "ca": "Strategy & Consulting",
+      "ca": "Operations & Execution",
       "tg": [],
       "sg": [],
       "sn": "senior",
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/senior-design-manager-public-realm-mas-4003-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4457953424"
-    },
-    {
-      "id": "9a1d803e7d0c",
-      "src": "linkedin",
-      "t": "Senior Design Manager - Public Realm - MAS 4004",
-      "co": "Qiddiya | القدية",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/senior-design-manager-public-realm-mas-4004-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4457967407"
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/senior-manager-infrastructure-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4465714913"
     },
     {
       "id": "e4749933b8c3",
@@ -1325,42 +1257,25 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-manager-interface-management-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4465776164"
     },
     {
-      "id": "8639bb7451a3",
+      "id": "f834eec8a853",
       "src": "linkedin",
-      "t": "Delivery Project Manager / Construction Manager",
+      "t": "Senior Specialist - Contracts Management (CORS368)",
       "co": "Qiddiya | القدية",
       "cy": "Riyadh",
       "ct": "SA",
-      "ca": "Operations & Execution",
+      "ca": "Strategy & Consulting",
       "tg": [],
       "sg": [],
       "sn": "senior",
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/delivery-project-manager-construction-manager-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4427488751"
-    },
-    {
-      "id": "ab1638e3d43e",
-      "src": "linkedin",
-      "t": "Manager - Project Management Design - Mixed-Use - Urban Core (REQ737)",
-      "co": "Qiddiya | القدية",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Operations & Execution",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/manager-project-management-design-mixed-use-urban-core-req737-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4471338826"
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/senior-specialist-contracts-management-cors368-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4471329686"
     },
     {
       "id": "6662e3fade98",
@@ -1376,42 +1291,25 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-manager-geotechnical-mas5-20003552-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4437381751"
     },
     {
-      "id": "572c01d6a566",
+      "id": "277906c486f1",
       "src": "linkedin",
-      "t": "Associate Director - Research and Development",
-      "co": "Red Sea Global",
-      "cy": "Tabuk",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "executive",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/associate-director-research-and-development-at-red-sea-global-4463007392"
-    },
-    {
-      "id": "1388708c8bb6",
-      "src": "linkedin",
-      "t": "Associate Director - Residential Marketing",
-      "co": "Red Sea Global",
+      "t": "Senior Manager - Development Financial Planning and Analysis (CORS 249)",
+      "co": "Qiddiya | القدية",
       "cy": "Riyadh",
       "ct": "SA",
       "ca": "Strategy & Consulting",
       "tg": [],
       "sg": [],
-      "sn": "executive",
+      "sn": "senior",
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/associate-director-residential-marketing-at-red-sea-global-4472917955"
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/senior-manager-development-financial-planning-and-analysis-cors-249-at-qiddiya-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D8%A9-4372859078"
     },
     {
       "id": "51ca6a3a9e25",
@@ -1427,8 +1325,25 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-destination-marketing-amaala-at-red-sea-global-4464796937"
+    },
+    {
+      "id": "1388708c8bb6",
+      "src": "linkedin",
+      "t": "Associate Director - Residential Marketing",
+      "co": "Red Sea Global",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "executive",
+      "sc": 0.59,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/associate-director-residential-marketing-at-red-sea-global-4472917955"
     },
     {
       "id": "8a34f681f158",
@@ -1444,8 +1359,25 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-%E2%80%93-production-at-red-sea-global-4473490046"
+    },
+    {
+      "id": "8846ef67e663",
+      "src": "linkedin",
+      "t": "Director – Nursery Operations",
+      "co": "Red Sea Global",
+      "cy": "Tabuk",
+      "ct": "SA",
+      "ca": "Operations & Execution",
+      "tg": [],
+      "sg": [],
+      "sn": "executive",
+      "sc": 0.59,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/director-%E2%80%93-nursery-operations-at-red-sea-global-4473486135"
     },
     {
       "id": "d4a39974c912",
@@ -1461,7 +1393,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-production-at-red-sea-global-4473651141"
     },
     {
@@ -1478,7 +1410,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/document-controller-at-acwa-4467723097"
     },
     {
@@ -1495,7 +1427,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/hse-officer-at-acwa-4466548317"
     },
     {
@@ -1512,7 +1444,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/chemist-at-acwa-4466549304"
     },
     {
@@ -1529,7 +1461,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/mechanical-technician-at-acwa-4466553277"
     },
     {
@@ -1546,7 +1478,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/storekeeper-at-acwa-4466537785"
     },
     {
@@ -1563,7 +1495,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/control-room-operator-at-acwa-4466315993"
     },
     {
@@ -1580,7 +1512,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/contract-manager-at-acwa-4471732326"
     },
     {
@@ -1597,7 +1529,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/hr-admin-supervisor-at-acwa-4467203793"
     },
     {
@@ -1614,7 +1546,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/electrical-technician-at-acwa-4466560171"
     },
     {
@@ -1631,25 +1563,8 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/project-coordinator-at-acwa-4470915616"
-    },
-    {
-      "id": "91453f08b962",
-      "src": "linkedin",
-      "t": "Electrical Engineer - I",
-      "co": "Acwa",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/electrical-engineer-i-at-acwa-4465020870"
     },
     {
       "id": "0861ac946dfd",
@@ -1665,25 +1580,8 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/ccr-operator-at-acwa-4466560174"
-    },
-    {
-      "id": "35601b8ff738",
-      "src": "linkedin",
-      "t": "Field Operator",
-      "co": "Acwa",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/field-operator-at-acwa-4468621119"
     },
     {
       "id": "6abbf47c916d",
@@ -1699,7 +1597,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/executive-manager-legal-bd-at-acwa-4463474282"
     },
     {
@@ -1716,7 +1614,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/i-c-technician-at-acwa-4466543425"
     },
     {
@@ -1733,7 +1631,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/shift-charge-engineer-at-acwa-4472442188"
     },
     {
@@ -1750,8 +1648,42 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/manager-stp-solid-waste-at-acwa-4467901472"
+    },
+    {
+      "id": "19d0688adf9b",
+      "src": "linkedin",
+      "t": "Maintenance Manager",
+      "co": "Acwa",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.59,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/maintenance-manager-at-acwa-4465511599"
+    },
+    {
+      "id": "61bf827af84f",
+      "src": "linkedin",
+      "t": "Technical & Performance Engineer",
+      "co": "Acwa",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Technology & Product",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.59,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/technical-performance-engineer-at-acwa-4466323784"
     },
     {
       "id": "80eff6264255",
@@ -1767,25 +1699,8 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/cybersecurity-specialist-at-yanbu-aramco-sinopec-refining-company-yasref-ltd-4476171004"
-    },
-    {
-      "id": "05d1965f52c2",
-      "src": "linkedin",
-      "t": "Maintenance Engineering Support Manager",
-      "co": "Saudi Aramco Total Refining and Petrochemical Company (SATORP)",
-      "cy": "Jubail",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/maintenance-engineering-support-manager-at-saudi-aramco-total-refining-and-petrochemical-company-satorp-4464974867"
     },
     {
       "id": "624e25565b4b",
@@ -1801,7 +1716,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/environmental-engineer-at-saudi-aramco-base-oil-company-luberef-4476701090"
     },
     {
@@ -1818,7 +1733,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-environmental-engineer-at-saudi-aramco-base-oil-company-luberef-4476597399"
     },
     {
@@ -1835,7 +1750,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/vp-finance-and-administration-at-midana-exploration-company-4465988011"
     },
     {
@@ -1852,7 +1767,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/transaction-pmo-lead-at-maaden-4470595976"
     },
     {
@@ -1869,25 +1784,8 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/corrosion-engineer-at-saudi-aramco-total-refining-and-petrochemical-company-satorp-4467975099"
-    },
-    {
-      "id": "16ef3fa1cb56",
-      "src": "linkedin",
-      "t": "Section Head, Geology",
-      "co": "Maaden",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/section-head-geology-at-maaden-4458371317"
     },
     {
       "id": "6bfe6d1d9e3f",
@@ -1903,7 +1801,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/lead-specialist-cost-controller-at-maaden-4470868382"
     },
     {
@@ -1920,7 +1818,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-of-administration-at-srg-mining-4477144057"
     },
     {
@@ -1937,7 +1835,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/manager-cybersecurity-application-security-at-elm-company-4475700077"
     },
     {
@@ -1954,7 +1852,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/associate-principal-information-technology-security-audit-at-elm-company-4474294042"
     },
     {
@@ -1971,7 +1869,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/consultant-cybersecurity-application-architecture-at-elm-company-4475489570"
     },
     {
@@ -1988,7 +1886,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/officer-administration-at-elm-company-4474295038"
     },
     {
@@ -2005,7 +1903,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/consultant-governance-compliance-at-elm-company-4474977109"
     },
     {
@@ -2022,8 +1920,25 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-specialist-project-management-at-elm-company-4474289400"
+    },
+    {
+      "id": "5904b4fcb09c",
+      "src": "linkedin",
+      "t": "Advisor - Legal Affairs",
+      "co": "Elm Company",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.59,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/advisor-legal-affairs-at-elm-company-4475965438"
     },
     {
       "id": "75c54afaa7cd",
@@ -2039,7 +1954,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/principal-privacy-data-governance-at-elm-company-4475700081"
     },
     {
@@ -2056,7 +1971,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/consultant-at-elm-company-4471902854"
     },
     {
@@ -2073,7 +1988,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/junior-network-security-engineer-at-emdad-by-elm-4471289471"
     },
     {
@@ -2090,7 +2005,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-java-full-stack-developer-at-emdad-by-elm-4472535728"
     },
     {
@@ -2107,7 +2022,7 @@
       "sc": 0.59,
       "sm": "HUMAIN (هيومين). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://www.linkedin.com/company/humain-ai/jobs/"
     },
     {
@@ -2124,7 +2039,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/lead-mep-technical-office-manager-at-saudi-pan-kingdom-company-sapac-4463015032"
     },
     {
@@ -2141,7 +2056,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/enterprise-operations-center-eoc-team-lead-at-mis-al-moammar-information-systems-co-4471099389"
     },
     {
@@ -2158,7 +2073,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/head-of-patients-services-at-national-medical-care-4466259159"
     },
     {
@@ -2175,7 +2090,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-business-data-intelligence-at-king-salman-international-airport-4472436556"
     },
     {
@@ -2192,7 +2107,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/lab-quality-management-system-manager-at-saudi-aramco-total-refining-and-petrochemical-company-satorp-4467963277"
     },
     {
@@ -2209,8 +2124,25 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/lead-offshore-construction-engineer-at-nmdc-energy-4475936937"
+    },
+    {
+      "id": "96c6d1bbe243",
+      "src": "linkedin",
+      "t": "Viral Vector Staff Scientist",
+      "co": "KAUST (King Abdullah University of Science and Technology)",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "executive",
+      "sc": 0.59,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/viral-vector-staff-scientist-at-kaust-king-abdullah-university-of-science-and-technology-4476185354"
     },
     {
       "id": "f479367b5991",
@@ -2226,7 +2158,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-of-quality-assurance-and-accreditation-at-riyadh-university-of-arts-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%84%D9%84%D9%81%D9%86%D9%88%D9%86-4473651809"
     },
     {
@@ -2243,7 +2175,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-of-internal-audit-at-riyadh-university-of-arts-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%84%D9%84%D9%81%D9%86%D9%88%D9%86-4472173746"
     },
     {
@@ -2260,7 +2192,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-of-student-affairs-at-riyadh-university-of-arts-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%84%D9%84%D9%81%D9%86%D9%88%D9%86-4473645952"
     },
     {
@@ -2277,7 +2209,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/lead-shareholder-engagement-and-advocacy-specialist-at-islamic-development-bank-isdb-4472707379"
     },
     {
@@ -2294,7 +2226,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/global-lead-procurement-officer-at-islamic-development-bank-isdb-4467061213"
     },
     {
@@ -2311,7 +2243,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/library-lead-at-riyadh-university-of-arts-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%84%D9%84%D9%81%D9%86%D9%88%D9%86-4472612781"
     },
     {
@@ -2328,7 +2260,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/lead-strategic-coordinator-at-islamic-development-bank-isdb-4476768659"
     },
     {
@@ -2345,7 +2277,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/end-user-computing-analyst-at-kaust-king-abdullah-university-of-science-and-technology-4470287123"
     },
     {
@@ -2362,7 +2294,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/export-compliance-research-security-officer-at-kaust-king-abdullah-university-of-science-and-technology-4470290763"
     },
     {
@@ -2379,7 +2311,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/hpc-senior-systems-administrator-at-kaust-king-abdullah-university-of-science-and-technology-4475370362"
     },
     {
@@ -2396,7 +2328,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/graduate-program-student-advisor-at-kaust-king-abdullah-university-of-science-and-technology-4466774214"
     },
     {
@@ -2413,25 +2345,8 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/research-user-computing-linux-specialist-at-kaust-king-abdullah-university-of-science-and-technology-4475378101"
-    },
-    {
-      "id": "8c2571821908",
-      "src": "linkedin",
-      "t": "Digital Transformation Expert",
-      "co": "NTU International A/S",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/digital-transformation-expert-at-ntu-international-a-s-4470443221"
     },
     {
       "id": "367b7b74ede3",
@@ -2447,25 +2362,25 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-communications-engagement-specialist-at-kaust-king-abdullah-university-of-science-and-technology-4477124223"
     },
     {
-      "id": "96c6d1bbe243",
+      "id": "8c2571821908",
       "src": "linkedin",
-      "t": "Viral Vector Staff Scientist",
-      "co": "KAUST (King Abdullah University of Science and Technology)",
+      "t": "Digital Transformation Expert",
+      "co": "NTU International A/S",
       "cy": "Riyadh",
       "ct": "SA",
       "ca": "Strategy & Consulting",
       "tg": [],
       "sg": [],
-      "sn": "executive",
+      "sn": "mid",
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/viral-vector-staff-scientist-at-kaust-king-abdullah-university-of-science-and-technology-4476185354"
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/digital-transformation-expert-at-ntu-international-a-s-4470443221"
     },
     {
       "id": "4ec3761020dd",
@@ -2481,7 +2396,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/science-communications-engagement-coordinator-at-kaust-king-abdullah-university-of-science-and-technology-4467077629"
     },
     {
@@ -2498,7 +2413,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/learning-experience-manager-head-teacher-of-math-phys-national-curriculum-at-noon-education-for-everyone-4465463653"
     },
     {
@@ -2515,7 +2430,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/leader-band-b-1-eastern-fleurieu-r-12-school-strathalbyn-r-6-campus-coordinator-wellbeing-leader-at-department-for-education-south-australia-4465323777"
     },
     {
@@ -2532,7 +2447,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/learning-experience-manager-head-teacher-of-sciences-national-curriculum-at-noon-education-for-everyone-4465474659"
     },
     {
@@ -2549,7 +2464,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/financial-planning-analysis-lead-at-golf-saudi-4474049231"
     },
     {
@@ -2566,7 +2481,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-cybersecurity-analyst-grc-at-johns-hopkins-aramco-healthcare-jhah-4466512253"
     },
     {
@@ -2583,7 +2498,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-director-of-operations-at-u-s-renal-care-saudi-arabia-4474697452"
     },
     {
@@ -2600,7 +2515,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/associate-cybersecurity-analyst-at-johns-hopkins-aramco-healthcare-jhah-4466189674"
     },
     {
@@ -2617,7 +2532,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/call-center-team-leader-at-ace-gallagher-arabia-insurance-consultants-4473289281"
     },
     {
@@ -2634,25 +2549,8 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/chief-compliance-officer-and-mlro-fab-capital-ksa-at-first-abu-dhabi-bank-fab-4465978725"
-    },
-    {
-      "id": "7c6260383d16",
-      "src": "linkedin",
-      "t": "Director - Taxation, KSA",
-      "co": "MCA Gulf - Audit, Tax, Consulting & Corporate Services",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "executive",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/director-taxation-ksa-at-mca-gulf-audit-tax-consulting-corporate-services-4474068326"
     },
     {
       "id": "6ae2a4da751c",
@@ -2668,8 +2566,25 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/maintenance-lead-technician-at-napco-national-4465311354"
+    },
+    {
+      "id": "35b36da510e7",
+      "src": "linkedin",
+      "t": "Chief Operating Officer",
+      "co": "مجموعة الأصول الثقافية Cultural Assets Group",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "executive",
+      "sc": 0.59,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/chief-operating-officer-at-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%A3%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9-cultural-assets-group-4473445382"
     },
     {
       "id": "eb9f1ad5fc8e",
@@ -2685,7 +2600,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/corporate-bank-corporate-global-subsidiaries-coverage-originator-vp-at-deutsche-bank-4467243204"
     },
     {
@@ -2702,7 +2617,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/cfo-regional-treasury-country-treasurer-saudi-arabia-uae-and-qatar-vp-at-deutsche-bank-4443287234"
     },
     {
@@ -2719,7 +2634,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-market-analytics-and-contracts-at-king-salman-international-airport-4472436560"
     },
     {
@@ -2736,8 +2651,42 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-%E2%80%93-food-and-beverage-partnerships-at-king-salman-international-airport-4473760116"
+    },
+    {
+      "id": "9e6689485c7b",
+      "src": "linkedin",
+      "t": "Head of Project Execution, C&I Energy",
+      "co": "Yellow Door Energy",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Operations & Execution",
+      "tg": [],
+      "sg": [],
+      "sn": "director",
+      "sc": 0.59,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/head-of-project-execution-c-i-energy-at-yellow-door-energy-4475944972"
+    },
+    {
+      "id": "481e95b646e7",
+      "src": "linkedin",
+      "t": "Director – Expo Studios (Media & Broadcasting)",
+      "co": "Expo 2030 Riyadh",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "executive",
+      "sc": 0.59,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/director-%E2%80%93-expo-studios-media-broadcasting-at-expo-2030-riyadh-4475587042"
     },
     {
       "id": "d07642e2a49f",
@@ -2753,15 +2702,15 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/associate-director-wellness-operational-integration-at-red-sea-global-4476581414"
     },
     {
-      "id": "57fbe9e73ccc",
+      "id": "5cf3ce25e431",
       "src": "linkedin",
-      "t": "Associate Director – Commercial",
+      "t": "Associate Director - Commercial",
       "co": "Red Sea Global",
-      "cy": "Tabuk",
+      "cy": "Riyadh",
       "ct": "SA",
       "ca": "Strategy & Consulting",
       "tg": [],
@@ -2770,8 +2719,8 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/associate-director-%E2%80%93-commercial-at-red-sea-global-4450137375"
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/associate-director-commercial-at-red-sea-global-4473608647"
     },
     {
       "id": "922f23e77897",
@@ -2787,7 +2736,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/head-of-commercial-business-development-at-mogi-i-o-ott-podcast-short-video-apps-for-you-4475564286"
     },
     {
@@ -2804,7 +2753,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/commercial-director-%E2%80%93-sales-business-development-at-mogi-i-o-ott-podcast-short-video-apps-for-you-4475543629"
     },
     {
@@ -2821,7 +2770,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-%E2%80%93-sales-business-development-at-mogi-i-o-ott-podcast-short-video-apps-for-you-4475551349"
     },
     {
@@ -2838,7 +2787,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/chief-executive-officer-at-confidential-government-4466253894"
     },
     {
@@ -2855,7 +2804,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/chief-operating-officer-at-confidential-government-4477142751"
     },
     {
@@ -2872,7 +2821,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/creative-lead-at-voz-music-production-4470106356"
     },
     {
@@ -2889,7 +2838,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/field-quality-leader-siemens-energy-dammam-ksa-at-siemens-energy-4466843587"
     },
     {
@@ -2906,42 +2855,8 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/ehs-lead-grid-technologies-at-siemens-energy-4456004700"
-    },
-    {
-      "id": "e8d56cac8e7e",
-      "src": "linkedin",
-      "t": "Head of Project Execution",
-      "co": "Yellow Door Energy",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Operations & Execution",
-      "tg": [],
-      "sg": [],
-      "sn": "director",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/head-of-project-execution-at-yellow-door-energy-4475475913"
-    },
-    {
-      "id": "9e6689485c7b",
-      "src": "linkedin",
-      "t": "Head of Project Execution, C&I Energy",
-      "co": "Yellow Door Energy",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Operations & Execution",
-      "tg": [],
-      "sg": [],
-      "sn": "director",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/head-of-project-execution-c-i-energy-at-yellow-door-energy-4477148299"
     },
     {
       "id": "74fe87c6f5bc",
@@ -2957,25 +2872,8 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/country-director-cambodia-at-plan-international-cambodia-4474629687"
-    },
-    {
-      "id": "484ba3c87252",
-      "src": "linkedin",
-      "t": "MAINTENANCE SENIOR TEAM LEADER",
-      "co": "Napco National",
-      "cy": "Dammam",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/maintenance-senior-team-leader-at-napco-national-4477192215"
     },
     {
       "id": "812c20e32375",
@@ -2991,7 +2889,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/medical-science-liaison-lead-riyadh-contract-at-ptc-therapeutics-inc-4446894801"
     },
     {
@@ -3008,7 +2906,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/rapid-intervention-lead-specialist-at-confidential-government-4474027527"
     },
     {
@@ -3025,7 +2923,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-of-localization-and-workforce-development-at-confidential-government-4476597977"
     },
     {
@@ -3042,7 +2940,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/partner-and-customer-enablement-lead-at-jobgether-4475457086"
     },
     {
@@ -3059,7 +2957,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-corporate-development-at-alat-4468603632"
     },
     {
@@ -3076,7 +2974,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/head-of-shared-services-at-nami-a-3d-printing-company-4477138660"
     },
     {
@@ -3093,7 +2991,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/program-director-at-alpha-leadership-co-4473757206"
     },
     {
@@ -3110,7 +3008,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-of-risk-management-at-alpha-leadership-co-4473745313"
     },
     {
@@ -3127,25 +3025,8 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/product-development-lead-at-albaik-food-systems-co-4474225004"
-    },
-    {
-      "id": "606a253a217e",
-      "src": "linkedin",
-      "t": "Board Affairs Director",
-      "co": "Lifera",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "executive",
-      "sc": 0.59,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/board-affairs-director-at-lifera-4463860313"
     },
     {
       "id": "843610f703aa",
@@ -3161,7 +3042,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/operation-excellence-director-at-tuwaiq-casting-forging-company-4468641976"
     },
     {
@@ -3178,7 +3059,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/private-bank-client-service-executive-middle-east-avp-at-deutsche-bank-4427531139"
     },
     {
@@ -3195,7 +3076,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/capacity-mgmt-monitoring-team-leader-at-riyad-bank-4468593627"
     },
     {
@@ -3212,7 +3093,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/chief-electrical-engineer-at-the-green-recruitment-company-4474249747"
     },
     {
@@ -3229,7 +3110,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/chief-technology-officer-at-the-green-recruitment-company-4471357018"
     },
     {
@@ -3246,7 +3127,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/global-head-of-engineering-renewable-energy-projects-at-the-green-recruitment-company-4474904046"
     },
     {
@@ -3263,7 +3144,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/associate-director-field-service-at-raytheon-4457008325"
     },
     {
@@ -3280,7 +3161,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/chief-accountant-at-national-parcel-stations-network-parcelat-4475384716"
     },
     {
@@ -3297,7 +3178,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/project-director-saudi-at-mohammad-al-habib-real-estate-co-%D8%B4%D8%B1%D9%83%D8%A9-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%AD%D8%A8%D9%8A%D8%A8-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-4467629033"
     },
     {
@@ -3314,7 +3195,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/warehouse-assistant-team-leader-at-napco-national-4473528084"
     },
     {
@@ -3331,7 +3212,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/lead-civil-engineer-at-abunayyan-holding-4473202692"
     },
     {
@@ -3348,7 +3229,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/lead-maintenance-technician-electrical-at-abunayyan-holding-4465604839"
     },
     {
@@ -3365,7 +3246,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-of-finance-at-chedi-hospitality-4474728493"
     },
     {
@@ -3382,7 +3263,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/maintenance-team-leader-at-lucid-motors-middle-east-4467804154"
     },
     {
@@ -3399,7 +3280,7 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/lead-commissioning-supt-instrumentation-at-international-maritime-industries-4475362976"
     },
     {
@@ -3416,8 +3297,25 @@
       "sc": 0.59,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/director-of-property-and-facilities-management-at-alsalimi-company-limited-4466247711"
+    },
+    {
+      "id": "228de8755163",
+      "src": "linkedin",
+      "t": "Civil Technicians",
+      "co": "MENA Business Investment Group",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/civil-technicians-at-mena-business-investment-group-4469868375"
     },
     {
       "id": "3f5df29ce2e0",
@@ -3433,7 +3331,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-compliance-manager-at-j-awan-capital-4468702572"
     },
     {
@@ -3450,7 +3348,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/it-grc-specialist-at-sahm-capital-4470288704"
     },
     {
@@ -3467,7 +3365,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/database-manager-at-the-saudi-national-bank-snb-4467178560"
     },
     {
@@ -3484,7 +3382,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/enterprise-architecture-manager-at-the-saudi-national-bank-snb-4471910236"
     },
     {
@@ -3501,7 +3399,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/datacenter-manager-at-the-saudi-national-bank-snb-4474695159"
     },
     {
@@ -3518,7 +3416,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/it-incident-manager-at-the-saudi-national-bank-snb-4474686597"
     },
     {
@@ -3535,7 +3433,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/information-technology-risk-manager-at-the-saudi-national-bank-snb-4465711157"
     },
     {
@@ -3552,7 +3450,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/business-analysis-manager-business-technology-at-riyad-bank-4465546697"
     },
     {
@@ -3569,7 +3467,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/strategic-planning-manager-at-riyad-bank-4464788298"
     },
     {
@@ -3586,7 +3484,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/business-analysis-officer-at-riyad-bank-4463952681"
     },
     {
@@ -3603,7 +3501,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/bt-development-senior-specialist-at-riyad-bank-4468593673"
     },
     {
@@ -3620,7 +3518,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/customer-relationship-management-analyst-crm-at-riyad-bank-4463960650"
     },
     {
@@ -3637,7 +3535,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/sustainable-finance-senior-specialist-at-riyad-bank-4464536133"
     },
     {
@@ -3654,7 +3552,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/human-resources-services-specialist-at-confidential-government-4472523994"
     },
     {
@@ -3671,7 +3569,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/expert-certification-qualification-engineer-at-confidential-government-4476168842"
     },
     {
@@ -3688,7 +3586,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-technical-project-manager-at-confidential-government-4469591301"
     },
     {
@@ -3705,7 +3603,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/shared-services-excellence-manager-at-confidential-semi-government-4470899640"
     },
     {
@@ -3722,7 +3620,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-geographic-information-system-specialist-at-confidential-government-4471454228"
     },
     {
@@ -3739,7 +3637,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/vice-president-operations-at-confidential-government-4466265767"
     },
     {
@@ -3756,7 +3654,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-compliance-specialist-at-confidential-government-4467390379"
     },
     {
@@ -3773,7 +3671,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/vice-president-of-digital-marketing-%E2%80%93-real-estate-at-confidential-government-4474076036"
     },
     {
@@ -3790,7 +3688,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/structural-engineer-at-confidential-government-4473759654"
     },
     {
@@ -3807,7 +3705,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/swimming-pool-technician-at-aqua-tots-saudi-arabia-4473631900"
     },
     {
@@ -3824,7 +3722,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/procurement-assistant-manager-at-saudi-automobile-motorcycle-federation-4473607760"
     },
     {
@@ -3841,42 +3739,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/firefighting-supervisor-at-zakat-tax-and-customs-authority-4473497276"
-    },
-    {
-      "id": "5f0d2bed9edf",
-      "src": "linkedin",
-      "t": "Sr. Analyst - RM Optimization RFS",
-      "co": "Saudia Cargo",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/sr-analyst-rm-optimization-rfs-at-saudia-cargo-4472916562"
-    },
-    {
-      "id": "ffd90d4f8ba1",
-      "src": "linkedin",
-      "t": "Senior Manager, Bidding Committee Affairs (1325)",
-      "co": "Team Saudi",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/senior-manager-bidding-committee-affairs-1325-at-team-saudi-4474691035"
     },
     {
       "id": "6da7b888cd62",
@@ -3892,7 +3756,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/manager-program-development-and-accreditation-1251-at-team-saudi-4472564111"
     },
     {
@@ -3909,7 +3773,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-manager-digital-change-management-1299-at-team-saudi-4466835718"
     },
     {
@@ -3926,7 +3790,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-payroll-specialist-at-al-qadsiah-saudi-club-%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-4467716271"
     },
     {
@@ -3943,7 +3807,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/future-opportunity-qhsse-manager-taif-at-saudi-entertainment-ventures-seven-4471294579"
     },
     {
@@ -3960,7 +3824,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/sustainability-manager-at-saudi-air-navigation-services-4466184340"
     },
     {
@@ -3977,8 +3841,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/future-opportunities-technical-manager-taif-jazan-at-saudi-entertainment-ventures-seven-4473246636"
+    },
+    {
+      "id": "2804be6da010",
+      "src": "linkedin",
+      "t": "Future Career Opportunity - Attraction Manager - Taif",
+      "co": "Saudi Entertainment Ventures | SEVEN",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/future-career-opportunity-attraction-manager-taif-at-saudi-entertainment-ventures-seven-4474186414"
     },
     {
       "id": "9741ac4a5127",
@@ -3994,7 +3875,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/avionics-technician-at-alsalam-aerospace-industries-4476575282"
     },
     {
@@ -4011,7 +3892,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/gse-technician-at-alsalam-aerospace-industries-4476575736"
     },
     {
@@ -4028,7 +3909,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/fabrications-supervisor-at-alsalam-aerospace-industries-4471702628"
     },
     {
@@ -4045,7 +3926,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/aviation-life-support-equipment-alse-technician-at-alsalam-aerospace-industries-4476572919"
     },
     {
@@ -4062,7 +3943,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/ground-support-equipment-instructor-at-alsalam-aerospace-industries-4476570725"
     },
     {
@@ -4079,7 +3960,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/airframe-and-powerplant-mechanic-at-alsalam-aerospace-industries-4476568567"
     },
     {
@@ -4096,7 +3977,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/engineering-apprentice-for-system-engineering-at-airbus-defence-and-space-4465939394"
     },
     {
@@ -4113,7 +3994,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/fabrications-technician-at-alsalam-aerospace-industries-4471279980"
     },
     {
@@ -4130,7 +4011,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/tactical-flight-officer-tfo-instructor-at-alsalam-aerospace-industries-4476578378"
     },
     {
@@ -4147,7 +4028,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/rescue-instructor-at-alsalam-aerospace-industries-4476569543"
     },
     {
@@ -4164,7 +4045,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/air-traffic-controller-at-alsalam-aerospace-industries-4476574443"
     },
     {
@@ -4181,7 +4062,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/future-career-opportunities-hrbp-manager-taif-at-saudi-entertainment-ventures-seven-4472724236"
     },
     {
@@ -4198,7 +4079,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/future-opportunity-qhsse-manager-jazan-at-saudi-entertainment-ventures-seven-4471702465"
     },
     {
@@ -4215,7 +4096,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/future-opportunity-finance-manager-taif-at-saudi-entertainment-ventures-seven-4472141842"
     },
     {
@@ -4232,25 +4113,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/future-opportunity-finance-manager-jazan-at-saudi-entertainment-ventures-seven-4472140799"
-    },
-    {
-      "id": "2804be6da010",
-      "src": "linkedin",
-      "t": "Future Career Opportunity - Attraction Manager - Taif",
-      "co": "Saudi Entertainment Ventures | SEVEN",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/future-career-opportunity-attraction-manager-taif-at-saudi-entertainment-ventures-seven-4474186414"
     },
     {
       "id": "a53b0fa21b21",
@@ -4266,7 +4130,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/future-career-opportunity-attraction-manager-jazan-at-saudi-entertainment-ventures-seven-4474181650"
     },
     {
@@ -4283,7 +4147,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/compliance-aml-officer-at-northern-trust-4465240380"
     },
     {
@@ -4300,7 +4164,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/investigative-analyst-background-screening-at-corporate-research-and-investigations-4476193965"
     },
     {
@@ -4317,25 +4181,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/vice-president-%E2%80%93-project-development-at-foreground-4475123072"
-    },
-    {
-      "id": "1327f94e7bf3",
-      "src": "linkedin",
-      "t": "Facility Maintenance Engineer",
-      "co": "Red Sea Gateway Terminal",
-      "cy": "Jeddah",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/facility-maintenance-engineer-at-red-sea-gateway-terminal-4475444318"
     },
     {
       "id": "3a780e81e24a",
@@ -4351,8 +4198,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/information-security-manager-at-%D8%B4%D8%B1%D9%83%D8%A9-%D9%88%D8%B3%D8%B7-%D8%AC%D8%AF%D8%A9-%D9%84%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-jeddah-central-development-company-4475937460"
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/information-security-manager-at-%D8%B4%D8%B1%D9%83%D8%A9-%D9%88%D8%B3%D8%B7-%D8%AC%D8%AF%D8%A9-%D9%84%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-jeddah-central-development-company-4477188566"
+    },
+    {
+      "id": "1327f94e7bf3",
+      "src": "linkedin",
+      "t": "Facility Maintenance Engineer",
+      "co": "Red Sea Gateway Terminal",
+      "cy": "Jeddah",
+      "ct": "SA",
+      "ca": "Technology & Product",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/facility-maintenance-engineer-at-red-sea-gateway-terminal-4475444318"
     },
     {
       "id": "a22d004fa503",
@@ -4368,7 +4232,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/cyber-defense-officer-at-national-medical-care-4464704555"
     },
     {
@@ -4385,7 +4249,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/hr-senior-officer-at-napco-national-4468636458"
     },
     {
@@ -4402,7 +4266,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/talent-acquisition-opportunities-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4457493683"
     },
     {
@@ -4419,7 +4283,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/flight-crew-planning-specialist-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4393477821"
     },
     {
@@ -4436,7 +4300,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/technician-i-structures-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4407352178"
     },
     {
@@ -4453,7 +4317,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/aircraft-technicians-recruitment-event-riyadh-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4464569440"
     },
     {
@@ -4470,7 +4334,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/aircraft-engineers-recruitment-event-riyadh-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4464571407"
     },
     {
@@ -4487,7 +4351,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/officer-onboarding-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4472897199"
     },
     {
@@ -4504,7 +4368,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/crew-duty-controller-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4448986622"
     },
     {
@@ -4521,7 +4385,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/tool-stores-coordinator-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4423232354"
     },
     {
@@ -4538,7 +4402,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/aircraft-maintenance-technician-airframe-powerplant-b1-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4446758024"
     },
     {
@@ -4555,7 +4419,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/operator-gse-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4423221449"
     },
     {
@@ -4572,7 +4436,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/engineer-i-cabin-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4409725460"
     },
     {
@@ -4589,7 +4453,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/airport-manager-%E2%80%93-north-america-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4442619341"
     },
     {
@@ -4606,7 +4470,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/manager-%E2%80%93-technical-safety-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4473742818"
     },
     {
@@ -4623,7 +4487,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/manager-crew-operations-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4372842403"
     },
     {
@@ -4640,7 +4504,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-manager-corporate-treasury-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4467572389"
     },
     {
@@ -4657,7 +4521,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/cabin-crew-recruitment-drive-in-dammam-ksa-at-air-arabia-4430729520"
     },
     {
@@ -4674,7 +4538,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/airframe-powerplant-engineer-b1-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4330041173"
     },
     {
@@ -4691,7 +4555,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/operations-support-specialist-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4466559250"
     },
     {
@@ -4708,7 +4572,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/aircraft-maintenance-technician-avionics-b2-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4446739999"
     },
     {
@@ -4725,7 +4589,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/avionics-engineer-b2-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4329639310"
     },
     {
@@ -4742,7 +4606,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/cabin-crew-trainer-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4440681763"
     },
     {
@@ -4759,7 +4623,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-officer-government-sales-at-riyadh-air-%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-4465795310"
     },
     {
@@ -4776,8 +4640,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-specialist-collision-repair-at-ceer-4475398793"
+    },
+    {
+      "id": "ceb661451b74",
+      "src": "linkedin",
+      "t": "Associate Engineer, Electrical Powertrain Center",
+      "co": "CEER",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Technology & Product",
+      "tg": [],
+      "sg": [],
+      "sn": "junior",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/associate-engineer-electrical-powertrain-center-at-ceer-4477440766"
     },
     {
       "id": "a725925d0110",
@@ -4793,7 +4674,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-specialist-after-sales-training-at-ceer-4411618372"
     },
     {
@@ -4810,8 +4691,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/storekeeper-parts-warehouse-at-ceer-4461033111"
+    },
+    {
+      "id": "1f29f12ad2b8",
+      "src": "linkedin",
+      "t": "Assistant Manager, Parts Operations",
+      "co": "CEER",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Operations & Execution",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/assistant-manager-parts-operations-at-ceer-4477494993"
     },
     {
       "id": "0307c8a705fd",
@@ -4827,7 +4725,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/parts-advisor-at-ceer-4476963488"
     },
     {
@@ -4844,7 +4742,7 @@
       "sc": 0.55,
       "sm": "New Murabba (المربع الجديد). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://www.linkedin.com/company/newmurabba/jobs/"
     },
     {
@@ -4861,42 +4759,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/system-engineer-at-adb-safegate-4472713805"
     },
     {
-      "id": "2d2cddceb084",
+      "id": "bdbd601622d2",
       "src": "linkedin",
-      "t": "Operations Maintenance Manager",
-      "co": "Natural Gas Distribution Company (NGDC)",
-      "cy": "Riyadh",
+      "t": "Accounting and Annual Tax Manager",
+      "co": "Red Sea Gateway Terminal",
+      "cy": "Jeddah",
       "ct": "SA",
-      "ca": "Operations & Execution",
+      "ca": "Finance & Investment",
       "tg": [],
       "sg": [],
       "sn": "senior",
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/operations-maintenance-manager-at-natural-gas-distribution-company-ngdc-4474041677"
-    },
-    {
-      "id": "a755c681a361",
-      "src": "linkedin",
-      "t": "Operations and Maintenance Engineer",
-      "co": "Natural Gas Distribution Company (NGDC)",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/operations-and-maintenance-engineer-at-natural-gas-distribution-company-ngdc-4476592227"
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/accounting-and-annual-tax-manager-at-red-sea-gateway-terminal-4473740406"
     },
     {
       "id": "c5df0fb0d532",
@@ -4912,7 +4793,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/sr-expert-ai-data-science-at-sehati-for-information-technology-services-llc-4467341028"
     },
     {
@@ -4929,7 +4810,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/principal-technical-deployment-strategist-arabic-speaking-at-salesforce-4435858669"
     },
     {
@@ -4946,7 +4827,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/qa-specialist-at-naphora-games-group-4475544652"
     },
     {
@@ -4963,7 +4844,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/player-experience-specialist-at-naphora-games-group-4475196891"
     },
     {
@@ -4980,25 +4861,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/spa-operation-manager-4473134282"
-    },
-    {
-      "id": "60204b4dafe1",
-      "src": "linkedin",
-      "t": "أخصائي مبيعات عقارية - حائل",
-      "co": "Alalameya Real Estate Development Company",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/%D8%A3%D8%AE%D8%B5%D8%A7%D8%A6%D9%8A-%D9%85%D8%A8%D9%8A%D8%B9%D8%A7%D8%AA-%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AD%D8%A7%D8%A6%D9%84-at-alalameya-real-estate-development-company-4473636152"
     },
     {
       "id": "038cb2c58ae8",
@@ -5014,7 +4878,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-specialist-communication-marketing-at-ashraq-development-company-4468539728"
     },
     {
@@ -5031,7 +4895,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/manager-finance-accounting-at-unified-real-estate-development-company-4465477571"
     },
     {
@@ -5048,7 +4912,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/procurement-supervisor-%E2%80%93-construction-sector-at-al-rugaib-holding-company-4470800390"
     },
     {
@@ -5065,8 +4929,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/protocols-management-manager-at-%D8%B4%D8%B1%D9%83%D8%A9-%D9%88%D8%B3%D8%B7-%D8%AC%D8%AF%D8%A9-%D9%84%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-jeddah-central-development-company-4477171534"
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/protocols-management-manager-at-%D8%B4%D8%B1%D9%83%D8%A9-%D9%88%D8%B3%D8%B7-%D8%AC%D8%AF%D8%A9-%D9%84%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-jeddah-central-development-company-4477196387"
     },
     {
       "id": "cb26e51832e1",
@@ -5082,7 +4946,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/cable-design-engineer-at-jeddah-cables-company-4473645436"
     },
     {
@@ -5099,7 +4963,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/%D8%A3%D8%AE%D8%B5%D8%A7%D8%A6%D9%8A-%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84%D9%8A-at-jubail-and-yanbu-industrial-cities-services-company-jabeen-4464525557"
     },
     {
@@ -5116,7 +4980,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/operations-center-operator-at-%D8%B4%D8%B1%D9%83%D8%A9-%D9%86%D9%82%D9%84-%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87-water-transmission-company-4474920282"
     },
     {
@@ -5133,7 +4997,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/quality-assurance-quality-control-engineer-at-national-contracting-company-4475434767"
     },
     {
@@ -5150,7 +5014,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/market-researcher-at-reef-group-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%B1%D9%8A%D9%81-4469590211"
     },
     {
@@ -5167,7 +5031,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/sales-associate-villeroy-boch-saudi-national-at-sara-group-4471278292"
     },
     {
@@ -5184,7 +5048,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/social-media-supervisor-at-reef-group-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%B1%D9%8A%D9%81-4469594290"
     },
     {
@@ -5201,7 +5065,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/procurement-analytics-reporting-supervisor-at-king-fahd-university-of-petroleum-minerals-kfupm-4475550927"
     },
     {
@@ -5218,7 +5082,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/oncology-nurse-at-king-faisal-specialist-hospital-and-research-center-4474147906"
     },
     {
@@ -5235,7 +5099,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/consultant-family-medicine-at-king-faisal-specialist-hospital-and-research-center-4472738156"
     },
     {
@@ -5252,7 +5116,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/assistant-manager-digital-forensics-and-incident-response-at-red-sea-global-4466269488"
     },
     {
@@ -5269,76 +5133,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/manager-technology-planning-at-red-sea-global-4467326637"
-    },
-    {
-      "id": "1b05e01bc7c9",
-      "src": "linkedin",
-      "t": "Assistant Manager - Warehouse",
-      "co": "Red Sea Global",
-      "cy": "Tabuk",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/assistant-manager-warehouse-at-red-sea-global-4473465984"
-    },
-    {
-      "id": "0adba7359e17",
-      "src": "linkedin",
-      "t": "Retail Supervisor",
-      "co": "Red Sea Global Hospitality",
-      "cy": "Tabuk",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/retail-supervisor-at-red-sea-global-hospitality-4466185968"
-    },
-    {
-      "id": "8ff842ee0ade",
-      "src": "linkedin",
-      "t": "Specialist – Logistics",
-      "co": "Red Sea Global",
-      "cy": "Tabuk",
-      "ct": "SA",
-      "ca": "Operations & Execution",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/specialist-%E2%80%93-logistics-at-red-sea-global-4462598201"
-    },
-    {
-      "id": "4d8a4000d7cb",
-      "src": "linkedin",
-      "t": "Senior Specialist - Transportation and Distribution",
-      "co": "Red Sea Global",
-      "cy": "Tabuk",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/senior-specialist-transportation-and-distribution-at-red-sea-global-4470857361"
     },
     {
       "id": "98574a130f5d",
@@ -5354,13 +5150,13 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/assistant-manager-standards-enablement-at-red-sea-global-4463482327"
     },
     {
-      "id": "945677df5605",
+      "id": "4d8a4000d7cb",
       "src": "linkedin",
-      "t": "Plant Nursery Biosecurity & Plant Health Manager",
+      "t": "Senior Specialist - Transportation and Distribution",
       "co": "Red Sea Global",
       "cy": "Tabuk",
       "ct": "SA",
@@ -5371,8 +5167,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/plant-nursery-biosecurity-plant-health-manager-at-red-sea-global-4465521286"
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/senior-specialist-transportation-and-distribution-at-red-sea-global-4470857361"
+    },
+    {
+      "id": "0adba7359e17",
+      "src": "linkedin",
+      "t": "Retail Supervisor",
+      "co": "Red Sea Global Hospitality",
+      "cy": "Tabuk",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/retail-supervisor-at-red-sea-global-hospitality-4466185968"
     },
     {
       "id": "92c9176e1279",
@@ -5388,14 +5201,14 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/assistant-manager-%E2%80%93-standards-enablement-at-red-sea-global-4463422704"
     },
     {
-      "id": "b6b40403b302",
+      "id": "945677df5605",
       "src": "linkedin",
-      "t": "Front Desk Manager",
-      "co": "Red Sea Global Hospitality",
+      "t": "Plant Nursery Biosecurity & Plant Health Manager",
+      "co": "Red Sea Global",
       "cy": "Tabuk",
       "ct": "SA",
       "ca": "Strategy & Consulting",
@@ -5405,42 +5218,42 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/front-desk-manager-at-red-sea-global-hospitality-4474262986"
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/plant-nursery-biosecurity-plant-health-manager-at-red-sea-global-4465521286"
     },
     {
-      "id": "c992e5a08085",
+      "id": "8ff842ee0ade",
       "src": "linkedin",
-      "t": "Specialist - Health and Safety",
+      "t": "Specialist – Logistics",
       "co": "Red Sea Global",
       "cy": "Tabuk",
       "ct": "SA",
-      "ca": "Strategy & Consulting",
+      "ca": "Operations & Execution",
       "tg": [],
       "sg": [],
       "sn": "mid",
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/specialist-health-and-safety-at-red-sea-global-4474425492"
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/specialist-%E2%80%93-logistics-at-red-sea-global-4462598201"
     },
     {
-      "id": "38aa4c885dd4",
+      "id": "1b05e01bc7c9",
       "src": "linkedin",
-      "t": "Retail Specialist",
+      "t": "Assistant Manager - Warehouse",
       "co": "Red Sea Global",
       "cy": "Tabuk",
       "ct": "SA",
       "ca": "Strategy & Consulting",
       "tg": [],
       "sg": [],
-      "sn": "mid",
+      "sn": "senior",
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/retail-specialist-at-red-sea-global-4472112872"
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/assistant-manager-warehouse-at-red-sea-global-4473465984"
     },
     {
       "id": "56f3b587ca18",
@@ -5456,8 +5269,42 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/assistant-manager-bids-proposals-at-red-sea-global-4463422974"
+    },
+    {
+      "id": "38aa4c885dd4",
+      "src": "linkedin",
+      "t": "Retail Specialist",
+      "co": "Red Sea Global",
+      "cy": "Tabuk",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/retail-specialist-at-red-sea-global-4472112872"
+    },
+    {
+      "id": "b6b40403b302",
+      "src": "linkedin",
+      "t": "Front Desk Manager",
+      "co": "Red Sea Global Hospitality",
+      "cy": "Tabuk",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/front-desk-manager-at-red-sea-global-hospitality-4474262986"
     },
     {
       "id": "58e92970b495",
@@ -5473,8 +5320,59 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/information-technology-specialist-at-red-sea-global-4472904370"
+    },
+    {
+      "id": "179fec79f6d2",
+      "src": "linkedin",
+      "t": "Supervisor - Events",
+      "co": "Red Sea Global",
+      "cy": "Tabuk",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/supervisor-events-at-red-sea-global-4456925344"
+    },
+    {
+      "id": "c992e5a08085",
+      "src": "linkedin",
+      "t": "Specialist - Health and Safety",
+      "co": "Red Sea Global",
+      "cy": "Tabuk",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/specialist-health-and-safety-at-red-sea-global-4474425492"
+    },
+    {
+      "id": "bdcc36610f7f",
+      "src": "linkedin",
+      "t": "Manager – Dive Center",
+      "co": "Red Sea Global",
+      "cy": "Tabuk",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/manager-%E2%80%93-dive-center-at-red-sea-global-4463488490"
     },
     {
       "id": "888cbbb1c5fb",
@@ -5490,48 +5388,14 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-supervisor-cost-control-at-red-sea-global-4474037211"
     },
     {
-      "id": "c9df4a6d3f9b",
+      "id": "2a7964fec09a",
       "src": "linkedin",
-      "t": "Assistant Manager – Strategic Planning",
+      "t": "Senior Manager Asset Management",
       "co": "Red Sea Global",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/assistant-manager-%E2%80%93-strategic-planning-at-red-sea-global-4463443286"
-    },
-    {
-      "id": "f4a5312a78ea",
-      "src": "linkedin",
-      "t": "Mixologist",
-      "co": "Red Sea Global Hospitality",
-      "cy": "Tabuk",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/mixologist-at-red-sea-global-hospitality-4471339784"
-    },
-    {
-      "id": "8a42312166d8",
-      "src": "linkedin",
-      "t": "Assistant Recreation Manager",
-      "co": "Red Sea Global Hospitality",
       "cy": "Tabuk",
       "ct": "SA",
       "ca": "Strategy & Consulting",
@@ -5541,8 +5405,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/assistant-recreation-manager-at-red-sea-global-hospitality-4475770373"
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/senior-manager-asset-management-at-red-sea-global-4465957751"
     },
     {
       "id": "98ea528f1c15",
@@ -5558,7 +5422,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/site-civil-engineer-saudi-riyadh-at-saudi-services-for-electro-mechanic-works-co-ssem-4476757033"
     },
     {
@@ -5575,7 +5439,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/testing-commissioning-engineer-at-saudi-services-for-electro-mechanic-works-co-ssem-4475543434"
     },
     {
@@ -5592,7 +5456,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/risk-and-business-continuity-specialist-at-saudi-services-for-electro-mechanic-works-co-ssem-4475385316"
     },
     {
@@ -5609,7 +5473,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/offshore-safety-officer-at-zamil-offshore-services-company-4469590664"
     },
     {
@@ -5626,7 +5490,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-human-resources-manager-at-sany-saudi-arabia-4472148041"
     },
     {
@@ -5643,7 +5507,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/legal-manager-at-sany-saudi-arabia-4472152040"
     },
     {
@@ -5660,7 +5524,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/training-service-engineer-at-sany-saudi-arabia-4472115385"
     },
     {
@@ -5677,7 +5541,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/operations-maintenance-manager-at-solutions-valley-by-saudi-energy-4462597966"
     },
     {
@@ -5694,7 +5558,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/secretary-at-saudi-services-for-electro-mechanic-works-co-ssem-4476165240"
     },
     {
@@ -5711,7 +5575,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/accountant-saudi-nationals-at-aljomaih-energy-and-water-company-4471873502"
     },
     {
@@ -5728,7 +5592,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/it-governance-officer-at-zamil-offshore-services-company-4467978478"
     },
     {
@@ -5745,7 +5609,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/it-network-security-officer-at-zamil-offshore-services-company-4460887582"
     },
     {
@@ -5762,7 +5626,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/government-relations-specialist-at-sany-saudi-arabia-4472143400"
     },
     {
@@ -5779,25 +5643,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/cybersecurity-grc-specialist-at-zamil-offshore-services-company-4467977516"
-    },
-    {
-      "id": "ff3dbc019a64",
-      "src": "linkedin",
-      "t": "Senior Engineer, Mechanical Planning (Spare parts)",
-      "co": "Maaden",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/senior-engineer-mechanical-planning-spare-parts-at-maaden-4462590171"
     },
     {
       "id": "b5992edaa925",
@@ -5813,7 +5660,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/manager-maintenance-ar-rjum-gold-project-at-maaden-4431481443"
     },
     {
@@ -5830,7 +5677,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/engineer-business-continuity-iii-at-maaden-4474028849"
     },
     {
@@ -5847,7 +5694,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-specialist-line-balancing-at-maaden-4458392019"
     },
     {
@@ -5864,25 +5711,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/specialist-technology-procurement-iii-at-maaden-4466861140"
-    },
-    {
-      "id": "81b5ad957a33",
-      "src": "linkedin",
-      "t": "Senior Engineer, Process (Di-Ammonium Phosphate)",
-      "co": "Maaden",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/senior-engineer-process-di-ammonium-phosphate-at-maaden-4471333778"
     },
     {
       "id": "0d6bae5d0990",
@@ -5898,7 +5728,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-engineer-automation-digitalization-at-maaden-4472137624"
     },
     {
@@ -5915,25 +5745,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/superintendent-maintenance-planning-at-maaden-4471704793"
-    },
-    {
-      "id": "54a57e66325d",
-      "src": "linkedin",
-      "t": "Senior Specialist, Geology",
-      "co": "Maaden",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/senior-specialist-geology-at-maaden-4469922210"
     },
     {
       "id": "e85852bd9990",
@@ -5949,7 +5762,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/supervisor-security-at-maaden-4475444632"
     },
     {
@@ -5966,7 +5779,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-business-development-specialist-commercial-and-project-execution-at-maaden-4470806114"
     },
     {
@@ -5983,8 +5796,42 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/or-manager-operational-readiness-manager-at-maaden-4467318712"
+    },
+    {
+      "id": "ec26603e07d6",
+      "src": "linkedin",
+      "t": "Senior Business Development Specialist - JV Transaction Execution",
+      "co": "Maaden",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/senior-business-development-specialist-jv-transaction-execution-at-maaden-4470800541"
+    },
+    {
+      "id": "d4d8a5ec6e2b",
+      "src": "linkedin",
+      "t": "Digital Content Creator",
+      "co": "Mada Al Saudia for Trading & Development",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Technology & Product",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/digital-content-creator-at-mada-al-saudia-for-trading-development-4474812843"
     },
     {
       "id": "86814e7e8368",
@@ -6000,7 +5847,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/network-administrator-l3-at-mis-al-moammar-information-systems-co-4475168557"
     },
     {
@@ -6017,25 +5864,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/%D9%85%D8%AD%D8%B3%D9%86-%D8%A3%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%83%D9%88%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%A7%D8%B2%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9-%D8%A8%D8%A7%D9%84%D8%AD%D9%88%D8%B3%D8%A8%D8%A9-%D8%B9%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1-hpc-code-optimizer-at-mis-al-moammar-information-systems-co-4471084659"
-    },
-    {
-      "id": "6e3f177f744e",
-      "src": "linkedin",
-      "t": "Data Analyst Engineer Saudi National",
-      "co": "Nexttec Technology Outsourcing",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Technology & Product",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/data-analyst-engineer-saudi-national-at-nexttec-technology-outsourcing-4463559133"
     },
     {
       "id": "05afd23eb1c0",
@@ -6051,7 +5881,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/cost-control-engineer-at-mohammad-al-habib-real-estate-co-%D8%B4%D8%B1%D9%83%D8%A9-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%AD%D8%A8%D9%8A%D8%A8-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-4472170958"
     },
     {
@@ -6068,7 +5898,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/marketing-specialist-at-aqarat-real-estate-development-company-%D8%B4%D8%B1%D9%83%D8%A9-%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-4474135061"
     },
     {
@@ -6085,7 +5915,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/pmo-engineer-at-mohammad-al-habib-real-estate-co-%D8%B4%D8%B1%D9%83%D8%A9-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%AD%D8%A8%D9%8A%D8%A8-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-4467399550"
     },
     {
@@ -6102,7 +5932,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/development-manager-at-tilal-real-estate-4475445338"
     },
     {
@@ -6119,7 +5949,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/pricing-analyst-at-aqarat-real-estate-development-company-%D8%B4%D8%B1%D9%83%D8%A9-%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-4473224095"
     },
     {
@@ -6136,7 +5966,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/pmo-specialist-at-asas-for-developing-operating-industrial-cities-4472443684"
     },
     {
@@ -6153,7 +5983,7 @@
       "sc": 0.55,
       "sm": "Ministry of Municipal and Rural Affairs and Housing (وزارة الشؤون البلدية والقروية والإسكان). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://www.linkedin.com/company/momrah-sa/jobs/"
     },
     {
@@ -6170,7 +6000,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-or-principal-transportation-planner-at-american-planning-association-massachusetts-chapter-4469604879"
     },
     {
@@ -6187,7 +6017,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/cafm-planner-at-el-seif-operation-and-maintenance-4476545780"
     },
     {
@@ -6204,7 +6034,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/transportation-planner-at-american-planning-association-massachusetts-chapter-4469727504"
     },
     {
@@ -6221,7 +6051,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/infection-control-specialist-at-national-medical-care-4464712881"
     },
     {
@@ -6238,7 +6068,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/cardiovascular-technician-at-national-medical-care-4466252796"
     },
     {
@@ -6255,7 +6085,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/cssd-supervisor-at-national-medical-care-4473477472"
     },
     {
@@ -6272,7 +6102,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/service-desk-specialist-at-tata-communications-transformation-services-tcts-4468612479"
     },
     {
@@ -6289,7 +6119,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/staff-nurse-radiology-at-national-medical-care-4467315792"
     },
     {
@@ -6306,7 +6136,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/maintenance-technician-at-napco-national-4469887655"
     },
     {
@@ -6323,7 +6153,7 @@
       "sc": 0.55,
       "sm": "Heritage Commission (هيئة التراث). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://www.linkedin.com/company/heritage-commission-sa/jobs/"
     },
     {
@@ -6340,25 +6170,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/clinical-perfusionist-at-king-faisal-specialist-hospital-and-research-center-4469802419"
     },
     {
-      "id": "9b472b29efcd",
+      "id": "42c14f89169f",
       "src": "linkedin",
-      "t": "مهندس كهربائي حديث تخرج ( رماح )",
-      "co": "Raissy Trading and Contracting Company Ltd.",
+      "t": "Expression of Interest Manager, Business Development and Technical Support, Americas and Caribbean Region",
+      "co": "Cayman Islands Shipping Registry",
       "cy": "Riyadh",
       "ct": "SA",
       "ca": "Strategy & Consulting",
       "tg": [],
       "sg": [],
-      "sn": "mid",
+      "sn": "senior",
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%AA%D8%AE%D8%B1%D8%AC-%D8%B1%D9%85%D8%A7%D8%AD-at-raissy-trading-and-contracting-company-ltd-4477129329"
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/expression-of-interest-manager-business-development-and-technical-support-americas-and-caribbean-region-at-cayman-islands-shipping-registry-4466044777"
     },
     {
       "id": "3ab79200dff4",
@@ -6374,7 +6204,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/technical-graduates-%E2%80%93-local-talent-pool-at-gold-and-minerals-ltd-4475186928"
     },
     {
@@ -6391,7 +6221,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/advanced-process-control-apc-engineer-at-andritz-4467269504"
     },
     {
@@ -6408,8 +6238,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/%D8%A3%D8%AE%D8%B5%D8%A7%D8%A6%D9%8A-%D8%B1%D9%88%D8%A7%D8%AA%D8%A8-%D9%88%D8%AA%D8%B9%D9%88%D9%8A%D8%B6%D8%A7%D8%AA-at-jubail-and-yanbu-industrial-cities-services-company-jabeen-4468491823"
+    },
+    {
+      "id": "00a6e00ca7ed",
+      "src": "linkedin",
+      "t": "Offshore Support Manager",
+      "co": "NMDC Energy",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/offshore-support-manager-at-nmdc-energy-4474821334"
     },
     {
       "id": "e4ac31ea4d5a",
@@ -6425,7 +6272,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/offshore-construction-manager-at-nmdc-energy-4475934796"
     },
     {
@@ -6442,7 +6289,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/sr-offshore-construction-manager-at-nmdc-energy-4475798865"
     },
     {
@@ -6459,7 +6306,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-offshore-construction-engineer-at-nmdc-energy-4475958131"
     },
     {
@@ -6476,7 +6323,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/human-resources-business-partner-at-alkhorayef-energy-system-aes-4467608853"
     },
     {
@@ -6493,7 +6340,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-operations-engineer-at-nmdc-energy-4474818333"
     },
     {
@@ -6510,7 +6357,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-sales-engineer-at-olayan-energy-ltd-4471760245"
     },
     {
@@ -6527,7 +6374,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/junior-scout-north-africa-at-al-qadsiah-saudi-club-%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-4463496033"
     },
     {
@@ -6544,7 +6391,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/personal-assistant-to-the-general-manager-at-four-seasons-hotels-resorts-saudi-arabia-4430700662"
     },
     {
@@ -6561,7 +6408,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/executive-secretary-%E2%80%93-vice-president-of-shared-services-at-asas-for-developing-operating-industrial-cities-4475597599"
     },
     {
@@ -6578,7 +6425,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/product-manager-at-saudi-azm-%D8%B9%D8%B2%D9%85-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-4477167250"
     },
     {
@@ -6595,7 +6442,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/asset-predictive-analytics-engineer-at-tecnicas-reunidas-saudi-arabia-4476582797"
     },
     {
@@ -6612,7 +6459,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/qhse-officer-at-el-seif-operation-and-maintenance-4474187031"
     },
     {
@@ -6629,7 +6476,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/stock-maintenance-technicians-pdi-technicians-at-rassco-ras-saudi-group-4476998991"
     },
     {
@@ -6646,7 +6493,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-organization-development-specialist-at-albaik-food-systems-co-4472307250"
     },
     {
@@ -6663,7 +6510,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/production-manager-at-saudia-dairy-foodstuff-company-sadafco-4474458005"
     },
     {
@@ -6680,7 +6527,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/legal-compliance-counsel-gcc-at-sandoz-4393514514"
     },
     {
@@ -6697,7 +6544,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/%D9%81%D9%86%D9%8A-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-at-%D9%85%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A%D8%A9-food-industries-polytechnic-4442063473"
     },
     {
@@ -6714,7 +6561,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/quality-inspector-qc-at-nadec-foods-4471279904"
     },
     {
@@ -6731,7 +6578,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/hr-senior-specialist-employee-relation-central-1-at-panda-retail-company-%E2%80%93-savola-group-4466921277"
     },
     {
@@ -6748,7 +6595,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/anti-money-laundering-officer-at-foodics-4476748920"
     },
     {
@@ -6765,7 +6612,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/executive-assistant-at-wisayah-investment-company-4476194986"
     },
     {
@@ -6782,7 +6629,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/institutional-client-service-relationship-manager-at-fisher-investments-4418859487"
     },
     {
@@ -6799,7 +6646,7 @@
       "sc": 0.55,
       "sm": "Ministry of Commerce (وزارة التجارة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://www.linkedin.com/company/ministry-of-commerce-saudiarabia/jobs/"
     },
     {
@@ -6816,7 +6663,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/executive-assistant-at-university-of-prince-mugrin-4469005173"
     },
     {
@@ -6833,7 +6680,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/faculty-accounting-finance-at-university-of-prince-mugrin-4471914077"
     },
     {
@@ -6850,7 +6697,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/legal-consultant-at-university-of-prince-mugrin-4468723092"
     },
     {
@@ -6867,7 +6714,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/vice-provost-of-academic-excellence-at-riyadh-university-of-arts-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D9%84%D9%84%D9%81%D9%86%D9%88%D9%86-4473639032"
     },
     {
@@ -6884,7 +6731,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/coordinator-at-prince-sultan-university-4474209183"
     },
     {
@@ -6901,7 +6748,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/supplemental-workforce-management-specialist-at-islamic-development-bank-isdb-4468252094"
     },
     {
@@ -6918,7 +6765,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-partnerships-specialist-at-islamic-development-bank-isdb-4471296654"
     },
     {
@@ -6935,7 +6782,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-internal-auditor-at-islamic-development-bank-isdb-4468551904"
     },
     {
@@ -6952,7 +6799,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/freelance-pr-specialist-at-university-of-the-people-4476150330"
     },
     {
@@ -6969,7 +6816,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/erm-specialist-at-king-fahd-university-of-petroleum-minerals-kfupm-4475549830"
     },
     {
@@ -6986,25 +6833,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/data-monitoring-analyst-at-ntu-international-a-s-4471493437"
-    },
-    {
-      "id": "4791b7418a93",
-      "src": "linkedin",
-      "t": "Mentorship Manager",
-      "co": "Noon - Education for Everyone",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/mentorship-manager-at-noon-education-for-everyone-4463537286"
     },
     {
       "id": "56f03c87e02a",
@@ -7020,7 +6850,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/monitoring-evaluation-expert-at-ntu-international-a-s-4470916836"
     },
     {
@@ -7037,7 +6867,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/sr-specialist-corporate-planning-and-excellence-at-sehati-for-information-technology-services-llc-4472924043"
     },
     {
@@ -7054,7 +6884,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-calibration-engineer-at-arab-center-for-engineering-studies-4472443381"
     },
     {
@@ -7071,7 +6901,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/financial-control-senior-manager-at-cenomi-centers-4476707595"
     },
     {
@@ -7088,7 +6918,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-manager-%E2%80%93-asset-management-at-cenomi-centers-4475376151"
     },
     {
@@ -7105,8 +6935,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/assistant-consultant-pediatric-hematology-oncology-stem-cell-transplantation-cellular-therapy-at-king-faisal-specialist-hospital-and-research-center-4467071015"
+    },
+    {
+      "id": "409a2fd13156",
+      "src": "linkedin",
+      "t": "Medical and Clinical Affairs Quality Specialist",
+      "co": "King Faisal Specialist Hospital and Research Center",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/medical-and-clinical-affairs-quality-specialist-at-king-faisal-specialist-hospital-and-research-center-4474116639"
     },
     {
       "id": "b311643ffc93",
@@ -7122,7 +6969,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/first-team-sports-scientist-at-al-qadsiah-saudi-club-%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-4459921861"
     },
     {
@@ -7139,42 +6986,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/loans-and-market-intelligence-manager-at-al-qadsiah-saudi-club-%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-4465974501"
-    },
-    {
-      "id": "409a2fd13156",
-      "src": "linkedin",
-      "t": "Medical and Clinical Affairs Quality Specialist",
-      "co": "King Faisal Specialist Hospital and Research Center",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/medical-and-clinical-affairs-quality-specialist-at-king-faisal-specialist-hospital-and-research-center-4474116639"
-    },
-    {
-      "id": "18a5f6fbdee4",
-      "src": "linkedin",
-      "t": "Consultant, Breast Cancer",
-      "co": "King Faisal Specialist Hospital and Research Center",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/consultant-breast-cancer-at-king-faisal-specialist-hospital-and-research-center-4464615189"
     },
     {
       "id": "db974d8abbca",
@@ -7190,7 +7003,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/treasury-and-cash-analyst-at-jigpc-jazan-integrated-gasification-and-power-company-4472300442"
     },
     {
@@ -7207,7 +7020,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/health-and-safety-officer-at-maarif-education-4467393294"
     },
     {
@@ -7224,7 +7037,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/chemistry-teacher-at-maarif-education-4470830758"
     },
     {
@@ -7241,7 +7054,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/mathematics-teacher-at-maarif-education-4473468906"
     },
     {
@@ -7258,42 +7071,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/arabic-teacher-at-maarif-education-4471734404"
-    },
-    {
-      "id": "89ead458eb63",
-      "src": "linkedin",
-      "t": "معلمة تربية اسلامية",
-      "co": "Waad Education Company",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/%D9%85%D8%B9%D9%84%D9%85%D8%A9-%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-at-waad-education-company-4465010510"
-    },
-    {
-      "id": "730d03390f65",
-      "src": "linkedin",
-      "t": "ICT Teacher",
-      "co": "Waad Education Company",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/ict-teacher-at-waad-education-company-4465027843"
     },
     {
       "id": "04d856c2a357",
@@ -7309,7 +7088,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/temporary-teacher-eastern-fleurieu-r-12-school-strathalbyn-7-12-campus-music-plus-another-subject-at-department-for-education-south-australia-4468298332"
     },
     {
@@ -7326,7 +7105,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/document-controller-at-national-contracting-company-4475441367"
     },
     {
@@ -7343,7 +7122,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/internal-quality-specialist-at-link-datacenter-4472532714"
     },
     {
@@ -7360,7 +7139,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/training-senior-officer-at-napco-national-4473509970"
     },
     {
@@ -7377,7 +7156,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/document-control-specialist-at-hill-international-inc-4472317856"
     },
     {
@@ -7394,7 +7173,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/document-controller-r-at-applus%2B-asia-middle-east-and-africa-4467623045"
     },
     {
@@ -7411,7 +7190,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/administrative-assistant-secretary-tamheer-at-center-for-national-health-insurance-cnhi-4466246840"
     },
     {
@@ -7428,7 +7207,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-patient-acceptance-interviewer-at-king-faisal-specialist-hospital-and-research-center-4469596726"
     },
     {
@@ -7445,7 +7224,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/associate-at-tony-blair-institute-for-global-change-4454648714"
     },
     {
@@ -7462,7 +7241,7 @@
       "sc": 0.55,
       "sm": "Ministry of Culture (وزارة الثقافة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://www.linkedin.com/company/ministry-of-culture-sa/jobs/"
     },
     {
@@ -7479,7 +7258,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/hr-operations-specialist-at-meem-co-for-hotel-management-and-operation-4474020995"
     },
     {
@@ -7496,7 +7275,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/executive-assistant-at-mohammed-aldhabaan-partners-eversheds-sutherland-4474080559"
     },
     {
@@ -7513,7 +7292,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/administrative-support-saudi-national-at-wsp-in-the-middle-east-4450453819"
     },
     {
@@ -7530,7 +7309,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/purchasing-clerk-saudi-only-at-courtyard-by-marriott-4467548963"
     },
     {
@@ -7547,7 +7326,7 @@
       "sc": 0.55,
       "sm": "Shura Council (مجلس الشورى). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://www.linkedin.com/company/shura-council-sa/jobs/"
     },
     {
@@ -7564,7 +7343,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/officer-programs-at-olayan-saudi-holding-company-4469713246"
     },
     {
@@ -7581,7 +7360,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/internship-business-continuity-at-golf-saudi-4467323678"
     },
     {
@@ -7598,7 +7377,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/internship-graphic-design-at-golf-saudi-4467312913"
     },
     {
@@ -7615,7 +7394,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/internship-human-capital-at-golf-saudi-4470853800"
     },
     {
@@ -7632,7 +7411,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/manager-diversity-at-olayan-saudi-holding-company-4449855633"
     },
     {
@@ -7649,25 +7428,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-climate-change-specialist-at-islamic-development-bank-isdb-4474331426"
     },
     {
-      "id": "2c1d328e282b",
+      "id": "6dccb990d1cb",
       "src": "linkedin",
-      "t": "Executive, Government Relation",
-      "co": "PACC Offshore Services Holdings Ltd",
-      "cy": "Riyadh",
+      "t": "Area Manager",
+      "co": "Nalco Water, An Ecolab Company",
+      "cy": "Dammam",
       "ct": "SA",
       "ca": "Strategy & Consulting",
       "tg": [],
       "sg": [],
-      "sn": "mid",
+      "sn": "senior",
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/executive-government-relation-at-pacc-offshore-services-holdings-ltd-4467989727"
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/area-manager-at-nalco-water-an-ecolab-company-4405227000"
     },
     {
       "id": "d0de9c022ed0",
@@ -7683,7 +7462,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/privatkunden-berater-in-w-m-d-at-raiffeisenlandesbank-nieder%C3%B6sterreich-wien-ag-4390831858"
     },
     {
@@ -7700,7 +7479,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/ses-band-1-assistant-secretary-affirmative-measures-aboriginal-and-torres-strait-islander-at-department-of-employment-and-workplace-relations-4474355693"
     },
     {
@@ -7717,25 +7496,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/ses-band-2-first-assistant-secretary-affirmative-measures-aboriginal-and-torres-strait-islander-at-department-of-employment-and-workplace-relations-4474356601"
-    },
-    {
-      "id": "7d18a7a04631",
-      "src": "linkedin",
-      "t": "Executive Operations Coordinator",
-      "co": "ESM - Events and Sports Management",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Operations & Execution",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/executive-operations-coordinator-at-esm-events-and-sports-management-4463500592"
     },
     {
       "id": "552a9809a63d",
@@ -7751,7 +7513,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/ballet-coach-at-sportplex-saudi-arabia-4475418723"
     },
     {
@@ -7768,7 +7530,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-manager-infrastructure-and-it-operations-at-kun-sports-4476170839"
     },
     {
@@ -7785,7 +7547,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/digital-marketing-at-sportplex-saudi-arabia-4474250648"
     },
     {
@@ -7802,7 +7564,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-enterprise-resources-planning-consultant-at-kun-sports-4476176540"
     },
     {
@@ -7819,7 +7581,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/aquatic-wellness-systems-engineer-at-armah-sports-company-4474050594"
     },
     {
@@ -7836,7 +7598,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/manager-accounting-at-esports-foundation-4471468352"
     },
     {
@@ -7853,7 +7615,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/sales-and-product-manager-at-star-sports-medicine-4467049750"
     },
     {
@@ -7870,7 +7632,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/business-development-specialist-at-picasso-school-for-art-4475403206"
     },
     {
@@ -7887,7 +7649,7 @@
       "sc": 0.55,
       "sm": "Ministry of Foreign Affairs (وزارة الخارجية). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://www.linkedin.com/company/ministry-of-foreign-affairs-saudi-arabia/jobs/"
     },
     {
@@ -7904,7 +7666,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/logistics-and-supply-chain-expert-opas-at-international-civil-aviation-organization-4472213123"
     },
     {
@@ -7921,7 +7683,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/general-practitioner-surgery-at-national-medical-care-4459935901"
     },
     {
@@ -7938,7 +7700,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/ame-customs-manager-at-guardian-industries-4449261431"
     },
     {
@@ -7955,7 +7717,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/shift-supervisor-warehouse-and-shipping-at-guardian-industries-4470410452"
     },
     {
@@ -7972,7 +7734,7 @@
       "sc": 0.55,
       "sm": "Public Prosecution (النيابة العامة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://www.linkedin.com/company/public-prosecution-sa/jobs/"
     },
     {
@@ -7989,7 +7751,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/qa-qc-engineer-only-for-fitout-interiors-immediate-joining-only-at-amaq-interiors-fitout-design-4474048678"
     },
     {
@@ -8006,25 +7768,8 @@
       "sc": 0.55,
       "sm": "Ministry of Defense (وزارة الدفاع). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://www.linkedin.com/company/ministry-of-defence-saudi-arabia/jobs/"
-    },
-    {
-      "id": "69827bb810b0",
-      "src": "linkedin",
-      "t": "Revenue & AR Accountant (Healthcare)",
-      "co": "Management Consulting Co (for a hospital in KSA)",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/revenue-ar-accountant-healthcare-4477122823"
     },
     {
       "id": "e7589d4037ab",
@@ -8040,42 +7785,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/health-informatics-specialist-at-u-s-renal-care-saudi-arabia-4465469399"
-    },
-    {
-      "id": "eeb9c0c06777",
-      "src": "linkedin",
-      "t": "Social Media Marketing Specialist",
-      "co": "Healthcare Company",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/social-media-marketing-specialist-at-healthcare-company-4476564860"
-    },
-    {
-      "id": "bd274cb18e40",
-      "src": "linkedin",
-      "t": "Phlebotomist",
-      "co": "Health",
-      "cy": "Dammam",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/phlebotomist-4476997794"
     },
     {
       "id": "c977fad2a947",
@@ -8091,7 +7802,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/hr-executive-saudi-national-at-protectol-health-4469090374"
     },
     {
@@ -8108,25 +7819,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/senior-product-specialist-at-salehiya-healthcare-4466247837"
-    },
-    {
-      "id": "8d02f8fc69b5",
-      "src": "linkedin",
-      "t": "Laboratory Technician",
-      "co": "Healthcare Company",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/laboratory-technician-at-healthcare-company-4476574442"
     },
     {
       "id": "b6cbd890a397",
@@ -8142,7 +7836,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/ophthalmic-device-sales-officer-4475373620"
     },
     {
@@ -8159,7 +7853,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/ict-field-support-officer-at-wa-country-health-service-4475520799"
     },
     {
@@ -8176,25 +7870,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/finance-manager-at-wa-country-health-service-4475528616"
     },
     {
-      "id": "3f551c7b9e8c",
+      "id": "80e38d50b843",
       "src": "linkedin",
-      "t": "Emergency Operation Center Manager",
-      "co": "Red Sea Security",
-      "cy": "Tabuk",
+      "t": "Regional Telehealth Support Officer",
+      "co": "WA Country Health Service",
+      "cy": "Riyadh",
       "ct": "SA",
       "ca": "Strategy & Consulting",
       "tg": [],
       "sg": [],
-      "sn": "senior",
+      "sn": "mid",
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/emergency-operation-center-manager-at-red-sea-security-4473754134"
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/regional-telehealth-support-officer-at-wa-country-health-service-4477630440"
     },
     {
       "id": "b03937a65bb4",
@@ -8210,8 +7904,25 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/occupational-health-nurse-at-meena-health-4476155639"
+    },
+    {
+      "id": "3f551c7b9e8c",
+      "src": "linkedin",
+      "t": "Emergency Operation Center Manager",
+      "co": "Red Sea Security",
+      "cy": "Tabuk",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/emergency-operation-center-manager-at-red-sea-security-4473754134"
     },
     {
       "id": "dfe06886d3f0",
@@ -8227,7 +7938,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/medical-record-analyst-at-magrabi-health-4477157386"
     },
     {
@@ -8244,7 +7955,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/human-resources-business-partner-at-magrabi-health-4475534732"
     },
     {
@@ -8261,7 +7972,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/admissions-officer-at-magrabi-health-4477147855"
     },
     {
@@ -8278,7 +7989,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/bsof-local-organiser-x-2-eastern-region-at-unison-torbay-health-4470956161"
     },
     {
@@ -8295,7 +8006,7 @@
       "sc": 0.55,
       "sm": "General Court of Audit (الديوان العام للمحاسبة). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://www.linkedin.com/company/gca-sa/jobs/"
     },
     {
@@ -8312,7 +8023,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/investigation-officer-at-panda-retail-company-%E2%80%93-savola-group-4465513153"
     },
     {
@@ -8329,7 +8040,7 @@
       "sc": 0.55,
       "sm": "Human Rights Commission (هيئة حقوق الإنسان). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://www.linkedin.com/company/human-rights-commission-sa/jobs/"
     },
     {
@@ -8346,7 +8057,7 @@
       "sc": 0.55,
       "sm": "Ministry of Justice (وزارة العدل). Check LinkedIn for current openings.",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://www.linkedin.com/company/moj-sa/jobs/"
     },
     {
@@ -8363,7 +8074,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/marketing-manager-at-amana-cooperative-insurance-4475384022"
     },
     {
@@ -8380,7 +8091,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/account-executive-at-amana-cooperative-insurance-4475510019"
     },
     {
@@ -8397,7 +8108,7 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/reserving-senior-specialist-reserving-actuary-at-al-etihad-cooperative-insurance-co-4476161713"
     },
     {
@@ -8414,25 +8125,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/internal-audit-senior-officer-at-salama-cooperative-insurance-co-4476727111"
-    },
-    {
-      "id": "ae769547c98f",
-      "src": "linkedin",
-      "t": "Business Process Senior Specialist",
-      "co": "Walaa Cooperative Insurance Co.",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "senior",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/business-process-senior-specialist-at-walaa-cooperative-insurance-co-4462599494"
     },
     {
       "id": "9ed3b5d3cb59",
@@ -8448,25 +8142,8 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
+      "dt": "2026-10-09",
       "u": "https://sa.linkedin.com/jobs/view/medical-claims-review-officer-at-saico-insurance-4472988447"
-    },
-    {
-      "id": "bf8871daf1ee",
-      "src": "linkedin",
-      "t": "Client Relations Officer",
-      "co": "Walaa Cooperative Insurance Co.",
-      "cy": "Riyadh",
-      "ct": "SA",
-      "ca": "Strategy & Consulting",
-      "tg": [],
-      "sg": [],
-      "sn": "mid",
-      "sc": 0.55,
-      "sm": "",
-      "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/client-relations-officer-at-walaa-cooperative-insurance-co-4463018533"
     },
     {
       "id": "713998dd5ab5",
@@ -8482,14 +8159,48 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/sales-relationship-manager-at-mutakamela-insurance-4464186136"
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/sales-relationship-manager-at-mutakamela-insurance-4466508232"
     },
     {
-      "id": "0d92afea3d1c",
+      "id": "524a028e605c",
       "src": "linkedin",
-      "t": "Lifting Equipment Inspection Engineer - LEEA & NDT",
-      "co": "Total Unified Validation (TUV) Certification | Inspection | Training",
+      "t": "Quality Auditor and Training Specialist",
+      "co": "Parsons Corporation",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Finance & Investment",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/quality-auditor-and-training-specialist-at-parsons-corporation-4470913833"
+    },
+    {
+      "id": "cfb231a0d4d1",
+      "src": "gov",
+      "t": "Open Roles at Human Resources Development Fund",
+      "co": "Human Resources Development Fund",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Finance & Investment",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "Human Resources Development Fund (صندوق تنمية الموارد البشرية). Check LinkedIn for current openings.",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://www.linkedin.com/company/hadaf-sa/jobs/"
+    },
+    {
+      "id": "7ab904a1a3e2",
+      "src": "linkedin",
+      "t": "Business Technology Developer",
+      "co": "Riyad Bank",
       "cy": "Riyadh",
       "ct": "SA",
       "ca": "Technology & Product",
@@ -8499,8 +8210,297 @@
       "sc": 0.55,
       "sm": "",
       "st": "new",
-      "dt": "2026-10-08",
-      "u": "https://sa.linkedin.com/jobs/view/lifting-equipment-inspection-engineer-leea-ndt-at-total-unified-validation-tuv-certification-inspection-training-4473663413"
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/business-technology-developer-at-riyad-bank-4465534657"
+    },
+    {
+      "id": "af901f9fa932",
+      "src": "linkedin",
+      "t": "E T Temporary - Junior Service Delivery Analyst - req38440",
+      "co": "The World Bank Group",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "junior",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/e-t-temporary-junior-service-delivery-analyst-req38440-at-the-world-bank-group-4471803627"
+    },
+    {
+      "id": "e58b67b9e315",
+      "src": "linkedin",
+      "t": "GL Quality Assistant Manager",
+      "co": "Aljazira Bank | بنك الجزيرة",
+      "cy": "Jeddah",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/gl-quality-assistant-manager-at-aljazira-bank-%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-4473611984"
+    },
+    {
+      "id": "05d37399998d",
+      "src": "linkedin",
+      "t": "Senior Officer, AML/CTF",
+      "co": "First Abu Dhabi Bank (FAB)",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/senior-officer-aml-ctf-at-first-abu-dhabi-bank-fab-4470143771"
+    },
+    {
+      "id": "2479d5d4e9f3",
+      "src": "linkedin",
+      "t": "Relationship Manager Corporate Banking",
+      "co": "بنك البلاد | Bank Albilad",
+      "cy": "Jeddah",
+      "ct": "SA",
+      "ca": "Finance & Investment",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/relationship-manager-corporate-banking-at-%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF-bank-albilad-4464730907"
+    },
+    {
+      "id": "346d122b1edf",
+      "src": "gov",
+      "t": "Open Roles at Ministry of Finance",
+      "co": "Ministry of Finance",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Finance & Investment",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "Ministry of Finance (وزارة المالية). Check LinkedIn for current openings.",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://www.linkedin.com/company/mofksa/jobs/"
+    },
+    {
+      "id": "5c5aa26f0a9b",
+      "src": "linkedin",
+      "t": "Field Service Rep",
+      "co": "Nalco Water, An Ecolab Company",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/field-service-rep-at-nalco-water-an-ecolab-company-4461770665"
+    },
+    {
+      "id": "2a37a761c9cf",
+      "src": "linkedin",
+      "t": "Field Service Representative",
+      "co": "Nalco Water, An Ecolab Company",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/field-service-representative-at-nalco-water-an-ecolab-company-4458246032"
+    },
+    {
+      "id": "1eeaf0d520e1",
+      "src": "linkedin",
+      "t": "Junior Engineer-Proposals-EPP-KSA",
+      "co": "Veolia | Water Tech",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Technology & Product",
+      "tg": [],
+      "sg": [],
+      "sn": "junior",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/junior-engineer-proposals-epp-ksa-at-veolia-water-tech-4472902839"
+    },
+    {
+      "id": "d262101568cf",
+      "src": "linkedin",
+      "t": "Account Executive - PT",
+      "co": "Nalco Water, An Ecolab Company",
+      "cy": "Dammam",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/account-executive-pt-at-nalco-water-an-ecolab-company-4456313915"
+    },
+    {
+      "id": "ed37922b19a7",
+      "src": "linkedin",
+      "t": "HSE Site Coordinator",
+      "co": "Flowserve Corporation",
+      "cy": "Dammam",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/hse-site-coordinator-at-flowserve-corporation-4475394884"
+    },
+    {
+      "id": "33d6923be574",
+      "src": "linkedin",
+      "t": "Maintenance Manager",
+      "co": "International Water Distribution Co. (Tawzea)",
+      "cy": "Tabuk",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/maintenance-manager-at-international-water-distribution-co-tawzea-4464713867"
+    },
+    {
+      "id": "277916fbbc95",
+      "src": "linkedin",
+      "t": "Sales Assistant",
+      "co": "The Lubrizol Corporation",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/sales-assistant-at-the-lubrizol-corporation-4469021031"
+    },
+    {
+      "id": "057866c0d614",
+      "src": "linkedin",
+      "t": "Water Operations Shift Engineer",
+      "co": "International Water Distribution Co. (Tawzea)",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Technology & Product",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/water-operations-shift-engineer-at-international-water-distribution-co-tawzea-4472913151"
+    },
+    {
+      "id": "b69118cabc33",
+      "src": "linkedin",
+      "t": "Software Engineer",
+      "co": "International Water Distribution Co. (Tawzea)",
+      "cy": "Jeddah",
+      "ct": "SA",
+      "ca": "Technology & Product",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/software-engineer-at-international-water-distribution-co-tawzea-4471723191"
+    },
+    {
+      "id": "408fa3feba76",
+      "src": "linkedin",
+      "t": "Technical Office Manager – Roads & Bridges projects",
+      "co": "Saudi Pan Kingdom Company - SAPAC",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Operations & Execution",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/technical-office-manager-%E2%80%93-roads-bridges-projects-at-saudi-pan-kingdom-company-sapac-4477107609"
+    },
+    {
+      "id": "82eea81ad628",
+      "src": "linkedin",
+      "t": "Quantity Surveyor MEP",
+      "co": "Saudi Pan Kingdom Company - SAPAC",
+      "cy": "Riyadh",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "mid",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/quantity-surveyor-mep-at-saudi-pan-kingdom-company-sapac-4477113340"
+    },
+    {
+      "id": "cac99abb4c82",
+      "src": "linkedin",
+      "t": "SMS Manager",
+      "co": "Tibah Airports Operation | طيبة لتشغيل المطارات",
+      "cy": "Medina",
+      "ct": "SA",
+      "ca": "Strategy & Consulting",
+      "tg": [],
+      "sg": [],
+      "sn": "senior",
+      "sc": 0.55,
+      "sm": "",
+      "st": "new",
+      "dt": "2026-10-09",
+      "u": "https://sa.linkedin.com/jobs/view/sms-manager-at-tibah-airports-operation-%D8%B7%D9%8A%D8%A8%D8%A9-%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D8%B1%D8%A7%D8%AA-4471285147"
     }
   ]
 }
